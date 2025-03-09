@@ -1,31 +1,24 @@
 {
   description = "ughhh flakes";
 
-  # test test
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-unstable";
-    home-manager.url = "github:nix-community/home-manager/master";
-    home-manager.inputs.nixpkgs.follows = "nixpkgs";
+
+    nixos-hardware.url = "github:NixOS/nixos-hardware/master";
   };
 
-  outputs = { self, nixpkgs, home-manager, ... }:
+  outputs = { self, nixpkgs, home-manager, nixos-hardware, ... }:
     let
       lib = nixpkgs.lib;
       system = "x86_64-linux";
       pkgs = import nixpkgs { inherit system; };
-    in {
-      nixosConfigurations = {
-        nixos = nixpkgs.lib.nixosSystem {
+    in {      
+      nixosConfigurations.nixos = nixpkgs.lib.nixosSystem {
           inherit system;
-          modules =  [ ./configuration.nix  ];
-        };
-      };
-
-      homeConfigurations = {
-        herbst = home-manager.lib.homeManagerConfiguration {
-          inherit pkgs;
-	  modules = [ ./home-manager/home.nix ]; # Must be located at '~/.config/home-manager/'. You can make a symlink for it.
-	};
-      };
+          modules =  [
+	    ./configuration.nix
+            nixos-hardware.nixosModules.lenovo-thinkpad-t480s
+	  ];
+        };  
     };
 }

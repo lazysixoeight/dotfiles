@@ -4,9 +4,15 @@
   home.username = "herbst";
   home.homeDirectory = "/home/herbst";
 
+  imports = [
+    ./dots/modules/hyprland.nix
+    ./dots/modules/git.nix
+    ./dots/modules/zsh.nix
+  ];
+
   # dotfiles
   home.file = {
-    ".config/qtile/config.py".source = ./dots/qtile/config.py;
+    #".config/qtile/config.py".source = ./dots/qtile/config.py;
   };
   
   
