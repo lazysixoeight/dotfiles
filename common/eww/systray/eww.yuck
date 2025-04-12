@@ -1,0 +1,8 @@
+(defwindow systray_menu
+    :monitor 0
+    :geometry (geometry :width "35px" :height "45px" :anchor "right top")
+    :stacking "fg"
+    (box :orientation "vertical" :vexpand true 
+        (systray :spacing 2 :orientation "vertical" :icon-size 28 :prepend-new true )
+    )
+)

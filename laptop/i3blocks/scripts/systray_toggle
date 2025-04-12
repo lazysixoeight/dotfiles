@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+KEY="/org/toggles/systray-toggle"
+STATE=$(dconf read "$KEY")
+
+if [[ -z $(dconf read "$KEY") ]]; then
+  dconf write "$KEY" "1"
+fi
+
+if [[ $STATE == "1" ]]; then
+  dconf write "$KEY" "0" &&
+  eww -c ~/.config/eww/systray close systray_menu | echo "[ʌ]"
+elif [[ $STATE == "0" ]] then
+  dconf write "$KEY" "1" &&
+  eww -c ~/.config/eww/systray open systray_menu | echo "[v]"
+fi
+

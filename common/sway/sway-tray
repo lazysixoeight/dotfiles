@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+if pgrep -x "$(basename "$0")" > /dev/null; then
+	exit
+fi
+
+/run/current-system/sw/bin/flameshot &
+/run/current-system/sw/bin/nm-applet

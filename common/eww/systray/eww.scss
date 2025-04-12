@@ -1,0 +1,18 @@
+$background: #282828;
+$border: #4c7899;
+
+.systray_menu,
+.sysinfo_menu {
+    font-size: 14px;
+    font-family: DejaVu Sans Mono;
+    background-color: $background;
+    border: 2px solid $border;
+}
+
+.reserve {
+    font-size: 0px;
+}
+
+.systray_menu {
+    font-size: 15px;
+}
