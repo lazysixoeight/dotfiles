@@ -1,0 +1,6 @@
+mode=drun,run
+term=foot
+allow_images=true
+hide_scroll=true
+height=40%
+width=20%
