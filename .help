@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+echo 'Its "stow -d [directory] -t ~/.config ." idiot.'

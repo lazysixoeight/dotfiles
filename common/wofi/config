@@ -1,6 +1,7 @@
 mode=drun,run
 term=foot
 allow_images=true
+image_size=26
 hide_scroll=true
 height=40%
-width=20%
+width=40%

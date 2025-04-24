@@ -1,6 +1,10 @@
+* {
+	color: #fdfff1
+}
+
 window {
-	background-color: #212121;
-	border: 2px solid #252525;
+	background-color: #1d1e19;
+	border: 2px solid #272822;
 	font-size: 16px;
 	font-family: "DejaVu Mono";
 }
@@ -12,7 +16,7 @@ window {
 #input {
 	border-radius: 0px;
 	border: none;
-	background-color: #303030;
+	background-color: #272822;
 }
 
 #input:selected {
@@ -20,7 +24,7 @@ window {
 }
 
 #entry {
-	background-color: #212121;
+	background-color: #1d1e19;
 }
 
 #entry:selected {
