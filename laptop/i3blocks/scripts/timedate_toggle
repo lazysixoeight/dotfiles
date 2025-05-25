@@ -11,14 +11,14 @@ while true; do
   if [[ $STATE == "1" ]]; then
     echo "$(date +%F)" > /tmp/timedate
     if read -t 60 -r line; then
-      echo "..." > /tmp/timedate
+      echo "..." > /tmp/timedate &
       dconf write "$KEY" "0" && STATE=$(dconf read "$KEY")
     fi
   elif [[ $STATE == "0" ]]; then
     while true; do
       echo "<span size='11000'></span>$(date +"%H:%M:%S %p")" > /tmp/timedate
       if read -t 10 -r line; then
-        echo "..." > /tmp/timedate
+        echo "..." > /tmp/timedate &
         dconf write "$KEY" "1" && STATE=$(dconf read "$KEY")
         continue 2
       fi

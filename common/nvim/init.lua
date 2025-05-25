@@ -461,20 +461,82 @@ require('nixCatsUtils.lazyCat').setup(nixCats.pawsible { 'allPlugins', 'start', 
   },
 
   { -- Indentation Lines
-    "lukas-reineke/indent-blankline.nvim",
-    main = "ibl",
+    'lukas-reineke/indent-blankline.nvim',
+    main = 'ibl',
     ---@module "ibl"
     ---@type ibl.config
     opts = {},
     config = function()
-      require("ibl").setup {
-        indent = { highlight = highlight, char = "▏" },
+      require('ibl').setup {
+        indent = { highlight = highlight, char = '▏' },
         whitespace = {
           remove_blankline_trail = false,
         },
         scope = { enabled = false },
       }
-    end
+    end,
+  },
+  {
+    'catgoose/nvim-colorizer.lua',
+    event = 'BufReadPre',
+    opts = {},
+    config = function()
+      require('colorizer').setup {
+        filetypes = { '*' }, -- Filetype options.  Accepts table like `user_default_options`
+        buftypes = {}, -- Buftype options.  Accepts table like `user_default_options`
+        -- Boolean | List of usercommands to enable.  See User commands section.
+        user_commands = true, -- Enable all or some usercommands
+        lazy_load = false, -- Lazily schedule buffer highlighting setup function
+        user_default_options = {
+          names = false, -- "Name" codes like Blue or red.  Added from `vim.api.nvim_get_color_map()`
+          names_opts = { -- options for mutating/filtering names.
+            lowercase = true, -- name:lower(), highlight `blue` and `red`
+            camelcase = true, -- name, highlight `Blue` and `Red`
+            uppercase = false, -- name:upper(), highlight `BLUE` and `RED`
+            strip_digits = false, -- ignore names with digits,
+            -- highlight `blue` and `red`, but not `blue3` and `red4`
+          },
+          -- Expects a table of color name to #RRGGBB value pairs.  # is optional
+          -- Example: { cool = "#107dac", ["notcool"] = "ee9240" }
+          -- Set to false to disable, for example when setting filetype options
+          names_custom = false, -- Custom names to be highlighted: table|function|false
+          RGB = true, -- #RGB hex codes
+          RGBA = true, -- #RGBA hex codes
+          RRGGBB = true, -- #RRGGBB hex codes
+          RRGGBBAA = true, -- #RRGGBBAA hex codes
+          AARRGGBB = true, -- 0xAARRGGBB hex codes
+          rgb_fn = true, -- CSS rgb() and rgba() functions
+          hsl_fn = true, -- CSS hsl() and hsla() functions
+          css = true, -- Enable all CSS *features*:
+          -- names, RGB, RGBA, RRGGBB, RRGGBBAA, AARRGGBB, rgb_fn, hsl_fn
+          css_fn = true, -- Enable all CSS *functions*: rgb_fn, hsl_fn
+          -- Tailwind colors.  boolean|'normal'|'lsp'|'both'.  True sets to 'normal'
+          tailwind = false, -- Enable tailwind colors
+          tailwind_opts = { -- Options for highlighting tailwind names
+            update_names = false, -- When using tailwind = 'both', update tailwind names from LSP results.  See tailwind section
+          },
+          -- parsers can contain values used in `user_default_options`
+          sass = { enable = false, parsers = { 'css' } }, -- Enable sass colors
+          -- Highlighting mode.  'background'|'foreground'|'virtualtext'
+          mode = 'background', -- Set the display mode
+          -- Virtualtext character to use
+          virtualtext = '■',
+          -- Display virtualtext inline with color.  boolean|'before'|'after'.  True sets to 'after'
+          virtualtext_inline = false,
+          -- Virtualtext highlight mode: 'background'|'foreground'
+          virtualtext_mode = 'foreground',
+          -- update color values even if buffer is not focused
+          -- example use: cmp_menu, cmp_docs
+          always_update = false,
+          -- hooks to invert control of colorizer
+          hooks = {
+            -- called before line parsing.  Accepts boolean or function that returns boolean
+            -- see hooks section below
+            disable_line_highlight = false,
+          },
+        },
+      }
+    end,
   },
 
   { -- LSP Configuration & Plugins
@@ -681,8 +743,8 @@ require('nixCatsUtils.lazyCat').setup(nixCats.pawsible { 'allPlugins', 'start', 
       if require('nixCatsUtils').isNixCats then
         servers.nixd = {}
       else
-      --  servers.rnix = {}
-      --  servers.nil_ls = {}
+        --  servers.rnix = {}
+        servers.nil_ls = {}
       end
       servers.lua_ls = {
         -- cmd = {...},
@@ -699,6 +761,7 @@ require('nixCatsUtils.lazyCat').setup(nixCats.pawsible { 'allPlugins', 'start', 
               disable = { 'missing-fields' },
             },
           },
+          filetypes = { 'lua' },
         },
       }
 
@@ -893,6 +956,23 @@ require('nixCatsUtils.lazyCat').setup(nixCats.pawsible { 'allPlugins', 'start', 
     end,
   },
 
+  {
+    'sainnhe/gruvbox-material',
+    priority = 1001,
+    init = function()
+      vim.g.gruvbox_material_background = 'hard'
+      vim.g.gruvbox_material_colors_override = {
+        fg1 = { '#ebdbb2', '234' },
+      }
+      vim.cmd.colorscheme 'gruvbox-material'
+
+      vim.api.nvim_set_hl(0, 'LineNr', { fg = '#5a524c', bg = '#141617' }) -- Default line numbers
+      vim.api.nvim_set_hl(0, 'CursorLineNr', { fg = '#ebdbb2', bg = '#141617' }) -- Current line number
+      vim.api.nvim_set_hl(0, 'MsgArea', { bg = '#141617', fg = '#ebdbb2' })
+      vim.api.nvim_set_hl(0, 'SignColumn', { bg = '#141617' })
+    end,
+  },
+
   { -- You can easily change to a different colorscheme.
     -- Change the name of the colorscheme plugin below, and then
     -- change the command in the config to whatever the name of that colorscheme is.
@@ -903,61 +983,24 @@ require('nixCatsUtils.lazyCat').setup(nixCats.pawsible { 'allPlugins', 'start', 
     init = function()
       -- Load the colorscheme here.
       -- Like many other themes, this one has different styles, and you could load
-      -- any other, such as 'tokyonight-storm', 'tokyonight-moon', or 'tokyonight-day'. 
-      vim.cmd.colorscheme 'monokai-pro-classic'
-      
+      -- any other, such as 'tokyonight-storm', 'tokyonight-moon', or 'tokyonight-day'.
+      -- vim.cmd.colorscheme 'monokai-pro-classic'
+
       -- Override line number background (after colorscheme loads)
-      vim.api.nvim_set_hl(0, "LineNr", { fg = "#919288", bg = "#161613" })       -- Default line numbers
-      vim.api.nvim_set_hl(0, "CursorLineNr", { fg = "#fdfff1", bg = "#161613" }) -- Current line number
-      vim.api.nvim_set_hl(0, "SignColumn", { bg = "#161613" })
-      vim.api.nvim_set_hl(0, "MsgArea", { bg = "#1d1e19" })
-      
+      vim.api.nvim_set_hl(0, 'LineNr', { fg = '#919288', bg = '#161613' }) -- Default line numbers
+      vim.api.nvim_set_hl(0, 'CursorLineNr', { fg = '#fdfff1', bg = '#161613' }) -- Current line number
+      vim.api.nvim_set_hl(0, 'SignColumn', { bg = '#161613' })
+      vim.api.nvim_set_hl(0, 'MsgArea', { bg = '#1d1e19' })
+
       -- You can configure highlights by doing something like:
       vim.cmd.hi 'Comment gui=none'
-      vim.opt.signcolumn = "auto"
+      vim.opt.signcolumn = 'auto'
     end,
   },
 
   -- Highlight todo, notes, etc in comments
   { 'folke/todo-comments.nvim', event = 'VimEnter', dependencies = { 'nvim-lua/plenary.nvim' }, opts = { signs = false } },
 
-  { -- Collection of various small independent plugins/modules
-    'echasnovski/mini.nvim',
-    config = function()
-      -- Better Around/Inside textobjects
-      --
-      -- Examples:
-      --  - va)  - [V]isually select [A]round [)]paren
-      --  - yinq - [Y]ank [I]nside [N]ext [']quote
-      --  - ci'  - [C]hange [I]nside [']quote
-      require('mini.ai').setup { n_lines = 500 }
-
-      -- Add/delete/replace surroundings (brackets, quotes, etc.)
-      --
-      -- - saiw) - [S]urround [A]dd [I]nner [W]ord [)]Paren
-      -- - sd'   - [S]urround [D]elete [']quotes
-      -- - sr)'  - [S]urround [R]eplace [)] [']
-      require('mini.surround').setup()
-
-      -- Simple and easy statusline.
-      --  You could remove this setup call if you don't like it,
-      --  and try some other statusline plugin
-      local statusline = require 'mini.statusline'
-      -- set use_icons to true if you have a Nerd Font
-      statusline.setup { use_icons = vim.g.have_nerd_font }
-
-      -- You can configure sections in the statusline by overriding their
-      -- default behavior. For example, here we set the section for
-      -- cursor location to LINE:COLUMN
-      ---@diagnostic disable-next-line: duplicate-set-field
-      statusline.section_location = function()
-        return '%2l:%-2v'
-      end
-
-      -- ... and there is more!
-      --  Check out: https://github.com/echasnovski/mini.nvim
-    end,
-  },
   { -- Highlight, edit, and navigate code
     'nvim-treesitter/nvim-treesitter',
     build = require('nixCatsUtils').lazyAdd ':TSUpdate',

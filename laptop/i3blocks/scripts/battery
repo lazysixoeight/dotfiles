@@ -11,7 +11,6 @@ function update() {
   ENERGY_NOW=$(cat /sys/class/power_supply/BAT0/energy_now)
   POWER_NOW=$(cat /sys/class/power_supply/BAT0/power_now)
   TIME=$(python3 -c 'import math; e=int("'$ENERGY_NOW'"); p=int("'$POWER_NOW'"); h=math.floor(e/p); m=math.floor((e/p - h) * 60); print(f"{h:02}:{m:02}")')
-  echo "Updated" && echo "$TIME"
 }
 function update_icon() {
   if [[ $STATUS == "Charging" ]]; then
@@ -24,22 +23,22 @@ function update_icon() {
     else
       ICON=$ICON_BAT_LOW
     fi
-  fi && echo "Icon set."
+  fi
 }
 
 while true; do
-  echo "On main loop"
-  update && update_icon
+  update && update_icon &
   if [[ $STATUS == "Charging" ]]; then
     while true; do
-      update && update_icon
+      update && update_icon &
       if [[ $TIME != "" ]]; then
-        echo "$ICON$BATTERY%($TIME)" > /tmp/battery && echo "Sent to /tmp/battery"
-        sleep 1.5 && update
+        echo "$ICON$BATTERY%($TIME)" > /tmp/battery
+        sleep 1.5 && update &
       else
-        echo "$ICON..." > /tmp/battery && echo "Sent to /tmp/battery"
+        echo "$ICON..." > /tmp/battery
       fi
       if read -t 5 -r line || [[ $STATUS != "Charging" ]]; then
+        echo "$ICON..." > /tmp/battery
         continue 2
       fi
     done
@@ -47,12 +46,13 @@ while true; do
     while true; do
       update && update_icon
       if [[ $TIME != "" ]]; then
-        echo "$ICON$BATTERY%($TIME)" > /tmp/battery && echo "Sent to /tmp/battery"
-        sleep 1.5 && update
+        echo "$ICON$BATTERY%($TIME)" > /tmp/battery
+        sleep 1.5 && update &
       else
-        echo "$ICON..." > /tmp/battery && echo "Sent to /tmp/battery"
+        echo "$ICON..." > /tmp/battery
       fi
       if read -t 5 -r line || [[ $STATUS != "Discharging" ]]; then
+        echo "$ICON..." > /tmp/battery
         continue 2
       fi
     done

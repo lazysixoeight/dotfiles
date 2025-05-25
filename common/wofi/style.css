@@ -1,10 +1,24 @@
 * {
-	color: #fdfff1
+	color: #ebdbb2
 }
 
+@define-color warning	#c00000;
+@define-color warning_border	#f00000;
+@define-color focused	#356769;
+@define-color focused_border	#7daea3;
+@define-color inactive	#282828;
+@define-color inactive_border	#1d2021;
+@define-color unfocused	#1d2021;
+@define-color unfocused_border	#282828;
+
+@define-color fg	#ebdbb2;
+@define-color fg2	#7c6f64;
+@define-color bg	#141617;
+@define-color bg2	#3c3836;
+
+
 window {
-	background-color: #1d1e19;
-	border: 2px solid #272822;
+	background-color: @bg;
 	font-size: 16px;
 	font-family: "DejaVu Mono";
 }
@@ -13,22 +27,29 @@ window {
 	border: none;
 }
 
-#input {
-	border-radius: 0px;
-	border: none;
-	background-color: #272822;
-}
 
-#input:selected {
-	border: 1px solid #4c7899;
+#input {
+	border: 1px solid @bg;
+	font-size: 16px;
+	background-color: #282828;
+	border-radius: 0px;
 }
 
 #entry {
-	background-color: #1d1e19;
+	background-color: @unfocused;
+	border-radius: 0px;
 }
 
 #entry:selected {
-	background-color: #285577;
-	border: 1px solid #4c7899;
+	background-color: @focused;
+	border: 1px solid @focused_border;
 	outline: none;
+	border-radius: 0px;
+}
+
+#img:selected {
+    background: none;
+}
+#text:selected {
+    background: none;
 }

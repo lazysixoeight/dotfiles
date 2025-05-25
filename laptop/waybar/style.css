@@ -1,0 +1,135 @@
+* {
+	transition: none;
+	opacity: 1.0;
+	border-radius: 0;
+	padding: 0px;
+}
+
+@define-color orange	#e78a4e;
+@define-color green	#a9b665;
+@define-color blue	#d3869b;
+
+@define-color warning	#c00000;
+@define-color warning_border	#f00000;
+@define-color focused	#356769;
+@define-color focused_border	#7daea3;
+@define-color inactive	#282828;
+@define-color inactive_border	#1d2021;
+@define-color unfocused	#1d2021;
+@define-color unfocused_border	#282828;
+
+@define-color fg	#ebdbb2;
+@define-color fg2	#7c6f64;
+@define-color bg	#141617;
+
+#waybar {
+	background: @bg;
+	color: @fg;
+	font-family: DejaVuSansM Nerd Font;
+	font-size: 15.8px;
+}
+
+/* Workspaces stuff */
+#workspaces {
+	margin-right: 6px;
+}
+
+#workspaces button {
+	/*font-weight: bold;*/
+	padding-left: 3px;
+	padding-right: 3px;
+	color: @fg2;
+	background: @unfocused;
+	border: 1px solid @unfocused_border;
+	box-shadow: none;
+	text-shadow: none;
+}
+
+
+#workspaces button:hover {
+	/*font-weight: bold;*/
+	padding-left: 3px;
+	padding-right: 3px;
+	color: @fg2;
+	background: @unfocused;
+	border: 1px solid @unfocused_border;
+}
+
+/* Inactive (on unfocused output) */
+#workspaces button.visible {
+	color: @fg2;
+	background: @inactive;
+	border: 1px solid @inactive_border;
+}
+
+/* Active (on focused output) */
+#workspaces button.focused {
+	color: @fg;
+	background: @focused;
+	border: 1px solid @focused_border;
+}
+
+/* Contains an urgent window */
+#workspaces button.urgent {
+	color: @fg;
+	background: @warning;
+	border: 1px solid @warning_border;
+}
+
+/* Right modules */
+#custom-separator4 {
+	color: @blue;
+
+}
+#network {
+	background: @blue;
+	color: @bg;
+}
+#custom-separator3 {
+	background: @blue;
+	color: @green;
+}
+
+#battery {
+	background: @green;
+	color: @bg;
+}
+
+#custom-separator2 {
+	background: @green;
+	color: @orange;
+}
+
+#language {
+	background: @orange;
+	color: @bg;
+}
+
+#custom-separator1 {
+	background: @orange;
+	color: @inactive;
+}
+
+#clock {
+	color: @fg;
+	background: @inactive;
+	padding-right: 5px;
+}
+
+/* Use Siji icons */
+#network,
+#battery,
+#language,
+#clock {
+	font-family: DejaVu Sans Mono, Siji;
+	border-bottom: 1px solid @bg;
+}
+
+/* Align separators */
+#custom-separator4,
+#custom-separator3,
+#custom-separator2,
+#custom-separator1 {
+	font-size: 20px;
+	border-bottom: 1px solid @bg;
+}

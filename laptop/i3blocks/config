@@ -4,6 +4,12 @@ separator=false
 separator_block_width=0
 color=#fdfff1
 
+
+[sway-focusedwindow]
+full_text="[]"
+command=~/.config/i3blocks/scripts/focused_window 200 center
+interval=persist
+
 [separator]
 color=#8cc626
 
@@ -36,7 +42,7 @@ background=#272822
 
 [tray]
 full_text="[ʌ]"
-command=pkill ~/.config/i3blocks/scripts/systray_toggle; ~/.config/i3blocks/scripts/systray_toggle
+command=~/.config/i3blocks/scripts/systray_toggle
 background=#272822
 color=#919288
 interval=0

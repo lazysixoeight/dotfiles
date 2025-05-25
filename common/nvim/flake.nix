@@ -133,17 +133,20 @@
           cmp-nvim-lsp
           cmp-path
           monokai-pro-nvim
+          gruvbox-material
           todo-comments-nvim
           mini-nvim
           nvim-treesitter.withAllGrammars
           indent-blankline-nvim
+          bufferline-nvim
+          nvim-colorizer-lua
           # This is for if you only want some of the grammars
-          # (nvim-treesitter.withPlugins (
-          #   plugins: with plugins; [
-          #     nix
-          #     lua
-          #   ]
-          # ))
+          (nvim-treesitter.withPlugins (
+            plugins: with plugins; [
+              nix
+              lua
+            ]
+          ))
         ];
         kickstart-debug = [
           nvim-dap

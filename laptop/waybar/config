@@ -1,0 +1,95 @@
+{
+	"height": 24,
+	"layer": "top",
+	"position": "top",
+
+	"modules-left": [
+		"sway/workspaces",
+		"sway/window"
+	],
+
+	"modules-right": [
+		"tray",
+
+		"custom/separator4",
+		"network",
+		"custom/separator3",
+		"battery",
+		"custom/separator2",
+		"sway/language",
+		"custom/separator1",
+		"clock"
+	],
+
+	// Modules
+	"sway/window": {
+		"tooltip": false
+	},
+	"tray": {
+		"icon-size": 24
+	},
+
+	"network": {
+		"interface": "wlp61s0",
+		
+		"format": "{ifname}",
+		"format-wifi": "{icon}{essid}",
+		"format-ethernet": "{essid}",
+		"format-disconnected": "disconnected",
+		"format-icons": ["","",""],
+		
+		"tooltip-format": "Not doing anything",
+		"tooltip-format-disconnected": "Not connected to anything",
+		"tooltip-format-wifi": "Connected to {essid} ({signalStrength}%)",
+		"tooltip-format-ethernet": "Connected to {essid}",
+		
+		"on-click": "foot --app-id=term-float -e nmtui"
+	},
+
+	"battery": {
+		"interval": 30,
+		"format-time": "{H}h:{M}m",
+		"format": "{icon}{capacity}%({time})",
+		"states": {
+			"low": 20,
+			"medium": 75,
+			"high": 100,
+		},
+		"format-icons": {
+			"low": "",
+			"medium": "",
+			"high": "",
+			"charging": ""
+		},
+		"tooltip": false
+	},
+
+	"sway/language": {
+		"format": "{short}",
+		"tooltip": false
+	},
+
+	"clock": {
+		"interval": 10,
+		"format": "{:%H:%M:%S %p}",
+		"format-alt": "{:%F}",
+		"max-length": 25,
+		"tooltip": false
+        },
+	
+	// Separators
+	"custom/separator4": {
+		"format": ""
+	},
+	"custom/separator3": {
+		"format": ""
+	},
+	"custom/separator2": {
+		"format": ""
+	},
+	"custom/separator1": {
+		"format": ""
+	}
+}
+
+// vi:ft=jsonc

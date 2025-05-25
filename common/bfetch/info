@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+export BFETCH_CLASSIC_MODE="true"
+export BFETCH_ART_RIGHT="true"
+export PF_INFO="os wm shell uptime pkgs memory palette"
+
+pfetch

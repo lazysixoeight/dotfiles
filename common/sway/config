@@ -1,4 +1,3 @@
-exec eww daemon -c ~/.config/eww/systray/
 
 ### Variables
 
@@ -13,6 +12,7 @@ set $term foot
 set $menu wofi --show drun
 
 ### Output configuration
+
 #
 # Default wallpaper (more resolutions are available in /run/current-system/sw/share/backgrounds/sway/)
 output * bg ~/dotfiles/wallpapers/drukQs.jpeg fill
@@ -53,7 +53,7 @@ exec swayidle -w \
 #
     bindsym $mod+Return exec $term
     bindsym $mod+Shift+Return exec $term --app-id=term-float
-    bindsym $mod+t exec pkill -SIGRTMIN+10 i3blocks && ~/.config/sway/sway-tray
+    bindsym $mod+t exec pkill -SIGRTMIN+10 i3blocks
     
     bindsym $mod+Shift+q kill
     bindsym $mod+d exec $menu
@@ -132,8 +132,9 @@ exec swayidle -w \
     bindsym $mod+e layout toggle split
 
     # Make the current focus fullscreen
-    bindsym $mod+f fullscreen
+    bindsym $mod+f fullscreen toggle
 
+    bindsym $mod+b pkill SIGUSR1 waybar
     # Toggle the current focus between tiling and floating mode
     bindsym $mod+Shift+space floating toggle
 
@@ -155,11 +156,12 @@ exec swayidle -w \
     # You can send windows there and get them back later.
 
     # Move the currently focused window to the scratchpad
-    bindsym $mod+Shift+p move scratchpad
+    bindsym $mod+p move scratchpad
 
     # Show the next scratchpad window or hide the focused scratchpad window.
     # If there are multiple scratchpad windows, this command cycles through them.
-    bindsym $mod+p scratchpad show
+    bindsym $mod+Shift+p scratchpad show
+    # Move to scratchpad and show as a tiled window
 #
 # Utilities:
 #
@@ -174,35 +176,22 @@ exec swayidle -w \
 #
 # Looks:
 #
-
-
-font pango:DejaVu Sans Mono, 11
-
-bar {
-    font pango:DejaVu Sans Mono, Siji 12
-    id bar-1
-    position top
-    status_command i3blocks
-    tray_output none
-    status_padding 0
-    separator_symbol ""
-
-    colors { 
-        background #161613
-    }
-}
-
+    exec_always 'pkill waybar; GTK_THEME='none' waybar'
+    
+    font pango:DejaVu Sans Mono, 11
     gaps inner 0
 
-    default_border normal 0
-    default_floating_border normal 0
+    default_border pixel 2
+    default_floating_border pixel 2
     titlebar_padding 3
+    smart_borders 1
+    smart_gaps 1
 
     # Border, Background, Text, Indicator, Child border
-    client.focused          #4c7899 #285577 #fdfff1 #2e9ef4 #285577
-    client.unfocused        #272822 #1d1e19 #c0c1b5 #1d1e19 #161613
-    client.focused_inactive #1d1e19 #272822 #c0c1b5 #1d1e19 #161613
-    client.urgent           #f00000 #c00000 #fdfff1 #c00000 #c00000
+    client.focused          #7daea3 #356769 #ebdbb2 #454585 #7daea3
+    client.unfocused        #282828 #1b1b1b #7c6f64 #1d1e19 #1a1a1a
+    client.focused_inactive #32302f #282828 #7c6f64 #1d1e19 #1a1a1a
+    client.urgent           #f00000 #c00000 #ebdbb2 #c00000 #c00000
 
 # Read `man 5 sway-bar` for more information about this section.
 

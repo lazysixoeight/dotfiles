@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if pgrep -x "$(basename "$0")" > /dev/null; then
-	exit
+  exit
 fi
 
 /run/current-system/sw/bin/flameshot &
