@@ -1,0 +1,31 @@
+[font]
+normal = { family = "DejaVuSansM Nerd Font" }
+size = 12.5
+
+[window]
+opacity = 0.91
+
+[colors.primary]
+background = "#101012"
+foreground = "#fdfff1"
+
+[colors.normal]
+black   = "#1d1e19"
+red     = "#f92672"
+green   = "#a6e22e"
+yellow  = "#e6db74"
+blue    = "#5596f1"
+magenta = "#ae81ff"
+cyan    = "#66d9ef"
+white   = "#fdfff1"
+
+[colors.bright]
+black   = "#1d1e19"
+red     = "#f92672"
+green   = "#a6e22e"
+yellow  = "#e6db74"
+blue    = "#5596f1"
+magenta = "#ae81ff"
+cyan    = "#66d9ef"
+white   = "#fdfff1"
+

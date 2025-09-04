@@ -1,0 +1,503 @@
+C10018 "/home/lazy/Music/DAWs Files/Reaper/Media"
+F "01 - Aphex Twin - Xtal.flac" 37059683 0 1751961701 0
+D t Xtal a "Aphex Twin" b "Selected Ambient Works 85-92" y 1992
+D s 44100 n 2 l 4:53.751 i 16
+D m 1
+F "01-cw_amen13_173-MIDI-glued render 003.wav" 313322 0 1750475361 0
+D y 2025-06-21 s 48000 n 1 r 0:17.122
+D l 0:02.171 i 24
+F 01-doin_the_do-q-t180-comp-250821_1909-jsfx.wav 218536 0 1755778194 0
+D y 2025-08-21 s 48000 n 2 l 0:00.567
+D i 32
+F 01-doin_the_do-q-t180-comp-250821_1957-jsfx.wav 187424 0 1755781048 0
+D y 2025-08-21 s 48000 n 2 l 0:00.486
+D i 32
+F 02-funky_drummer-q-t180-compressed-250818_0852-jsfx.wav 843096 0 1755481931 0
+D y 2025-08-18 s 48000 n 2 l 0:02.193
+D i 32
+F "02-Sliced item-MIDI render 001-glued.wav" 1864220 0 1754819591 0
+D y 2025-08-10 s 48000 n 2 r 1:39.230
+D l 0:06.461 i 24
+F "05-250818_0756-jsfx render 001-glued.wav" 26498 0 1755478698 0
+D y 2025-08-18 s 48000 n 2 r 0:00.886
+D l 0:00.080 i 24
+F 05-250818_0756-jsfx.wav 10171408 0 1755478588 0
+D y 2025-08-18 s 48000 n 2 l 0:26.486
+D i 32
+F "05-Clairo - Pretty Girl [mngtcfcaVrI]-MIDI-glued.wav" 355196 0 1754797228 0
+D y 2025-08-10 s 48000 n 2 r 0:25.384
+D l 0:01.846 i 16
+F "06-250818_0805-jsfx render 001-glued render 001-glued.wav" 560114 0 1755479522 0
+D y 2025-08-18 s 48000 n 2 r 0:01.127
+D l 0:01.933 i 24
+F "06-250818_0805-jsfx render 001-glued.wav" 96098 0 1755479278 0
+D y 2025-08-18 s 48000 n 2 r 0:01.288
+D l 0:00.322 i 24
+F 07-07-250818_0815-jsfx-250818_0825-jsfx.wav 250328 0 1755480333 0
+D y 2025-08-18 s 48000 n 2 l 0:00.649
+D i 32
+F 07-07-250818_0815-jsfx-250818_0851-jsfx.wav 1872640 0 1755481875 0
+D y 2025-08-18 s 48000 n 2 l 0:04.874
+D i 32
+F 07-250818_0815-jsfx.wav 1045888 0 1755479728 0
+D y 2025-08-18 s 48000 n 2 l 0:02.721
+D i 32
+F 075_1.wav 122878 0 1651972386 0
+D t beat c "Get more at http://www.hgb-leipzig.de/~ajoscht/" d Drumloop s 44100
+D n 1 l 0:01.391 i 16
+F "10 Jazz Ride Cymbals Compared - Which Is Best For You？ [6LUs1KzjHm4]-glued.wav" 56932 0 1751766708 0
+D y 2025-07-06 s 48000 n 2 r 0:13.170
+D l 0:00.292 i 16
+F "54 Cymru Beats [_a83fSZR2Ag].wav" 64716878 0 1709314746 0
+D s 44100 n 2 l 6:06.875 i 16
+F "acid - stem-glued.wav" 256184 0 1750480818 0
+D y 2025-06-21 s 48000 n 1 r 0:25.902
+D l 0:01.317 i 32
+F "Acoustic Cymbal Design in Pure Data Vanilla [zHPqF3iKTbw].wav" 15679678 0 1565461845 0
+D s 48000 n 2 l 1:21.664 i 16
+F "adrianne lenker - not a lot, just forever (official audio) [Hsl9IZxxY0I]-glued-01.wav" 48921300 0 1750740303 0
+D y 2025-06-24 s 48000 n 2 r 0:14.667
+D l 4:14.795 i 16
+F "adrianne lenker - not a lot, just forever (official audio) [Hsl9IZxxY0I].wav" 48184642 0 1748721464 0
+D s 48000 n 2 l 4:10.961 i 16
+F "AMEN 1 - Kick-glued-02.wav" 193184 0 1751967531 0
+D y 2025-07-08 s 44100 n 2 r 0:16.909
+D l 0:00.545 i 32
+F "AMEN 1 - Kick-glued.wav" 52376 0 1751170540 0
+D y 2025-06-29 s 44100 n 2 r 0:07.463
+D l 0:00.146 i 32
+F "AMEN 1-glued.wav" 847464 0 1751350673 0
+D y 2025-07-01 s 44100 n 2 l 0:02.400
+D i 32
+F "AMEN 1.wav" 846908 0 1454965294 0
+D s 44100 n 2 l 0:02.400 i 32
+F "amen 10 - kick 1.wav" 53272 0 1461519448 0
+D s 44100 n 2 l 0:00.150 i 32
+F "amen 2 - hat 1.wav" 26998 0 1461510144 0
+D s 44100 n 2 l 0:00.075 i 32
+F "amen 2 - snare.wav" 53310 0 1461510144 0
+D s 44100 n 2 l 0:00.150 i 32
+F "amen 2-glued-01.wav" 52376 0 1751616808 0
+D y 2025-07-04 s 44100 n 2 r 0:11.121
+D l 0:00.146 i 32
+F "amen 2.wav" 846908 0 1454965194 0
+D s 44100 n 2 l 0:02.400 i 32
+F "amen 3 - snare 2.wav" 53272 0 1461511278 0
+D s 44100 n 2 l 0:00.150 i 32
+F "amen 3-2-glued-01.wav" 109144 0 1751351916 0
+D y 2025-07-01 s 44100 n 2 r 0:42.450
+D l 0:00.300 i 32
+F "amen 3-2-glued.wav" 794544 0 1751350908 0
+D y 2025-07-01 s 44100 n 2 r 0:02.400
+D l 0:02.250 i 32
+F "amen 3-2.wav" 846908 0 1454965800 0
+D s 44100 n 2 l 0:02.400 i 32
+F "amen 4 - hat 1.wav" 27022 0 1461511872 0
+D s 44100 n 2 l 0:00.075 i 32
+F "amen 4 - hat 4.wav" 27902 0 1461511872 0
+D s 44100 n 2 l 0:00.078 i 32
+F "amen 4.wav" 423548 0 1454991264 0
+D s 44100 n 2 l 0:01.200 i 32
+F "amen 5 - kick 1.wav" 53280 0 1461512108 0
+D s 44100 n 2 l 0:00.150 i 32
+F "amen 5 - kick 2-glued.wav" 212328 0 1751513455 0
+D y 2025-07-03 s 44100 n 2 r 0:25.317
+D l 0:00.599 i 32
+F "amen 5 - kick 2.wav" 53224 0 1461512108 0
+D s 44100 n 2 l 0:00.149 i 32
+F "amen 5 - snare 2-glued.wav" 106536 0 1751443971 0
+D y 2025-07-02 s 44100 n 2 r 0:25.463
+D l 0:00.299 i 32
+F "amen 8-2-glued-01.wav" 592480 0 1751617431 0
+D y 2025-07-04 s 48000 n 2 r 0:13.097
+D l 0:01.540 i 32
+F "amen 8-2.wav" 423548 0 1454992022 0
+D s 44100 n 2 l 0:01.200 i 32
+F amen-single-eq-q-t155-c-tr-glued-05.wav 393556 0 1750407073 0
+D y 2025-06-20 s 96000 n 2 r 0:12.146
+D l 0:00.681 i 24
+F amen-single-eq-q-t155-c-tr-glued-06.wav 422584 0 1750479839 0
+D y 2025-06-21 s 96000 n 2 r 0:20.195
+D l 0:00.732 i 24
+F amen-single-eq-q-t155-c-tr-glued-07.wav 509078 0 1750480117 0
+D y 2025-06-21 s 48000 n 2 r 0:21.220
+D l 0:01.756 i 24
+F amen-single-eq-q-t155-c-tr-glued-14.wav 193120 0 1750759659 0
+D y 2025-06-24 s 96000 n 2 r 0:38.333
+D l 0:00.333 i 24
+F amen-single-eq-q-t155-c-tr-glued-15.wav 1297120 0 1750826603 0
+D y 2025-06-25 s 96000 n 2 r 0:39.750
+D l 0:02.250 i 24
+F amen-single-eq-q-t155-c-tr-glued-16.wav 1249120 0 1750827020 0
+D y 2025-06-25 s 96000 n 2 r 0:43.125
+D l 0:02.167 i 24
+F amen-single-eq-q-t155-c-tr-glued-17.wav 385120 0 1750827551 0
+D y 2025-06-25 s 96000 n 2 r 0:52.833
+D l 0:00.667 i 24
+F amen-single-eq-q-t155-c-tr-glued-18.wav 253996 0 1750859843 0
+D y 2025-06-25 s 96000 n 2 r 0:03.073
+D l 0:00.439 i 24
+F amen-single-eq-q-t155-c-tr-glued-19.wav 127558 0 1750860205 0
+D y 2025-06-25 s 96000 n 2 r 0:03.000
+D l 0:00.220 i 24
+F amen-single-eq-q-t155-c-tr-glued-21.wav 540920 0 1750925877 0
+D y 2025-06-26 s 96000 n 2 r 0:11.867
+D l 0:00.933 i 24
+F amen-single-eq-q-t155-c-tr-glued-22.wav 3828248 0 1750926445 0
+D y 2025-06-26 s 96000 n 2 r 0:15.693
+D l 0:06.641 i 24
+F amen-single-eq-q-t155-c-tr-glued-23.wav 3228920 0 1750926589 0
+D y 2025-06-26 s 96000 n 2 r 0:24.267
+D l 0:05.600 i 24
+F amen-single-eq-q-t155-c-tr-glued-25.wav 1349800 0 1751169859 0
+D y 2025-06-29 s 96000 n 2 r 0:00.731
+D l 0:02.341 i 24
+F amen-single-eq-q-t155-c-tr-glued-26.wav 1518388 0 1751172211 0
+D y 2025-06-29 s 96000 n 2 r 0:13.756
+D l 0:02.634 i 24
+F amen-single-eq-q-t155-c-tr-glued-28.wav 85414 0 1751515961 0
+D y 2025-07-03 s 96000 n 2 r 0:27.951
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued-29.wav 171908 0 1751516062 0
+D y 2025-07-03 s 96000 n 2 r 0:27.365
+D l 0:00.292 i 24
+F amen-single-eq-q-t155-c-tr-glued-30.wav 169708 0 1751616452 0
+D y 2025-07-04 s 96000 n 2 r 0:09.658
+D l 0:00.292 i 24
+F amen-single-eq-q-t155-c-tr-glued-32.wav 169708 0 1751721849 0
+D y 2025-07-05 s 96000 n 2 r 0:00.292
+D l 0:00.292 i 24
+F amen-single-eq-q-t155-c-tr-glued-33.wav 85414 0 1751808441 0
+D y 2025-07-06 s 96000 n 2 r 0:32.048
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued-34.wav 169708 0 1751871914 0
+D y 2025-07-07 s 96000 n 2 r 0:34.536
+D l 0:00.292 i 24
+F amen-single-eq-q-t155-c-tr-glued-35.wav 116320 0 1754716092 0
+D y 2025-08-09 s 96000 n 2 r 0:10.400
+D l 0:00.200 i 24
+F amen-single-eq-q-t155-c-tr-glued-43.wav 87520 0 1754724649 0
+D y 2025-08-09 s 48000 n 2 r 0:17.000
+D l 0:00.300 i 24
+F amen-single-eq-q-t155-c-tr-glued-44.wav 45464 0 1755237313 0
+D y 2025-08-15 s 48000 n 2 r 0:08.634
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued-45.wav 93922 0 1755480572 0
+D y 2025-08-18 s 96000 n 2 r 0:02.658
+D l 0:00.161 i 24
+F amen-single-eq-q-t155-c-tr-glued-47.wav 85414 0 1755778525 0
+D y 2025-08-21 s 48000 n 2 r 0:06.439
+D l 0:00.292 i 24
+F amen-single-eq-q-t155-c-tr.wav 1789268 0 1427321894 0
+D s 96000 n 2 l 0:03.097 i 24
+F Anthesis_bass_neuro4_Eb.wav 699476 0 1709418362 0
+D s 48000 n 2 l 0:01.821 i 32
+F "Apache Classic lp.wav" 94522 0 1627754988 0
+D s 22050 n 1 l 0:04.284 i 8
+F "apache reversed 001.wav" 35036 0 1753697283 0
+D y 2025-07-01 s 44100 n 2 l 0:00.119
+D i 24
+F apache-glued-04.wav 89834 0 1754715960 0
+D y 2025-08-09 s 48000 n 2 r 0:10.199
+D l 0:00.300 i 24
+F apache.wav 2149758 0 1751363787 0
+D y 2025-07-01 s 44100 n 2 l 0:08.121
+D i 24
+F "Aphex Twin aisatsana [102] [3_MRe3JwFc8]-glued-01.wav" 131644 0 1753191249 0
+D y 2025-07-22 s 48000 n 2 r 0:26.590
+D l 0:00.681 i 16
+F "Aphex Twin aisatsana [102] [3_MRe3JwFc8]-glued.wav" 131644 0 1753191230 0
+D y 2025-07-22 s 48000 n 2 r 0:20.454
+D l 0:00.681 i 16
+F "Aphex Twin aisatsana [102] [3_MRe3JwFc8].wav" 61804542 0 1730787442 0
+D s 48000 n 2 l 5:21.898 i 16
+F audio.wav 589262 0 1753191532 0
+D s 22050 n 1 l 0:13.360 i 16
+F awe_sounddesign_vopros_G#+50-glued-01.wav 540904 0 1754718404 0
+D y 2025-08-09 s 48000 n 2 r 0:11.500
+D l 0:01.400 i 32
+F awe_sounddesign_vopros_G#+50-glued-02.wav 22496 0 1754718619 0
+D y 2025-08-09 s 48000 n 2 r 0:12.700
+D l 0:00.100 i 16
+F awe_sounddesign_vopros_G#+50-glued-04.wav 99296 0 1754718794 0
+D y 2025-08-09 s 48000 n 2 r 0:12.300
+D l 0:00.500 i 16
+F "Bad Break - 8A.wav" 244876 0 1587134956 0
+D t "4A - 8A" k 8A s 44100 n 2
+D l 0:01.381 i 16
+F BD7525-glued.wav 47158 0 1752198031 0
+D y 2025-07-11 s 44100 n 1 r 0:16.842
+D l 0:00.526 i 16
+F BD7525.WAV 44146 0 778977194 0
+D s 44100 n 1 l 0:00.500 i 16
+F "breakdown reversed 001.wav" 35036 0 1753698363 0
+D y 2025-07-01 s 44100 n 2 l 0:00.119
+D i 24
+F breakdown-glued-01.wav 45440 0 1751874222 0
+D y 2025-07-07 s 48000 n 2 r 0:36.878
+D l 0:00.146 i 24
+F breakdown.wav 1627014 0 1751363571 0
+D y 2025-07-01 s 44100 n 2 l 0:06.146
+D i 24
+F "brian eno_stems.wav" 29184744 0 1755049874 0
+D y 2025-08-13 s 48000 n 2 l 1:16.000
+D i 32
+F "Clairo - Pretty Girl [mngtcfcaVrI].wav" 34250442 0 1741681208 0
+D s 48000 n 2 l 2:58.387 i 16
+F "Clap 808X-glued-01.wav" 243652 0 1754716444 0
+D y 2025-08-09 s 48000 n 2 r 0:10.648
+D l 0:01.251 i 16
+F "Clap 808X-glued-02.wav" 80096 0 1754722611 0
+D y 2025-08-09 s 48000 n 2 r 0:10.800
+D l 0:00.400 i 16
+F "Clap 808X-glued.wav" 250336 0 1754708628 0
+D y 2025-08-09 s 48000 n 2 r 0:09.199
+D l 0:01.300 i 16
+F "Clap House 3.wav" 140610 0 1751379122 0
+D s 44100 n 2 l 0:00.480 i 24
+F CLAP_SIN.flac 10347 0 1745761330 0
+D s 22000 n 1 l 0:00.168 i 8
+F "Cock⧸ver10 [epuUd_qTfCw].wav" 61120078 0 1714751757 0
+D s 48000 n 2 l 5:18.333 i 16
+F cw_amen02_165-glued-01.wav 26552 0 1750998394 0
+D y 2025-06-27 s 44100 n 2 r 0:09.073
+D l 0:00.146 i 16
+F cw_amen02_165-glued.wav 26552 0 1750998389 0
+D y 2025-06-27 s 44100 n 2 r 0:08.780
+D l 0:00.146 i 16
+F cw_amen07_172.wav 492320 0 1200758834 0
+D s 44100 n 2 l 0:02.791 i 16
+F cw_amen09_175-glued-01.wav 323296 0 1750748756 0
+D y 2025-06-24 s 48000 n 2 r 0:31.667
+D l 0:01.667 i 16
+F cw_amen09_175-glued.wav 512736 0 1750747710 0
+D y 2025-06-24 s 48000 n 2 r 0:16.000
+D l 0:02.667 i 16
+F cw_amen13_173-glued-01.wav 168532 0 1750393597 0
+D y 2025-06-20 s 44100 n 2 r 0:05.634
+D l 0:00.951 i 16
+F cw_amen13_173-glued-03.wav 206448 0 1750394507 0
+D y 2025-06-20 s 44100 n 2 r 0:10.537
+D l 0:01.166 i 16
+F cw_amen13_173-glued-07.wav 413772 0 1750476204 0
+D y 2025-06-21 s 44100 n 2 r 0:18.732
+D l 0:02.341 i 16
+F cw_amen13_173-glued-09.wav 826804 0 1750481417 0
+D y 2025-06-21 s 44100 n 2 r 0:22.976
+D l 0:04.683 i 16
+F cw_amen13_173-glued-10.wav 65272 0 1750914985 0
+D y 2025-06-26 s 44100 n 2 r 0:03.659
+D l 0:00.366 i 16
+F cw_amen13_173-glued-11.wav 52364 0 1750915113 0
+D y 2025-06-26 s 44100 n 2 r 0:04.976
+D l 0:00.293 i 16
+F CYBER_fx_Hydraulics_X.wav 1693622 0 1709418366 0
+D s 44100 n 2 l 0:09.600 i 16
+F CYBER_fx_PrettyHit2_AMaj_150.wav 1129142 0 1709418366 0
+D s 44100 n 2 l 0:06.400 i 16
+F "devlog 1 [G4epXvRbKXE].wav" 5562990 0 1751426285 0
+D s 48000 n 2 l 0:28.973 i 16
+F doin_the_do-q-t180-comp-glued.wav 471144 0 1750827327 0
+D y 2025-06-25 s 44100 n 2 r 0:50.000
+D l 0:01.333 i 32
+F doin_the_do-q-t180-comp.wav 470444 0 1303784746 0
+D s 44100 n 2 l 0:01.333 i 32
+F "Ed MacFarlane ⧸ Various Artists - Jeffries ⧸ Carewe ⧸ Greig - Evil At Play [4135114788].wav" 12717646 0 1479997809 0
+D s 44100 n 2 l 1:12.095 i 16
+F "fire eater.wav" 1286940 0 1751363357 0
+D y 2025-07-01 s 44100 n 2 l 0:04.861
+D i 24
+F fools_gold-q-t180-comp.wav 470444 0 1303784754 0
+D s 44100 n 2 l 0:01.333 i 32
+F Ganimed_snareclap_weird.wav 82398 0 1709418364 0
+D s 48000 n 2 l 0:00.428 i 16
+F hotpants-q-t170-eq-c-glued-01.wav 166160 0 1750254877 0
+D y 2025-06-18 s 44100 n 2 r 0:05.846
+D l 0:00.462 i 32
+F hotpants-q-t170-eq-c-glued-06.wav 455864 0 1755477595 0
+D y 2025-08-18 s 44100 n 2 r 0:02.577
+D l 0:01.288 i 32
+F hotpants-q-t170-eq-c-glued-07.wav 127064 0 1755479878 0
+D y 2025-08-18 s 48000 n 2 r 0:02.094
+D l 0:00.322 i 32
+F hotpants-q-t170-eq-c-glued.wav 136824 0 1750254707 0
+D y 2025-06-18 s 44100 n 2 r 0:05.692
+D l 0:00.385 i 32
+F hotpants-q-t170-eq-c.wav 504380 0 1368745602 0
+D s 44100 n 2 l 0:01.411 i 32
+F in_one_peace_q-t180-c.wav 475366 0 1362851404 0
+D s 44100 n 2 l 0:01.333 i 32
+F "J Dilla - Workinonit - Donuts (Full Album) [5nO7IA1DeeI]-glued.wav" 207252 0 1750408348 0
+D y 2025-06-20 s 44100 n 2 r 0:14.049
+D l 0:01.171 i 16
+F "J Dilla - Workinonit - Donuts (Full Album) [5nO7IA1DeeI].wav" 33509454 0 1711588920 0
+D s 44100 n 2 l 3:09.962 i 16
+F life-could-q-t175-eqd+compressed_badly.wav 483884 0 1340907764 0
+D s 44100 n 2 l 0:01.371 i 32
+F "Lightsaber Rare Sound Effects HD [_E_PSZa6GXs].wav" 107296334 0 1512117017 0
+D s 48000 n 2 l 9:18.834 i 16
+F loverfriend-flat-multiband-q-t165-waveadjust-compressed-glued-01.wav 285088 0 1750406170 0
+D y 2025-06-20 s 44100 n 2 r 0:09.073
+D l 0:00.805 i 32
+F loverfriend-flat-multiband-q-t165-waveadjust-compressed-glued-02.wav 362592 0 1750407149 0
+D y 2025-06-20 s 48000 n 2 r 0:10.902
+D l 0:00.941 i 32
+F loverfriend-flat-multiband-q-t165-waveadjust-compressed.wav 518596 0 1349474577 0
+D s 44100 n 2 l 0:01.454 i 32
+F "mixed amens (12).wav" 846276 0 1461508696 0
+D s 44100 n 2 l 0:02.397 i 32
+F "mixed amens (26).wav" 847020 0 1460729926 0
+D s 44100 n 2 l 0:02.399 i 32
+F "mixed amens (28).wav" 847004 0 1460751526 0
+D s 44100 n 2 l 0:02.399 i 32
+F "mixed amens (31).wav" 847036 0 1460729926 0
+D s 44100 n 2 l 0:02.400 i 32
+F "navi_fx_bubbly sweep.wav" 2028814 0 1709418366 0
+D p 177.3913 s 44100 n 2 l 0:05.750
+D i 32
+F "not a lot, just forever (Adrianne Lenker) guitar only [wFxO_s-qD-w].wav" 34921406 0 1719057854 0
+D s 48000 n 2 l 3:01.882 i 16
+F phantasy_q-t165-c.wav 513212 0 1362851465 0
+D s 44100 n 2 l 0:01.455 i 32
+F "piano un10 it happened.mp3" 2594409 0 1752900874 0
+D s 44100 n 2 l 1:48.029 i 192k
+F "Processed amens (13).wav" 1692716 0 1461546418 0
+D t 3 a 4 b 5 s 44100
+D n 2 l 0:04.796 i 32
+F "Processed amens (16).wav" 1693708 0 1461524818 0
+D t 3 a 4 b 5 s 44100
+D n 2 l 0:04.799 i 32
+F "Sing About Me, I'm Dying Of Thirst [75wmW7xjyog].wav" 138926158 0 1727498976 0
+D s 48000 n 2 l 12:03.573 i 16
+F snafiabreak.wav 242066 0 1651972438 0
+D s 44100 n 2 l 0:01.371 i 16
+F "soul (crashes)_q_175-glued-01.wav" 133660 0 1754792247 0
+D y 2025-08-10 s 48000 n 2 r 0:16.615
+D l 0:00.692 i 16
+F "soul (crashes)_q_175-glued-02.wav" 45044 0 1754792674 0
+D y 2025-08-10 s 48000 n 2 r 0:15.923
+D l 0:00.230 i 16
+F "soul (crashes)_q_175-glued-03.wav" 69756 0 1754797066 0
+D y 2025-08-10 s 48000 n 2 r 0:24.461
+D l 0:00.346 i 16
+F "soul (crashes)_q_175-glued-05.wav" 47604 0 1754797938 0
+D y 2025-08-10 s 48000 n 2 r 0:25.615
+D l 0:00.230 i 16
+F "soul (crashes)_q_175-glued-06.wav" 47604 0 1754800442 0
+D y 2025-08-10 s 48000 n 2 r 0:38.480
+D l 0:00.230 i 16
+F "soul (crashes)_q_175-glued-07.wav" 47604 0 1754811913 0
+D y 2025-08-10 s 48000 n 2 r 1:09.923
+D l 0:00.230 i 16
+F "soul (crashes)_q_175-glued.wav" 45044 0 1754791993 0
+D y 2025-08-10 s 48000 n 2 r 0:15.692
+D l 0:00.230 i 16
+F "soul (crashes)_q_175.wav" 241964 0 1235509592 0
+D s 44100 n 2 l 0:01.371 i 16
+F soul1_A_q_175.wav 241960 0 1235504208 0
+D s 44100 n 2 l 0:01.371 i 16
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad)-glued-01.wav 26944 0 1751808269 0
+D y 2025-07-06 s 44100 n 2 r 0:33.365
+D l 0:00.073 i 32
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad)-glued-03.wav 537184 0 1754744099 0
+D y 2025-08-09 s 48000 n 2 l 0:01.390
+D i 32
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad)-glued-04.wav 543552 0 1754791191 0
+D y 2025-08-10 s 48000 n 2 l 0:01.412
+D i 32
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad)-glued-05.wav 82544 0 1754813033 0
+D y 2025-08-10 s 44100 n 2 r 1:09.692
+D l 0:00.230 i 32
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad)-glued.wav 52760 0 1750915285 0
+D y 2025-06-26 s 44100 n 2 r 0:05.561
+D l 0:00.146 i 32
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad).wav 503338 0 1364714861 0
+D s 44100 n 2 l 0:01.412 i 32
+F "Squarepusher - Andrei [4bM3yxq3iDg].wav" 21237838 0 1711258580 0
+D s 44100 n 2 l 2:00.395 i 16
+F "Think Shaker.wav" 373598 0 1643317338 0
+D s 44100 n 2 l 0:01.412 i 24
+F think-(composite)-waveadjust-q-t170-comp-waveadjust-cyanide-multiband-glued.wav 59544 0 1750736534 0
+D y 2025-06-24 s 44100 n 2 r 0:04.500
+D l 0:00.167 i 32
+F think-(composite)-waveadjust-q-t170-comp-waveadjust-cyanide-multiband.wav 498116 0 1351686351 0
+D s 44100 n 2 l 0:01.411 i 32
+F think1-q-t185bpm-compressed-glued-02.wav 16204 0 1751514559 0
+D y 2025-07-03 s 44100 n 2 r 0:25.756
+D l 0:00.073 i 16
+F think1-q-t185bpm-compressed-glued-07.wav 138112 0 1754725505 0
+D y 2025-08-09 s 48000 n 2 r 0:18.000
+D l 0:00.715 i 16
+F think1-q-t185bpm-compressed.wav 229110 0 1250529658 0
+D p 184.999388 s 44100 n 2 l 0:01.297
+D i 16
+F think2-q-t185bpm-compressed-glued-01.wav 206536 0 1750759764 0
+D y 2025-06-24 s 44100 n 2 r 0:38.833
+D l 0:01.167 i 16
+F think2-q-t185bpm-compressed-glued-02.wav 88936 0 1750826508 0
+D y 2025-06-25 s 44100 n 2 r 0:39.500
+D l 0:00.500 i 16
+F think2-q-t185bpm-compressed-glued-05.wav 764828 0 1751172358 0
+D y 2025-06-29 s 44100 n 2 r 0:21.000
+D l 0:04.317 i 16
+F think2-q-t185bpm-compressed-glued-06.wav 115936 0 1754723003 0
+D y 2025-08-09 s 48000 n 2 r 0:11.200
+D l 0:00.600 i 16
+F think2-q-t185bpm-compressed-glued-09.wav 291296 0 1754725899 0
+D y 2025-08-09 s 48000 n 2 r 0:19.599
+D l 0:01.500 i 16
+F think2-q-t185bpm-compressed-glued.wav 59536 0 1750759559 0
+D y 2025-06-24 s 44100 n 2 r 0:37.833
+D l 0:00.333 i 16
+F think2-q-t185bpm-compressed.wav 229110 0 1250529656 0
+D p 184.999388 s 44100 n 2 l 0:01.297
+D i 16
+F think3-q-t185bpm-compressed.wav 229110 0 1250529654 0
+D p 184.999388 s 44100 n 2 l 0:01.297
+D i 16
+F think4-q-t185bpm-compressed-glued-01.wav 49660 0 1754722533 0
+D y 2025-08-09 s 44100 n 2 r 0:10.653
+D l 0:00.277 i 16
+F think4-q-t185bpm-compressed-glued-02.wav 272096 0 1754722946 0
+D y 2025-08-09 s 48000 n 2 r 0:11.800
+D l 0:01.400 i 16
+F think4-q-t185bpm-compressed-glued.wav 88936 0 1750755518 0
+D y 2025-06-24 s 44100 n 2 r 0:24.250
+D l 0:00.500 i 16
+F think4-q-t185bpm-compressed.wav 229106 0 1250529652 0
+D p 185.002622 s 44100 n 2 l 0:01.297
+D i 16
+F tightenup-q-t185bpm-compressed-glued-02.wav 52364 0 1751809189 0
+D y 2025-07-06 s 44100 n 2 r 0:35.121
+D l 0:00.292 i 16
+F tightenup-q-t185bpm-compressed-glued-04.wav 59492 0 1751868764 0
+D y 2025-07-07 s 48000 n 2 r 0:33.365
+D l 0:00.292 i 16
+F tightenup-q-t185bpm-compressed.wav 457950 0 1250535658 0
+D p 185.001005 s 44100 n 2 l 0:02.594
+D i 16
+F "Whip sound effect [I2rFeL8aFrQ]-glued-01.wav" 69144 0 1754717990 0
+D y 2025-08-09 s 48000 n 2 r 0:12.000
+D l 0:00.356 i 16
+F "Whip sound effect [I2rFeL8aFrQ]-glued-02.wav" 69144 0 1754718120 0
+D y 2025-08-09 s 48000 n 2 r 0:11.600
+D l 0:00.356 i 16
+F "Whip sound effect [I2rFeL8aFrQ]-glued.wav" 800988 0 1751185368 0
+D y 2025-06-29 s 44100 n 2 r 0:24.292
+D l 0:04.536 i 16
+F "Whip sound effect [I2rFeL8aFrQ].wav" 168014 0 1667331648 0
+D s 44100 n 2 l 0:00.952 i 16
+F xfchiba_perc_1.wav 10452 0 1709418366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.057
+D i 16
+F "Ziggomatic 17 [Rv_lCXlfEnI]-glued-02.wav" 517040 0 1751181089 0
+D y 2025-06-29 s 44100 n 2 r 0:13.756
+D l 0:01.463 i 32
+F "Ziggomatic 17 [Rv_lCXlfEnI]-glued-03.wav" 103996 0 1751181460 0
+D y 2025-06-29 s 44100 n 2 r 0:14.926
+D l 0:00.585 i 16
+F "Ziggomatic 17 [Rv_lCXlfEnI]-glued.wav" 91088 0 1751171540 0
+D y 2025-06-29 s 44100 n 2 r 0:12.292
+D l 0:00.512 i 16
+F "Ziggomatic 17 [Rv_lCXlfEnI].wav" 98946638 0 1714635757 0
+D s 48000 n 2 l 8:35.346 i 16

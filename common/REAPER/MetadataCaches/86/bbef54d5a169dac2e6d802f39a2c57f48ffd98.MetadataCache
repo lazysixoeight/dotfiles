@@ -1,0 +1,256 @@
+C10018 /home/lazy/Music/Samples/Sound_Effects_3
+F _1__HI_M.flac 11779 0 1745761462 0
+D s 22000 n 1 l 0:00.412 i 8
+F _1__HI_M.mp3 5632 0 1745761462 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.412 i 90k
+F _1__HI_M.ogg 6393 0 1745761462 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.412
+D i 124k
+F _1__HI_M.WAV 9121 0 1745761462 0
+D s 22000 n 1 l 0:00.412 i 8
+F _1__LO_M.flac 12865 0 1745761530 0
+D s 22000 n 1 l 0:00.615 i 8
+F _1__LO_M.mp3 7168 0 1745761530 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.615 i 82k
+F _1__LO_M.ogg 7359 0 1745761530 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.615
+D i 96k
+F _1__LO_M.WAV 13594 0 1745761530 0
+D s 22000 n 1 l 0:00.615 i 8
+F _1__MARI.flac 11948 0 1745761532 0
+D s 22000 n 1 l 0:00.496 i 8
+F _1__MARI.mp3 5632 0 1745761532 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.496 i 82k
+F _1__MARI.ogg 6807 0 1745761532 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.496
+D i 110k
+F _1__MARI.WAV 10956 0 1745761532 0
+D s 22000 n 1 l 0:00.496 i 8
+F _1__SPAN.flac 10805 0 1745761569 0
+D s 22000 n 1 l 0:00.162 i 8
+F _1__SPAN.mp3 3584 0 1745761569 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.162 i 136k
+F _1__SPAN.ogg 5348 0 1745761569 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.162
+D i 263k
+F _1__SPAN.WAV 3628 0 1745761533 0
+D s 22000 n 1 l 0:00.162 i 8
+F _F__AT_Y.flac 17972 0 1745761572 0
+D s 22000 n 1 l 0:00.930 i 8
+F _F__AT_Y.mp3 9216 0 1745761572 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.930 i 75k
+F _F__AT_Y.ogg 9403 0 1745761572 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.930
+D i 81k
+F _F__AT_Y.WAV 20524 0 1745761571 0
+D s 22000 n 1 l 0:00.930 i 8
+F _F__BY_W.flac 15325 0 1745761572 0
+D s 22000 n 1 l 0:00.791 i 8
+F _F__BY_W.mp3 8192 0 1745761572 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.791 i 75k
+F _F__BY_W.ogg 8297 0 1745761572 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.791
+D i 84k
+F _F__BY_W.WAV 17452 0 1745761572 0
+D s 22000 n 1 l 0:00.791 i 8
+F _F__FAT_.flac 16462 0 1745761572 0
+D s 22000 n 1 l 0:01.117 i 8
+F _F__FAT_.mp3 11776 0 1745761572 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:01.117 i 79k
+F _F__FAT_.ogg 10198 0 1745761573 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:01.117
+D i 73k
+F _F__FAT_.WAV 24620 0 1745761572 0
+D s 22000 n 1 l 0:01.117 i 8
+F _F__GOOD.flac 15408 0 1745761573 0
+D s 22000 n 1 l 0:00.721 i 8
+F _F__GOOD.mp3 8192 0 1745761573 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.721 i 83k
+F _F__GOOD.ogg 8378 0 1745761573 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.721
+D i 93k
+F _F__GOOD.WAV 15916 0 1745761573 0
+D s 22000 n 1 l 0:00.721 i 8
+F WHACK_.WAV 2492 0 1745761435 0
+D s 22000 n 1 l 0:00.111 i 8
+F WHAT___F.flac 12845 0 1745761437 0
+D s 22000 n 1 l 0:00.582 i 8
+F WHAT___F.mp3 7680 0 1745761437 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.582 i 94k
+F WHAT___F.ogg 7285 0 1745761437 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.582
+D i 100k
+F WHAT___F.WAV 12844 0 1745761437 0
+D s 22000 n 1 l 0:00.582 i 8
+F WHAT__M1.flac 11254 0 1745761436 0
+D s 22000 n 1 l 0:00.367 i 8
+F WHAT__M1.mp3 5632 0 1745761436 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.367 i 101k
+F WHAT__M1.ogg 6379 0 1745761436 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.367
+D i 139k
+F WHAT__M1.WAV 8108 0 1745761436 0
+D s 22000 n 1 l 0:00.367 i 8
+F WHAT__M2.flac 11518 0 1745761436 0
+D s 22000 n 1 l 0:00.460 i 8
+F WHAT__M2.mp3 5120 0 1745761436 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.460 i 80k
+F WHAT__M2.ogg 6728 0 1745761436 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.460
+D i 117k
+F WHAT__M2.WAV 10156 0 1745761436 0
+D s 22000 n 1 l 0:00.460 i 8
+F WHEN___M.flac 12486 0 1745761438 0
+D s 22000 n 1 l 0:00.770 i 8
+F WHEN___M.mp3 9216 0 1745761438 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.770 i 88k
+F WHEN___M.ogg 7963 0 1745761438 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.770
+D i 83k
+F WHEN___M.WAV 16987 0 1745761438 0
+D s 22000 n 1 l 0:00.770 i 8
+F WHEN__F_.flac 12796 0 1745761437 0
+D s 22000 n 1 l 0:00.535 i 8
+F WHEN__F_.mp3 6656 0 1745761437 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.535 i 85k
+F WHEN__F_.ogg 7019 0 1745761437 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.535
+D i 105k
+F WHEN__F_.WAV 11820 0 1745761437 0
+D s 22000 n 1 l 0:00.535 i 8
+F WHEN__M2.flac 13385 0 1745761438 0
+D s 22000 n 1 l 0:00.698 i 8
+F WHEN__M2.mp3 7680 0 1745761438 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.698 i 76k
+F WHEN__M2.ogg 8097 0 1745761438 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.698
+D i 93k
+F WHEN__M2.WAV 15404 0 1745761438 0
+D s 22000 n 1 l 0:00.698 i 8
+F WHIP.flac 19969 0 1745761439 0
+D s 22000 n 1 l 0:01.117 i 8
+F WHIP.mp3 10752 0 1745761439 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:01.117 i 73k
+F WHIP.ogg 10062 0 1745761439 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:01.117
+D i 72k
+F WHIP.WAV 24620 0 1745761439 0
+D s 22000 n 1 l 0:01.117 i 8
+F WHIP__ME.flac 28151 0 1745761148 0
+D s 22000 n 1 l 0:01.815 i 8
+F WHIP__ME.mp3 15872 0 1745761148 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:01.815 i 67k
+F WHIP__ME.ogg 13578 0 1745761148 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:01.815
+D i 60k
+F WHIP__ME.WAV 39980 0 1745761148 0
+D s 22000 n 1 l 0:01.815 i 8
+F WHIP_CRA.flac 51075 0 1745761145 0
+D s 22000 n 1 l 0:07.275 i 8
+F WHIP_CRA.mp3 60928 0 1745761145 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:07.275 i 66k
+F WHIP_CRA.ogg 41089 0 1745761145 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:07.275
+D i 45k
+F WHISTLE2.ogg 8607 0 1745761188 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.931
+D i 74k
+F WHISTLE2.WAV 20534 0 1745761188 0
+D s 22000 n 1 l 0:00.931 i 8
+F WHY___F_.mp3 6656 0 1745761190 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.521 i 88k
+F WOW__M3_.mp3 11776 0 1745761210 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:01.280 i 70k
+F WOW__M3_.ogg 11155 0 1745761210 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:01.280
+D i 70k
+F WOW__M3_.WAV 28204 0 1745761210 0
+D s 22000 n 1 l 0:01.280 i 8
+F WRONG_M2.WAV 14893 0 1745761212 0
+D s 22000 n 1 l 0:00.675 i 8
+F YES__F_.flac 13694 0 1745761220 0
+D s 22000 n 1 l 0:00.652 i 8
+F YOUNG_EL.ogg 56774 0 1745761453 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:10.095
+D i 45k
+F YOUNG_EL.WAV 222143 0 1745761453 0
+D s 22000 n 1 l 0:10.095 i 8
+F YOUNG_TI.flac 81797 0 1745761454 0
+D s 22000 n 1 l 0:09.169 i 8
+F YOUNG_TI.mp3 74240 0 1745761454 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:09.169 i 64k
+F YOUNG_TI.ogg 50687 0 1745761454 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:09.169
+D i 44k
+F YOUNG_TI.WAV 201767 0 1745761454 0
+D s 22000 n 1 l 0:09.169 i 8
+F Z_FEMALE.flac 12713 0 1745761459 0
+D s 22000 n 1 l 0:00.559 i 8
+F Z_FEMALE.mp3 6144 0 1745761459 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.559 i 79k
+F Z_FEMALE.ogg 7038 0 1745761459 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.559
+D i 101k
+F Z_FEMALE.WAV 12332 0 1745761459 0
+D s 22000 n 1 l 0:00.559 i 8
+F Z_MALE.flac 13346 0 1745761460 0
+D s 22000 n 1 l 0:00.582 i 8
+F Z_MALE.mp3 6144 0 1745761460 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.582 i 77k
+F Z_MALE.ogg 7248 0 1745761460 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.582
+D i 100k
+F Z_MALE.WAV 12844 0 1745761460 0
+D s 22000 n 1 l 0:00.582 i 8
+F ZIPPER_D.flac 32466 0 1745761455 0
+D s 22000 n 1 l 0:01.827 i 8
+F ZIPPER_D.mp3 17920 0 1745761455 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:01.827 i 75k
+F ZIPPER_D.ogg 13929 0 1745761455 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:01.827
+D i 61k
+F ZIPPER_D.WAV 40236 0 1745761455 0
+D s 22000 n 1 l 0:01.827 i 8
+F ZIPPER_U.flac 29224 0 1745761456 0
+D s 22000 n 1 l 0:01.559 i 8
+F ZIPPER_U.mp3 14336 0 1745761456 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:01.559 i 69k
+F ZIPPER_U.ogg 12291 0 1745761456 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:01.559
+D i 63k
+F ZIPPER_U.WAV 34348 0 1745761456 0
+D s 22000 n 1 l 0:01.559 i 8
+F ZOO.flac 269717 0 1745761458 0
+D s 22000 n 1 l 0:26.347 i 8
+F ZOO.mp3 216064 0 1745761458 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:26.347 i 65k
+F ZOO.ogg 142221 0 1745761459 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:26.347
+D i 43k
+F ZOO.WAV 579673 0 1745761457 0
+D s 22000 n 1 l 0:26.347 i 8

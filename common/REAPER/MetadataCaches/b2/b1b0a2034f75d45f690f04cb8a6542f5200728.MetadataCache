@@ -1,0 +1,48 @@
+C10018 /home/lazy/Music/Samples/OG_Amen_Breaks/Fanu
+F "amen sick.wav" 796004 0 1383273846 0
+D t "amen sick" s 44100 n 1 l 0:08.910
+D i 16
+F amen-2000xl-quieter.wav 1194962 0 1383273846 0
+D s 44100 n 2 l 0:06.767 i 16
+F amen-2000xl-quieterer.wav 1185380 0 1383273846 0
+D s 44100 n 2 l 0:06.712 i 16
+F "amen-2000xl-quietererer-SOFTEN 2.wav" 294628 0 1443962096 0
+D s 44100 n 2 l 0:01.670 i 16
+F amen-2000xl-quietererer-SOFTEN.wav 294628 0 1443962096 0
+D s 44100 n 2 l 0:01.670 i 16
+F amen-2000xl-quietererer.wav 1185174 0 1383273846 0
+D s 44100 n 2 l 0:06.711 i 16
+F amen-2000xl.wav 1229382 0 1383273846 0
+D s 44100 n 2 l 0:06.962 i 16
+F amen-7-mpc60-jepa.wav 615426 0 1459855710 0
+D s 44100 n 1 r 0:14.000 l 0:06.967
+D i 16
+F amen-7.wav 1230302 0 1459839032 0
+D s 44100 n 2 l 0:06.974 i 16
+F "AMEN-cassette 1.wav" 886454 0 1483277474 0
+D s 44100 n 1 l 0:06.700 i 24
+F "AMEN-cassette 2.wav" 939374 0 1483277470 0
+D s 44100 n 1 l 0:07.100 i 24
+F "AMEN-cassette 3.wav" 933222 0 1483277464 0
+D s 44100 n 1 l 0:07.053 i 24
+F "AMEN-cassette 4.wav" 939374 0 1483277458 0
+D s 44100 n 1 l 0:07.100 i 24
+F "AMEN-cassette 5.wav" 932088 0 1483277452 0
+D s 44100 n 1 l 0:07.045 i 24
+F "AMEN-cassette 6.wav" 930932 0 1483277446 0
+D s 44100 n 1 l 0:07.036 i 24
+F Amen-from-the-45-N200.WAV 1255854 0 1383273846 0
+D t Amen-from-the-45-N200 s 44100 n 2 l 0:07.084
+D i 16
+F Amen-from-the-45.wav 1259610 0 1383273846 0
+D t Amen-from-the-45 y 2005-08-24 s 44100 n 2
+D l 0:07.069 i 16
+F amen-sonalksis-multilimit-comp.wav 1180208 0 1483277316 0
+D s 44100 n 2 l 0:06.690 i 16
+F amen-sonalksis-multilimit.wav 1180208 0 1483277322 0
+D s 44100 n 2 l 0:06.690 i 16
+F AMEN.wav 602392 0 1383273846 0
+D t AMEN p 143 s 44100 n 1
+D l 0:06.690 i 16
+F Amen_Earsports_Eps.wav 387438 0 1383273846 0
+D s 44100 n 2 l 0:02.188 i 16

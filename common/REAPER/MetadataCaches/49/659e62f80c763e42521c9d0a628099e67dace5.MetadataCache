@@ -1,0 +1,154 @@
+C10018 "/home/lazy/Documents/REAPER Media"
+F 01-250812_1719-jsfx.wav 15815608 0 1754993984 0
+D y 2025-08-12 s 48000 n 2 l 0:41.184
+D i 32
+F 01-amen-single-eq-q-t155-c-tr-250814_2016-jsfx.wav 467448 0 1755177403 0
+D y 2025-08-14 s 48000 n 2 l 0:01.215
+D i 32
+F 01-amen-single-eq-q-t155-c-tr-250815_1138-jsfx.wav 2100944 0 1755232734 0
+D y 2025-08-15 s 48000 n 2 l 0:05.469
+D i 32
+F 01-amen-single-eq-q-t155-c-tr-250815_1139-jsfx.wav 1307536 0 1755232790 0
+D y 2025-08-15 s 48000 n 2 l 0:03.403
+D i 32
+F "01-MIDI render 003-glued.wav" 1423568 0 1755862374 0
+D y 2025-08-22 s 48000 n 2 l 0:04.931
+D i 24
+F "04-MIDI render 003-glued.wav" 600928 0 1751184444 0
+D y 2025-06-29 s 44100 n 2 r 0:22.097
+D l 0:02.268 i 24
+F "AMEN 1 - Kick-glued.wav" 106696 0 1751429745 0
+D y 2025-07-02 s 44100 n 2 r 0:14.926
+D l 0:00.300 i 32
+F "amen 2-glued.wav" 104000 0 1751430168 0
+D y 2025-07-02 s 44100 n 2 r 0:15.804
+D l 0:00.292 i 32
+F "amen 4-glued.wav" 627944 0 1751881124 0
+D y 2025-07-07 s 44100 n 2 l 0:01.777
+D i 32
+F "amen-single-eq-q-t155-c-tr render 001-glued.wav" 118520 0 1754708240 0
+D y 2025-08-09 s 48000 n 2 r 0:08.199
+D l 0:00.400 i 24
+F "amen-single-eq-q-t155-c-tr reversed 005-glued.wav" 87614 0 1755955855 0
+D y 2025-08-23 s 96000 n 2 r 0:01.682
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued-01.wav 64342 0 1750859250 0
+D y 2025-06-25 s 48000 n 2 r 0:00.585
+D l 0:00.220 i 24
+F amen-single-eq-q-t155-c-tr-glued-02.wav 106486 0 1750859266 0
+D y 2025-06-25 s 48000 n 2 r 0:01.463
+D l 0:00.366 i 24
+F amen-single-eq-q-t155-c-tr-glued-07.wav 84484 0 1750918385 0
+D y 2025-06-26 s 96000 n 2 r 0:01.600
+D l 0:00.145 i 24
+F amen-single-eq-q-t155-c-tr-glued-09.wav 80120 0 1750918587 0
+D y 2025-06-26 s 48000 n 2 r 0:02.000
+D l 0:00.267 i 24
+F amen-single-eq-q-t155-c-tr-glued-10.wav 77920 0 1750918759 0
+D y 2025-06-26 s 96000 n 2 r 0:02.666
+D l 0:00.133 i 24
+F amen-single-eq-q-t155-c-tr-glued-11.wav 77920 0 1750918987 0
+D y 2025-06-26 s 96000 n 2 r 0:03.733
+D l 0:00.133 i 24
+F amen-single-eq-q-t155-c-tr-glued-12.wav 77920 0 1750919149 0
+D y 2025-06-26 s 96000 n 2 r 0:04.267
+D l 0:00.133 i 24
+F amen-single-eq-q-t155-c-tr-glued-13.wav 41720 0 1750919447 0
+D y 2025-06-26 s 48000 n 2 r 0:03.733
+D l 0:00.133 i 24
+F amen-single-eq-q-t155-c-tr-glued-15.wav 394630 0 1750921078 0
+D y 2025-06-26 s 96000 n 2 r 0:09.998
+D l 0:00.683 i 24
+F amen-single-eq-q-t155-c-tr-glued-16.wav 127558 0 1751427079 0
+D y 2025-07-02 s 48000 n 2 r 0:13.243
+D l 0:00.439 i 24
+F amen-single-eq-q-t155-c-tr-glued-19.wav 87614 0 1751429192 0
+D y 2025-07-02 s 48000 n 2 r 0:14.487
+D l 0:00.292 i 24
+F amen-single-eq-q-t155-c-tr-glued-22.wav 491890 0 1753009161 0
+D y 2025-07-20 s 96000 n 2 r 0:09.458
+D l 0:00.852 i 24
+F amen-single-eq-q-t155-c-tr-glued-24.wav 1349800 0 1755176989 0
+D y 2025-08-14 s 96000 n 2 l 0:02.341
+D i 24
+F amen-single-eq-q-t155-c-tr-glued-28.wav 1349800 0 1755231750 0
+D y 2025-08-15 s 96000 n 2 l 0:02.341
+D i 24
+F amen-single-eq-q-t155-c-tr-glued-30.wav 1349800 0 1755608266 0
+D y 2025-08-19 s 96000 n 2 r 0:03.512
+D l 0:02.341 i 24
+F amen-single-eq-q-t155-c-tr-glued-31.wav 87614 0 1755609242 0
+D y 2025-08-19 s 96000 n 2 r 0:01.609
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued-32.wav 85414 0 1755685816 0
+D y 2025-08-20 s 96000 n 2 r 0:00.585
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued-34.wav 85414 0 1755954090 0
+D y 2025-08-23 s 96000 n 2 l 0:00.146
+D i 24
+F amen-single-eq-q-t155-c-tr-glued-36.wav 108686 0 1755954696 0
+D y 2025-08-23 s 48000 n 2 r 0:00.292
+D l 0:00.365 i 24
+F amen-single-eq-q-t155-c-tr-glued-38.wav 43264 0 1755955493 0
+D y 2025-08-23 s 96000 n 2 r 0:01.024
+D l 0:00.073 i 24
+F amen-single-eq-q-t155-c-tr-glued-40.wav 85414 0 1755955776 0
+D y 2025-08-23 s 96000 n 2 r 0:01.390
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued-41.wav 127558 0 1755956006 0
+D y 2025-08-23 s 96000 n 2 r 0:01.756
+D l 0:00.219 i 24
+F amen-single-eq-q-t155-c-tr-glued-42.wav 169324 0 1755956365 0
+D y 2025-08-23 s 96000 n 2 r 0:01.902
+D l 0:00.292 i 24
+F amen-single-eq-q-t155-c-tr-glued-43.wav 85414 0 1755956612 0
+D y 2025-08-23 s 96000 n 2 r 0:02.195
+D l 0:00.146 i 24
+F amen-single-eq-q-t155-c-tr-glued.wav 169708 0 1750327973 0
+D y 2025-06-19 s 96000 n 2 r 0:01.976
+D l 0:00.293 i 24
+F "apache render 001-glued.wav" 60896 0 1754708389 0
+D y 2025-08-09 s 48000 n 2 r 0:08.699
+D l 0:00.200 i 24
+F "breakdown render 001-glued.wav" 118496 0 1754707885 0
+D y 2025-08-09 s 48000 n 2 r 0:06.500
+D l 0:00.400 i 24
+F breakdown-glued.wav 87590 0 1751682784 0
+D y 2025-07-05 s 48000 n 2 r 0:29.414
+D l 0:00.292 i 24
+F cw_amen13_173-glued-01.wav 181440 0 1750327795 0
+D y 2025-06-19 s 44100 n 2 r 0:01.537
+D l 0:01.024 i 16
+F "Ed MacFarlane ⧸ Various Artists - Jeffries ⧸ Carewe ⧸ Greig - Evil At Play [4135114788]-glued.wav" 118288 0 1751949343 0
+D y 2025-07-08 s 44100 n 2 l 0:00.666
+D i 16
+F fools_gold-q-t180-comp-glued.wav 21392 0 1750140589 0
+D y 2025-06-17 s 44100 n 2 r 0:01.098
+D l 0:00.059 i 32
+F "oru_fx_rain_X render 001-glued.wav" 52304096 0 1753881150 0
+D y 2025-07-30 s 48000 n 2 l 3:01.600
+D i 24
+F "soul (crashes)_q_175-glued.wav" 99076 0 1755955563 0
+D y 2025-08-23 s 48000 n 2 r 0:01.243
+D l 0:00.512 i 16
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad)-glued-01.wav 543552 0 1754741756 0
+D y 2025-08-09 s 48000 n 2 l 0:01.412
+D i 32
+F think-(composite)-waveadjust-q-t170-comp-waveadjust-cyanide-multiband-glued-01.wav 324144 0 1750681132 0
+D y 2025-06-23 s 44100 n 2 r 0:00.333
+D l 0:00.917 i 32
+F "think2-q-t185bpm-compressed render 002-glued.wav" 176096 0 1754707305 0
+D y 2025-08-09 s 48000 n 2 r 0:05.099
+D l 0:00.600 i 24
+F "think2-q-t185bpm-compressed render 003-glued.wav" 176096 0 1754707420 0
+D y 2025-08-09 s 48000 n 2 r 0:05.099
+D l 0:00.600 i 24
+F think3-q-t185bpm-compressed-glued-01.wav 132368 0 1751429410 0
+D y 2025-07-02 s 44100 n 2 r 0:15.585
+D l 0:00.731 i 16
+F "weymen-q-t170bpm-compressed reversed 001-glued.wav" 52376 0 1750141347 0
+D y 2025-06-17 s 44100 n 2 r 0:03.280
+D l 0:00.146 i 32
+F "Ziggomatic 17 [Rv_lCXlfEnI]-glued.wav" 56932 0 1751430044 0
+D y 2025-07-02 s 48000 n 2 r 0:15.512
+D l 0:00.292 i 16

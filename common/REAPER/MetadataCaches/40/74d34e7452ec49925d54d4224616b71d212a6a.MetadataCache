@@ -1,0 +1,124 @@
+C10018 "/home/lazy/Music/Samples/novel school supplies vol.1/fx"
+F awe_fx_gluk_X.wav 397138 0 1709418366 0
+D s 48000 n 2 l 0:01.033 i 32
+F awe_fx_konfeta_X.wav 491076 0 1709418366 0
+D s 48000 n 2 l 0:01.278 i 32
+F awe_fx_oshibka_X.wav 118044 0 1709418366 0
+D s 48000 n 2 l 0:00.306 i 32
+F awe_fx_reshenie_X.wav 1223540 0 1709418366 0
+D s 48000 n 2 l 0:03.185 i 32
+F awe_fx_vybor_X.wav 321034 0 1709418366 0
+D s 48000 n 2 l 0:00.835 i 32
+F awe_melodicfx_cvetok_A.wav 635922 0 1709418366 0
+D s 48000 n 2 l 0:01.655 i 32
+F awe_melodicfx_holm_D#.wav 1436004 0 1709418366 0
+D s 48000 n 2 l 0:03.738 i 32
+F BOBA_fx_bg_shimmer1_CMaj.wav 3694916 0 1709418366 0
+D y 2023-11-0 s 48000 n 2 r 1:00:06.400
+D l 0:19.200 i 16
+F BOBA_fx_bg_shimmer2_CMaj.wav 3694916 0 1709418366 0
+D y 2023-11-0 s 48000 n 2 r 1:00:06.400
+D l 0:19.200 i 16
+F BOBA_fx_bg_shimmer3_CMaj.wav 3694916 0 1709418366 0
+D y 2023-11-0 s 48000 n 2 r 1:00:06.400
+D l 0:19.200 i 16
+F BOBA_fx_riser_tsarriserreal.wav 2155846 0 1709418366 0
+D y 2023-11-0 s 48000 n 2 r 1:00:06.400
+D l 0:11.200 i 16
+F cash_fx_foley_1.wav 1152044 0 1709418366 0
+D s 48000 n 2 l 0:03.000 i 32
+F cash_fx_foley_2.wav 672044 0 1709418366 0
+D s 48000 n 2 l 0:01.750 i 32
+F cash_melodic_fx_A.wav 1152044 0 1709418366 0
+D s 48000 n 2 l 0:03.000 i 32
+F cash_melodic_fx_B.wav 1536044 0 1709418366 0
+D s 48000 n 2 l 0:04.000 i 32
+F CYBER_fx_CarCrash_150.wav 2258102 0 1709418366 0
+D s 44100 n 2 l 0:12.800 i 16
+F CYBER_fx_Exhausting_X.wav 1693622 0 1709418366 0
+D s 44100 n 2 l 0:09.600 i 16
+F CYBER_fx_Hydraulics_X.wav 1693622 0 1709418366 0
+D s 44100 n 2 l 0:09.600 i 16
+F CYBER_fx_PrettyHit2_AMaj_150.wav 1129142 0 1709418366 0
+D s 44100 n 2 l 0:06.400 i 16
+F CYBER_fx_PrettyHit_AMaj_150.wav 1129142 0 1709418366 0
+D s 44100 n 2 l 0:06.400 i 16
+F kadenic_fx_botanica-sparkles-cut.flac 2069222 0 1709418366 0
+D t kadenic_fx_botanica-sparkles-cut s 44100 n 2 l 0:19.874
+D i 16
+F kadenic_fx_therapy-dark-ambience-cut1.flac 1829368 0 1709418366 0
+D t kadenic_fx_therapy-dark-ambience-cut1 s 44100 n 2 l 0:24.606
+D i 16
+F kadenic_fx_therapy-dark-ambience-cut2.flac 2436560 0 1709418366 0
+D t kadenic_fx_therapy-dark-ambience-cut2 s 44100 n 2 l 0:25.393
+D i 16
+F "navi_fx_bubbly sweep.wav" 2028814 0 1709418366 0
+D p 177.3913 s 44100 n 2 l 0:05.750
+D i 32
+F navi_fx_night.wav 17060126 0 1709418368 0
+D p 130.2844 s 44100 n 2 l 0:48.355
+D i 32
+F "navi_fx_pew pew pew sweep f maj.wav" 2360310 0 1709418368 0
+D s 44100 n 2 l 0:13.380 i 16
+F navi_fx_rain.wav 22348734 0 1709418368 0
+D p 129.7632 s 44100 n 2 l 1:03.346
+D i 32
+F "navi_fx_simple chord sweep_a maj.wav" 1940614 0 1709418368 0
+D p 185.4545 s 44100 n 2 l 0:05.500
+D i 32
+F "navi_fx_the infernal abyss.wav" 35712450 0 1709418368 0
+D s 44100 n 2 l 1:41.225 i 32
+F oru_fx_blood_E.wav 2303850 0 1709418368 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:07.998 i 24
+F oru_fx_cuts_X.wav 2258298 0 1709418368 0
+D s 44100 n 2 l 0:06.400 i 32
+F oru_fx_echolaser_X.wav 1888914 0 1709418368 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:06.557 i 24
+F oru_fx_hoshi_X.wav 1843914 0 1709418368 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:06.401 i 24
+F oru_fx_rain_X.wav 34867244 0 1709418368 0
+D s 48000 n 2 l 3:01.600 i 16
+F oru_fx_school_X.wav 17387564 0 1709418368 0
+D s 48000 n 2 l 1:30.560 i 16
+F oru_fx_up!_X.wav 197286 0 1709418368 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:00.683 i 24
+F oru_fx_water_X.wav 16977218 0 1709418368 0
+D s 48000 n 2 l 0:44.210 i 32
+F paxenimzi_melodic_fx_digitaldoodad10_AbMaj.mp3 191040 0 1709418368 0
+D s 48000 n 2 l 0:04.752 i 322k
+F paxenimzi_melodic_fx_digitaldoodad1_AbMaj.mp3 225600 0 1709418368 0
+D s 48000 n 2 l 0:05.616 i 321k
+F paxenimzi_melodic_fx_digitaldoodad2_AbMaj.mp3 242880 0 1709418368 0
+D s 48000 n 2 l 0:06.048 i 321k
+F paxenimzi_melodic_fx_digitaldoodad3_AbMaj.mp3 167040 0 1709418368 0
+D s 48000 n 2 l 0:04.152 i 322k
+F paxenimzi_melodic_fx_digitaldoodad4_AbMaj.mp3 146880 0 1709418368 0
+D s 48000 n 2 l 0:03.648 i 322k
+F paxenimzi_melodic_fx_digitaldoodad5_AbMaj.mp3 157440 0 1709418368 0
+D s 48000 n 2 l 0:03.912 i 322k
+F paxenimzi_melodic_fx_digitaldoodad6_BbMaj.mp3 195840 0 1709418368 0
+D s 48000 n 2 l 0:04.872 i 322k
+F paxenimzi_melodic_fx_digitaldoodad7_AbMaj.mp3 235200 0 1709418368 0
+D s 48000 n 2 l 0:05.856 i 321k
+F paxenimzi_melodic_fx_digitaldoodad8_CMaj.mp3 198720 0 1709418368 0
+D s 48000 n 2 l 0:04.944 i 321k
+F paxenimzi_melodic_fx_digitaldoodad9_AbMaj.mp3 191040 0 1709418368 0
+D s 48000 n 2 l 0:04.752 i 322k
+F phucsmink_fx_bg_neon_alleyway_cminor.wav 8507126 0 1709418368 0
+D s 48000 n 2 l 0:29.538 i 24
+F xfchiba_fx_glitch_1.wav 264876 0 1709418368 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.500
+D i 16
+F xfchiba_fx_glitch_2.wav 88476 0 1709418368 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.500
+D i 16
+F xfchiba_fx_glitch_3.wav 220776 0 1709418370 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.250
+D i 16
+F xfchiba_fx_glitch_4.wav 132576 0 1709418370 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.750
+D i 16

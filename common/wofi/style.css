@@ -29,15 +29,16 @@ window {
 
 
 #input {
-	border: 1px solid @bg;
 	font-size: 16px;
 	background-color: #282828;
 	border-radius: 0px;
+	border: 1px solid @bg;
 }
 
 #entry {
-	background-color: @unfocused;
+	background-color: @bg;
 	border-radius: 0px;
+	padding: 4px;
 }
 
 #entry:selected {
@@ -45,6 +46,7 @@ window {
 	border: 1px solid @focused_border;
 	outline: none;
 	border-radius: 0px;
+	padding: 4px;
 }
 
 #img:selected {

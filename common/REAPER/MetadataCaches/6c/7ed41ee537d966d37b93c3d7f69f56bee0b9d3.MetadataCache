@@ -1,0 +1,65 @@
+C10018 "/home/lazy/Music/Samples/novel school supplies vol.1/synths/pads"
+F Anthesis_pad_breeze_F#maj.wav 4505396 0 1709418372 0
+D s 48000 n 2 l 0:11.732 i 32
+F Anthesis_pad_giant_Dmaj.wav 7065644 0 1709418372 0
+D s 48000 n 2 l 0:18.400 i 32
+F awe_pad_tayna_E.wav 9150938 0 1709418372 0
+D s 48000 n 2 l 0:23.829 i 32
+F awe_pad_wremya_Dm.wav 7229876 0 1709418372 0
+D s 48000 n 2 l 0:18.827 i 32
+F DSPHNG_pad_ambience_aero_Fmaj.wav 5524768 0 1709418372 0
+D c "Recorded on 25-10-23 in Edison." s 44100 n 2 l 0:31.318
+D i 16
+F DSPHNG_pad_ambience_quantise_Ebmaj.wav 5780236 0 1709418372 0
+D c "Recorded on 25-10-23 in Edison." s 44100 n 2 l 0:32.766
+D i 16
+F kadenic_pad_bad-rec_Ab.flac 533493 0 1709418372 0
+D t kadenic_pad_bad-rec_Ab s 44100 n 2 l 0:09.243
+D i 16
+F kadenic_pad_coolmelodic-resample-cut_E.wav 2014100 0 1709418372 0
+D s 44100 n 2 l 0:11.412 i 16
+F kadenic_pad_end-portal-cut_Dm.flac 3164214 0 1709418372 0
+D t kadenic_pad_end-portal-cut_Dm s 44100 n 2 l 0:39.079
+D i 16
+F kadenic_pad_granular_bell_C.flac 539449 0 1709418372 0
+D t kadenic_granular_bell_C s 44100 n 2 l 0:10.612
+D i 16
+F kadenic_pad_granular_Eb.flac 468386 0 1709418372 0
+D t kadenic_pad_granular_Eb s 44100 n 2 l 0:07.616
+D i 16
+F linkedwinters_pad_ceramic_Emaj.wav 5332890 0 1709418372 0
+D s 44100 n 2 l 0:30.230 i 16
+F linkedwinters_pad_dontgo_Gmaj.wav 5536430 0 1709418372 0
+D s 44100 n 2 l 0:31.384 i 16
+F linkedwinters_pad_hay_fever_Dmaj.wav 5332890 0 1709418372 0
+D s 44100 n 2 l 0:30.230 i 16
+F linkedwinters_pad_melodic_fx_particles_Fmaj.wav 5443986 0 1709418374 0
+D s 44100 n 2 l 0:30.860 i 16
+F linkedwinters_pad_violet_2_Gmaj.wav 3456942 0 1709418374 0
+D s 44100 n 2 l 0:19.596 i 16
+F linkedwinters_pad_violet_Gmaj.wav 4366082 0 1709418374 0
+D s 44100 n 2 l 0:24.750 i 16
+F "navi_pad_first_rain_a maj.wav" 5527414 0 1709418374 0
+D p 180 s 44100 n 2 l 0:15.666
+D i 32
+F navi_pad_spectral_spores_f.wav 14329318 0 1709418374 0
+D p 130 s 44100 n 2 l 0:40.615
+D i 32
+F oru_pad_favor_A.wav 1732914 0 1709418374 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:06.015 i 24
+F oru_pad_introductive0_Ab.wav 2304414 0 1709418374 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:08.000 i 24
+F oru_pad_introductive1_Ab.wav 2304414 0 1709418374 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:08.000 i 24
+F "oru_pad_musician _Db.wav" 2339010 0 1709418374 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:08.120 i 24
+F oru_pad_rainfall_Eb.wav 8658414 0 1709418374 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:30.062 i 24
+F "oru_pad_weatherreport _Eb.wav" 1731510 0 1709418374 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:06.010 i 24

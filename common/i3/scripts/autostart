@@ -1,0 +1,4 @@
+pkill dunst; dunst &
+pkill feh; feh --bg-scale ~/dotfiles/wallpapers/4.png &
+pkill picom; picom -b &
+pkill i3-ipc & pkill eww; eww daemon; eww open bar

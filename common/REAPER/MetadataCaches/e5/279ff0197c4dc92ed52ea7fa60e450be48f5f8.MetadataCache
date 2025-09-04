@@ -1,0 +1,65 @@
+C10018 "/home/lazy/Music/Samples/breakcore is not a good way to get laid/breakz"
+F Amen_1.wav 571588 0 1092416336 0
+D y 2001-06-02 s 44100 n 1 l 0:06.479
+D i 16
+F Amen_2.wav 263100 0 1092416368 0
+D s 44100 n 2 l 0:01.491 i 16
+F Amen_3.wav 154224 0 1092416394 0
+D s 44100 n 2 l 0:00.874 i 16
+F Amen_Weird_1.wav 235188 0 1092416418 0
+D s 44100 n 2 l 0:01.333 i 16
+F Apache_1.wav 730242 0 1092416446 0
+D y 2001-06-26 s 44100 n 1 l 0:08.278
+D i 16
+F Cold_Sweat_1.wav 127518 0 1092416480 0
+D t "coldsweat brk" y 2001-09-02 s 44100 n 1
+D l 0:01.443 i 16
+F Drum_Time_1.wav 2933668 0 1092416542 0
+D s 44100 n 2 l 0:16.630 i 16
+F Eyebreak_1.wav 94064 0 1092416568 0
+D s 22050 n 1 l 0:02.131 i 16
+F Firefight_1.wav 236404 0 1092416594 0
+D s 44100 n 2 l 0:01.339 i 16
+F Firefight_2.wav 241008 0 1092416620 0
+D s 44100 n 2 l 0:01.366 i 16
+F Firefight_3.wav 125588 0 1092416644 0
+D t firefight.wav y 2000-02-24 c "170.0 BPM    Some sort of processed amen break, used a lot by DJ Trace, but said to have been originally engineered by Dom & Roland.    This is a 44100 Hz resampled version of the weird-Hz & high-BPM version previously available on 187's (Jordana's) web page.  " s 44100
+D n 1 l 0:01.411 i 16
+F Funky_Drum_1.wav 217214 0 1092416670 0
+D s 22050 n 2 l 0:02.461 i 16
+F Happy_Soul_1.wav 619940 0 1092416696 0
+D y 2001-06-03 s 44100 n 1 l 0:07.027
+D i 16
+F Horizons_1.wav 264308 0 1092416720 0
+D y 1998-06-13 s 44100 n 1 l 0:02.994
+D i 16
+F Rising_Funk_1.wav 1758730 0 1092416746 0
+D s 44100 n 2 l 0:09.969 i 16
+F Samurai_1.wav 264620 0 1092416772 0
+D t "samurai brk" y 2001-09-02 s 44100 n 1
+D l 0:02.998 i 16
+F Soulpride_1.wav 331390 0 1092416796 0
+D t "soulpride brk 01" y 2001-09-02 s 44100 n 1
+D l 0:03.755 i 16
+F Soulpride_2.wav 163960 0 1092416822 0
+D t "soulpride brk 02" y 2001-09-02 s 44100 n 1
+D l 0:01.857 i 16
+F Soulpride_3.wav 228226 0 1092416846 0
+D t "soulpride brk 03" y 2001-09-02 s 44100 n 1
+D l 0:02.585 i 16
+F Soulpride_4.wav 164572 0 1092416872 0
+D t "soulpride brk 04" y 2001-09-02 s 44100 n 1
+D l 0:01.863 i 16
+F Soulpride_5.wav 159228 0 1092416898 0
+D t "soulpride brk 05" y 2001-09-02 s 44100 n 1
+D l 0:01.803 i 16
+F Think_1.wav 369456 0 1092416922 0
+D s 44100 n 2 l 0:02.094 i 16
+F Think_2.wav 1122960 0 1092416948 0
+D s 44100 n 2 l 0:06.365 i 16
+F Think_Tambourine_1.wav 194336 0 1092416974 0
+D s 44100 n 2 l 0:01.101 i 16
+F Unknown_1.wav 134020 0 1092416998 0
+D s 44100 n 1 l 0:01.519 i 16
+F Unknown_2.wav 524854 0 1092417024 0
+D s 44100 n 1 l 0:05.950 i 16

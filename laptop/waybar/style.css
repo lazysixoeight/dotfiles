@@ -3,41 +3,45 @@
 	opacity: 1.0;
 	border-radius: 0;
 	padding: 0px;
+	margin: 0px;
+	min-width: 0px;
 }
 
-@define-color orange	#e78a4e;
-@define-color green	#a9b665;
-@define-color blue	#d3869b;
+@define-color orange	#fd971f;
+@define-color green	#a6e22e;
+@define-color blue	#f92672;
 
-@define-color warning	#c00000;
-@define-color warning_border	#f00000;
-@define-color focused	#356769;
-@define-color focused_border	#7daea3;
-@define-color inactive	#282828;
-@define-color inactive_border	#1d2021;
-@define-color unfocused	#1d2021;
-@define-color unfocused_border	#282828;
+@define-color warning	#cc0000;
+@define-color warning_border	#ff0000;
+@define-color focused	#224e7d;
+@define-color focused_border	#46719f;
+@define-color inactive	#272822;
+@define-color inactive_border	#1d1e19;
+@define-color unfocused	#1d1e19;
+@define-color unfocused_border	#272822;
 
-@define-color fg	#ebdbb2;
-@define-color fg2	#7c6f64;
-@define-color bg	#141617;
+@define-color fg	#fdfff1;
+@define-color fg2	#6a7066;
+@define-color bg	#161613;
+@define-color bg2	#272822;
 
 #waybar {
 	background: @bg;
 	color: @fg;
 	font-family: DejaVuSansM Nerd Font;
-	font-size: 15.8px;
+	font-size: 16px;
+	padding: 0px;
 }
 
 /* Workspaces stuff */
 #workspaces {
-	margin-right: 6px;
+/*	margin-right: 4px; */
 }
 
 #workspaces button {
 	/*font-weight: bold;*/
-	padding-left: 3px;
-	padding-right: 3px;
+	padding-left: 8px;
+	padding-right: 8px;
 	color: @fg2;
 	background: @unfocused;
 	border: 1px solid @unfocused_border;
@@ -48,8 +52,6 @@
 
 #workspaces button:hover {
 	/*font-weight: bold;*/
-	padding-left: 3px;
-	padding-right: 3px;
 	color: @fg2;
 	background: @unfocused;
 	border: 1px solid @unfocused_border;
@@ -76,7 +78,23 @@
 	border: 1px solid @warning_border;
 }
 
+#mode {
+	background: @warning;
+	border: 1px solid @warning_border;
+	color: @fg;
+	margin-left: 6px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+#window {
+	padding-left: 5px;
+}
+
 /* Right modules */
+#tray {
+  margin-right: 2px;
+}
 #custom-separator4 {
 	color: @blue;
 
@@ -107,29 +125,68 @@
 
 #custom-separator1 {
 	background: @orange;
-	color: @inactive;
+	color: @bg2;
 }
 
 #clock {
 	color: @fg;
+	background: @bg2;
+	padding-right: 6px;
+}
+
+#custom-separator0 {
 	background: @inactive;
-	padding-right: 5px;
+	color: @red;
+}
+
+#custom-power {
+	color: @bg;
+	background: @red;
+	padding-right: 0px;
+}
+
+/* Menu Style */
+menu {
+	padding: 1px;
+	background: #1a1a1a;
+}
+
+menuitem {
+	font-size: 16px;
+	padding: 4px;
+	background: @inactive_border;
+	border: 1px solid @inactive_border;
+}
+
+menuitem:hover {
+	color: @fg2;
+	background: @focused;
+	border: 1px solid @focused_border;
+	color: @fg;
 }
 
 /* Use Siji icons */
 #network,
 #battery,
 #language,
-#clock {
+#clock,
+#custom-power {
 	font-family: DejaVu Sans Mono, Siji;
-	border-bottom: 1px solid @bg;
 }
 
 /* Align separators */
 #custom-separator4,
 #custom-separator3,
 #custom-separator2,
-#custom-separator1 {
-	font-size: 20px;
-	border-bottom: 1px solid @bg;
+#custom-separator1,
+#custom-separator0 {
+	font-size: 24.2px;
+}
+
+/* Some tweaks */
+#custom-power {
+	font-size: 18px;
+}
+#custom-separator0 {
+	font-size: 21.2px;
 }

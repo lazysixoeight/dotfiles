@@ -1,0 +1,31 @@
+C10018 "/home/lazy/Music/Samples/novel school supplies vol.1/drums/percs, foley"
+F DSPHNG_perc_cardboard.wav 49266 0 1709418366 0
+D c "Recorded on 7-6-23 in Edison." s 44100 n 2 l 0:00.277
+D i 16
+F DSPHNG_perc_wetcement.wav 49594 0 1709418366 0
+D c "Recorded on 7-6-23 in Edison." s 44100 n 2 l 0:00.279
+D i 16
+F oru_perc_kamera_Ab.wav 103914 0 1709418366 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:00.359 i 24
+F "oru_placeholderloop _128BPM.wav" 1080414 0 1709418366 0
+D a oru g Indie c "18 - @whosoru everywhere  support me: twitter.com/whosoru https://soundcloud.com/whosoru spoti.fi/3yLDjV4  join my discord: discord.gg/QWJbFsNfBb" s 48000
+D n 2 l 0:03.750 i 24
+F oru_useless_foley_7.wav 283146 0 1709418366 0
+D a Oru s 44100 n 2 l 0:01.604
+D i 16
+F xfchiba_perc_0.wav 10452 0 1709418366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.057
+D i 16
+F xfchiba_perc_1.wav 10452 0 1709418366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.057
+D i 16
+F xfchiba_perc_2.wav 10452 0 1709418366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.057
+D i 16
+F xfchiba_perc_3.wav 40984 0 1709418366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.230
+D i 16
+F xfchiba_perc_gate.wav 176676 0 1709418366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:01.000
+D i 16

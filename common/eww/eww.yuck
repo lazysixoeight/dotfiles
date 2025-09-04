@@ -1,0 +1,207 @@
+(defwidget bar []
+  (centerbox 
+    :orientation "h"
+    (left_blocks)
+    (label)
+    (right_blocks)
+  )
+)
+
+
+(defwidget left_blocks []
+  (box 
+    :class "left_blocks" 
+    :orientation "h" 
+    :space-evenly false 
+    :halign "start"
+    (workspaces :focused-workspace focused-workspace :urgent-workspace urgent-workspace)
+    (mode :mode mode)
+    (icon :icon_path icon_path)
+    (title :title title)
+  )
+)
+
+(defwidget right_blocks []
+  (box 
+    :class "right_blocks" 
+    :orientation "h" 
+    :space-evenly false 
+    :halign "end"
+    (systray-wrapper)
+    (label :text "" :class "separator3")
+    (network :network network :wifi_strength wifi_strength)
+    (label :text "" :class "separator2")
+    (battery :battery_time battery_time :battery_capacity battery_capacity :battery_status battery_status)
+    (label :text "" :class "separator1")
+    (layout :layout layout)
+    (label :text "" :class "separator0")
+    (timedate)
+  )
+)
+
+;;
+;; Define blocks here
+;;
+
+;; Left blocks
+(deflisten urgent-workspace `$HOME/.config/eww/scripts/i3-ipc urgentws`)
+(deflisten focused-workspace `$HOME/.config/eww/scripts/i3-ipc focusedws`)
+(deflisten ws `$HOME/.config/eww/scripts/i3-ipc renderws`)
+(defwidget workspaces [focused-workspace urgent-workspace]
+  (box
+    :class "workspaces"
+    :orientation "h"
+    :space-evenly false
+    :halign "start"
+
+    (for num in ws
+      (button  
+      :class {
+        num == "1" && arraylength(search(focused-workspace, "10")) > 0 ? "active-workspace" : ;; bugfix
+        arraylength(search(focused-workspace, num)) > 0 ? "focused-workspace" : 
+        arraylength(search(urgent-workspace, num)) > 0 ? "urgent-workspace" : 
+        "active-workspace"
+      }
+      :onclick "i3-msg workspace ${num}" num)
+    )
+  )
+)
+(deflisten mode :initial "default" `$HOME/.config/eww/scripts/i3-ipc mode`)
+(defwidget mode [mode]
+  (box
+    :class { mode == "default" ? "mode-default" : "mode-active" }
+    :orientation "h"
+    :space-evenly false
+    :halign "start"
+    (box
+      :visible {mode != "default"}
+      (label :class "mode-label" :text "${mode}")
+    )
+  )
+)
+
+(deflisten icon_path "$HOME/.config/eww/scripts/i3-ipc icon_dump")
+(defwidget icon [icon_path]
+  (box
+    :class "icon"
+    :orientation "h"
+    :space-evenly false
+    :halign "start"
+    :visible {icon_path != 0}
+    (image :path icon_path :image-width 24 :image-height 24)
+  )
+)
+
+(deflisten title `$HOME/.config/eww/scripts/i3-ipc title 80`)
+(defwidget title [title]
+  (box
+    :class "title"
+    :orientation "h"
+    :space-evenly false
+    :halign "start"
+    :visible {title != "_nil_focused"}
+    (label :text "${title}")
+  )
+)
+;;
+;; Right blocks
+;;
+
+;; Systray
+(defwidget systray-wrapper [] 
+  (box
+    :class "systray"
+    :orientation "h"
+    :space-evenly false
+    :halign "end"
+    (systray :orientation "h" :space-evenly false :icon-size 24 :prepend-new true)
+  )
+)
+
+;; Network
+(deflisten wifi_strength `$HOME/.config/eww/scripts/i3-ipc nm wifi_strength 30`)
+(deflisten network `$HOME/.config/eww/scripts/i3-ipc nm network`)
+(defwidget network [network wifi_strength]
+  (box
+    :class "network"
+    :orientation "h"
+    :space-evenly false
+    :halign "end"
+    (label
+      :text {
+        network != "disconnected" ?
+          network != "connecting" ?
+            network != "ethernet" ?
+              wifi_strength <= 45 ? "${network}" :
+              wifi_strength <= 75 ? "${network}" :
+              "${network}"
+              : "${network}" : "connecting"
+        : "${network}"
+      }
+    )
+  )
+)
+
+;; Battery
+(deflisten battery_capacity `$HOME/.config/eww/scripts/i3-ipc battery capacity 30`)
+(deflisten battery_status `$HOME/.config/eww/scripts/i3-ipc battery status 30`)
+(deflisten battery_time `$HOME/.config/eww/scripts/i3-ipc battery time 30`)
+(defwidget battery [battery_capacity battery_time battery_status]
+  (box
+    :class "battery"
+    :orientation "h"
+    :space-evenly false
+    :halign "end"
+    (label 
+      :text {
+        battery_status == "Discharging" ?
+          battery_capacity <= 20 ? "${battery_capacity}%(${battery_time})" :
+            battery_capacity <= 50 ? "${battery_capacity}%(${battery_time})" :
+              "${battery_capacity}%(${battery_time})"
+        ;; else
+        : "${battery_capacity}%(${battery_time})"
+      }
+    )
+  )
+)
+
+;; Layout
+(defpoll layout :interval "100s" "setxkbmap -query | awk '/layout/ {print $2}'")
+(defwidget layout [layout]
+  (label :text "${layout}" :class "layout")
+)
+(defvar switch 0)
+(defpoll time :interval "1s" "date '+%H:%M:%S %p'")
+(defpoll date :interval "60s" "date '+%F'")
+
+;; Time & date
+(defwidget timedate []
+  (box
+    :class "timedate"
+    :orientation "h"
+    :space-evenly false
+    :h-align "end"
+    (button
+      :onclick "eww update switch=$(test $(eww get switch) -eq 0 && echo 1 || echo 0)"
+      (label :text {
+          switch == 0 ? "${time}" : switch == 1 ? "${date}" : "???"
+        }
+      )
+    )
+  )
+)
+;; Separators
+
+;; Don't bother
+(defwindow bar
+  :monitor 0
+  :stacking "bg"
+  :windowtype "dock"
+  :geometry (geometry :x "0%"
+                      :y "0%"
+                      :width "90%"
+                      :height "10px"
+                      :anchor "bottom center")
+  :reserve (struts :side "top" :distance "100%")
+  (bar)
+)

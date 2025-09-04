@@ -1,0 +1,31 @@
+C10018 "/home/lazy/Music/Samples/novel school supplies vol.1/drums/claps, snares"
+F Ganimed_snare_dontevengottasayit.wav 164686 0 1709418364 0
+D s 48000 n 2 l 0:00.857 i 16
+F Ganimed_snare_dunk.wav 96114 0 1709418364 0
+D s 48000 n 2 l 0:00.500 i 16
+F Ganimed_snare_matt.wav 604946 0 1709418364 0
+D s 44100 n 2 l 0:01.714 i 32
+F Ganimed_snare_plink.wav 96114 0 1709418364 0
+D s 48000 n 2 l 0:00.500 i 16
+F Ganimed_snare_Rumble.wav 82398 0 1709418364 0
+D s 48000 n 2 l 0:00.428 i 16
+F Ganimed_snare_whiplash.wav 82398 0 1709418364 0
+D s 48000 n 2 l 0:00.428 i 16
+F Ganimed_snareclap_weird.wav 82398 0 1709418364 0
+D s 48000 n 2 l 0:00.428 i 16
+F "oru_useless _clap_2.wav" 177306 0 1709418364 0
+D a Oru s 44100 n 2 l 0:01.004
+D i 16
+F oru_useless_clap_1.wav 212586 0 1709418364 0
+D a Oru s 44100 n 2 l 0:01.204
+D i 16
+F oru_useless_snare_1.wav 89106 0 1709418364 0
+D a Oru s 44100 n 2 l 0:00.504
+D i 16
+F phucsmink_clap_cuteboy.wav 132344 0 1709418364 0
+D s 44100 n 2 l 0:00.500 i 24
+F phucsmink_clap_organic_slapper.wav 164616 0 1709418364 0
+D s 48000 n 2 l 0:00.857 i 16
+F xfchiba_snare_0.wav 40984 0 1709418364 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.230
+D i 16

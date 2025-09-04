@@ -1,0 +1,132 @@
+$orange:	#fd971f;
+$green:	#a6e22e;
+$pink:	#f92672;
+
+$warning:	#cc0000;
+$warning_border:	#ff0000;
+$focused: #224e7d;
+$focused_border: #46719f;
+$inactive:	#272822;
+$inactive_border:	#1d1e19;
+$unfocused:	#1d1e19;
+$unfocused_border:	#272822;
+
+$fg:	#fdfff1;
+$fg2:	#6a7066;
+$bg:	#161613;
+$bg2:	#272822;
+
+* {
+  all: unset; // Unsets everything so you can style everything from scratch
+  font-size: 16px;
+}
+
+.bar {
+  background-color: $bg;
+  opacity: 1.0;
+}
+
+// Left blocks
+.workspaces button,{
+  padding: 4px 8px;
+}
+
+.active-workspace {
+  color: $fg2;
+  background-color: $unfocused;
+  border: 1px solid $unfocused_border;
+}
+
+.focused-workspace {
+  background-color: $focused;
+  border: 1px solid $focused_border;
+}
+
+.urgent-workspace {
+  background-color: $warning;
+  border: 1px solid $warning_border;
+}
+
+.mode-active {
+  background-color: $warning;
+  border: 1px solid $warning_border;
+  margin: 2px 0px 2px 4px;
+}
+
+.icon {
+  margin: 0px 0px 0px 4px;
+}
+
+.title {
+  margin: 0px 4px;
+}
+
+// Right blocks
+.network {
+  background: $pink;
+  color: $bg;
+}
+
+.battery {
+  background: $green;
+  color: $bg;
+}
+
+.layout {
+  background: $orange;
+  color: $bg;
+}
+
+.timedate {
+  background-color: $inactive;
+}
+
+// Systray
+menu {
+  background-color: $inactive;
+  color: #fff;
+
+  menuitem {
+    border-radius: 5px;
+    padding: 8px 12px;
+  }
+  menuitem:hover {
+    background-color: $inactive_border;
+  }
+}
+
+// Separators
+.separator3,
+.separator2,
+.separator1,
+.separator0 {
+  font-size: 24;
+}
+.separator3 {
+  color: $pink
+}
+.separator2 {
+  color: $green;
+  background: $pink;
+}
+.separator1 {
+  color: $orange;
+  background: $green;
+}
+.separator0 {
+  color: $inactive;
+  background: $orange;
+}
+
+// Set fonts
+.network,
+.battery,
+.timedate,
+.layout {
+  font-family: Siji, DejaVu Sans Mono;
+}
+.workspaces,
+.mode-active,
+.title {
+  font-family: DejaVu Sans Mono;
+}

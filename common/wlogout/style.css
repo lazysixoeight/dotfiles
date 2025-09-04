@@ -1,0 +1,53 @@
+* {
+	background-image: none;
+	box-shadow: none;
+}
+
+window {
+	background-color: rgba(12, 12, 12, 0.7);
+}
+
+button {
+    border-radius: 0;
+    border-color: rgba(40, 40, 40, 0.8);
+    text-decoration-color: #FFFFFF;
+    color: #ebdbb2;
+    background-color: rgba(27, 27, 27, 0.8);
+    border-style: solid;
+    border-width: 2px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25%;
+    font-size: 20px;
+}
+
+button:focus, button:active, button:hover {
+    background-color: rgba(53, 103, 105, 0.8);
+    border-color: rgba(125,  174, 163, 0.8);
+    outline-style: none;
+    font-size: 20px;
+}
+
+#lock {
+    background-image: image(url("/home/lazy/.config/wlogout/assets/lock_256dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png"));
+}
+
+#logout {
+    background-image: image(url("/home/lazy/.config/wlogout/assets/logout_256dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png"));
+}
+
+#suspend {
+    background-image: image(url("/home/lazy/.config/wlogout/assets/pause_circle_256dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png"));
+}
+
+#hibernate {
+    background-image: image(url("/home/lazy/.config/wlogout/assets/mode_standby_256dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png"));
+}
+
+#shutdown {
+    background-image: image(url("/home/lazy/.config/wlogout/assets/power_256dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png"));
+}
+
+#reboot {
+    background-image: image(url("/home/lazy/.config/wlogout/assets/restart_alt_256dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png"));
+}

@@ -1,0 +1,49 @@
+C10018 "/home/lazy/Music/Samples/Old Sound Effects (3)"
+F _1__HI_M.flac 11779 0 1745761462 0
+D s 22000 n 1 l 0:00.412 i 8
+F _1__HI_M.mp3 5632 0 1745761462 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.412 i 90k
+F _1__HI_M.ogg 6393 0 1745761462 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.412
+D i 124k
+F _1__HI_M.WAV 9121 0 1745761462 0
+D s 22000 n 1 l 0:00.412 i 8
+F _1__LO_M.flac 12865 0 1745761530 0
+D s 22000 n 1 l 0:00.615 i 8
+F _1__LO_M.mp3 7168 0 1745761530 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.615 i 82k
+F _1__LO_M.ogg 7359 0 1745761530 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.615
+D i 96k
+F _1__LO_M.WAV 13594 0 1745761530 0
+D s 22000 n 1 l 0:00.615 i 8
+F _1__MARI.flac 11948 0 1745761532 0
+D s 22000 n 1 l 0:00.496 i 8
+F _1__MARI.mp3 5632 0 1745761532 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.496 i 82k
+F _1__MARI.ogg 6807 0 1745761532 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.496
+D i 110k
+F _1__MARI.WAV 10956 0 1745761532 0
+D s 22000 n 1 l 0:00.496 i 8
+F _1__SPAN.flac 10805 0 1745761569 0
+D s 22000 n 1 l 0:00.162 i 8
+F _1__SPAN.mp3 3584 0 1745761569 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.162 i 136k
+F _1__SPAN.ogg 5348 0 1745761569 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.162
+D i 263k
+F _1__SPAN.WAV 3628 0 1745761533 0
+D s 22000 n 1 l 0:00.162 i 8
+F _F__AT_Y.flac 17972 0 1745761572 0
+D s 22000 n 1 l 0:00.930 i 8
+F _F__AT_Y.mp3 9216 0 1745761572 0
+D t tmp c https://archive.org/details/Sound_Effects_3 s 22050 n 2
+D l 0:00.930 i 75k
+F _F__AT_Y.ogg 9403 0 1745761572 0
+D c http://archive.org/details/Sound_Effects_3 s 22000 n 2 l 0:00.930
+D i 81k

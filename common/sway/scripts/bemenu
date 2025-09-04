@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+FONT="DejaVu Sans Mono 20"
+HEIGHT="29"
+
+BG="#141617"
+HB="#1b1b1b"
+FG="#ebdbb2"
+TF="#ea6962"
+HF="#e78a4e"
+
+if [ "$1" = "drun" ]; then
+j4-dmenu-desktop --no-generic --dmenu="bemenu --center -B 4 -l 15 -p 'drun:' --fn $FONT -H $HEIGHT --bdr '$TF' --fb '$BG' --nb '$BG' --nf '$FG' --tb '$BG' --tf '$TF' --hb '$HB' --hf '$HF' --af '$FG' --ab '$BG'"
+else
+  echo "Undefined Parameter"
+fi

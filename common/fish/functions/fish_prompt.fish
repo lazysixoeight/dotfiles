@@ -24,8 +24,18 @@ function fish_prompt
     # │ 1    15048    0%    arrêtée    sleep 100000
     # ╰─>$ echo there
 
-    set -l retc red
-    test $status = 0; and set retc green
+    # Show [!] on error
+    function fish_right_prompt
+        if test $status -ne 0
+            set_color red
+            echo -n '[!]'
+            set_color normal
+        end
+    end
+
+
+
+    set retc green
 
     set -q __fish_git_prompt_showupstream
     or set -g __fish_git_prompt_showupstream auto

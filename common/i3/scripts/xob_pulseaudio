@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+get_sink=$(pactl get-sink-volume @DEFAULT_SINK@ | awk 'NR==1{print substr($5,1,length($5)-1)}')
+if [[ $(pactl get-sink-mute @DEFAULT_SINK@ | awk '{print $2}') == "no" ]]; then
+  echo "${get_sink}" > "$XDG_RUNTIME_DIR/xob.sock"
+else
+  echo "${get_sink}!" > "$XDG_RUNTIME_DIR/xob.sock"
+fi

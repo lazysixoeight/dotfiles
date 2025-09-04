@@ -1,0 +1,10 @@
+
+//@theme "/nix/store/m717h6dbc1wwfpj0n2916bgibiz3q78j-rofi-1.7.9.1/share/rofi/themes/Adapta-Nokto.rasi"
+
+//@theme "/nix/store/m717h6dbc1wwfpj0n2916bgibiz3q78j-rofi-1.7.9.1/share/rofi/themes/Monokai.rasi"
+
+@theme "~/.config/rofi/dmenu.rasi"
+
+configuration {
+    show-icons: true;
+}

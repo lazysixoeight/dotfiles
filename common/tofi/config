@@ -1,0 +1,14 @@
+width = 100%
+height = 100%
+border-width = 0
+outline-width = 5
+result-spacing = 18
+num-results = 8
+font = DejaVu Sans Mono
+font-size = 18
+horizontal = true
+anchor = top
+text-color = #fdfff1
+background-color = #000000aa
+selection-color = #ec4075
+border-color= #ec4075

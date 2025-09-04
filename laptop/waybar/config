@@ -5,7 +5,8 @@
 
 	"modules-left": [
 		"sway/workspaces",
-		"sway/window"
+		"sway/mode",
+		"sway/window"	
 	],
 
 	"modules-right": [
@@ -19,23 +20,26 @@
 		"sway/language",
 		"custom/separator1",
 		"clock"
+		//"custom/separator0",
+		//"custom/power"
 	],
 
 	// Modules
 	"sway/window": {
-		"tooltip": false
+		"tooltip": false,
 	},
 	"tray": {
-		"icon-size": 24
+		"icon-size": 24,
+    "spacing": 4
 	},
 
 	"network": {
 		"interface": "wlp61s0",
 		
-		"format": "{ifname}",
+		"format": "{ifname}",
 		"format-wifi": "{icon}{essid}",
 		"format-ethernet": "{essid}",
-		"format-disconnected": "disconnected",
+		"format-disconnected": "Disconnected",
 		"format-icons": ["","",""],
 		
 		"tooltip-format": "Not doing anything",
@@ -76,20 +80,40 @@
 		"max-length": 25,
 		"tooltip": false
         },
+
+	//"custom/power": {
+	//	"format": "",
+	//	"tooltip": false,
+	//	"menu": "on-click",
+	//	"menu-file": "$HOME/.config/waybar/scripts/power_menu.xml",
+	//	"menu-actions": {
+	//		"poweroff": "$HOME/.config/waybar/scripts/yad.sh --poweroff",
+	//		"reboot": "$HOME/.config/waybar/scripts/yad.sh --reboot",
+	//		"suspend": "$HOME/.config/waybar/scripts/yad.sh --suspend",
+	//	}
+	//},
 	
 	// Separators
 	"custom/separator4": {
-		"format": ""
+		"format": "",
+		"tooltip": false
 	},
 	"custom/separator3": {
-		"format": ""
+		"format": "",
+		"tooltip": false
 	},
 	"custom/separator2": {
-		"format": ""
+		"format": "",
+		"tooltip": false
 	},
 	"custom/separator1": {
-		"format": ""
+		"format": "",
+		"tooltip": false
 	}
+	//"custom/separator0": {
+	//	"format": " ",
+	//	"tooltip": false
+	//}
 }
 
 // vi:ft=jsonc

@@ -1,0 +1,51 @@
+C10018 "/home/lazy/Music/Samples/novel school supplies vol.1/drums/kicks"
+F BOBA_kick_softgrass.wav 78092 0 1709418364 0
+D y 2023-11-0 s 48000 n 2 r 1:00:00.000
+D l 0:00.400 i 16
+F BOBA_kick_softgrassshort.wav 78092 0 1709418364 0
+D y 2023-11-0 s 48000 n 2 r 1:00:00.000
+D l 0:00.400 i 16
+F cash_drums_kick_1.wav 240044 0 1709418364 0
+D s 48000 n 2 l 0:00.625 i 32
+F cash_drums_kick_2.wav 384044 0 1709418364 0
+D s 48000 n 2 l 0:01.000 i 32
+F cash_drums_kick_3.wav 384044 0 1709418364 0
+D s 48000 n 2 l 0:01.000 i 32
+F cash_drums_kick_4.wav 236092 0 1709418366 0
+D s 48000 n 2 l 0:00.614 i 32
+F DSPHNG_kick_arcade.wav 41516 0 1709418366 0
+D c "Recorded on 25-10-23 in Edison." s 44100 n 2 l 0:00.233
+D i 16
+F DSPHNG_kick_zest.wav 26564 0 1709418366 0
+D c "Recorded on 25-10-23 in Edison." s 44100 n 2 l 0:00.149
+D i 16
+F Ganimed_kick_clean.wav 32486 0 1709418366 0
+D s 44100 n 2 l 0:00.183 i 16
+F Ganimed_kick_clip.wav 88730 0 1709418366 0
+D s 48000 n 2 l 0:00.461 i 16
+F Ganimed_kick_ring.wav 33346 0 1709418366 0
+D s 48000 n 2 l 0:00.173 i 16
+F Ganimed_kickclap_STOMP.wav 164686 0 1709418366 0
+D s 48000 n 2 l 0:00.857 i 16
+F kadenic_kick_juicy.wav 40446 0 1709418366 0
+D c "Recorded on 2023-11-03 in Edison." s 44100 n 2 l 0:00.227
+D i 16
+F kadenic_kick_snapple.wav 25594 0 1709418366 0
+D c "Recorded on 2023-11-12 in Edison." s 44100 n 2 l 0:00.143
+D i 16
+F kadenic_kick_solid.wav 35934 0 1709418366 0
+D c "Recorded on 2023-10-23 in Edison." s 44100 n 2 l 0:00.202
+D i 16
+F kadenic_kick_yeah.wav 31722 0 1709418366 0
+D c "Recorded on 2023-10-24 in Edison." s 44100 n 2 l 0:00.178
+D i 16
+F oru_useless_kick_6.wav 77770 0 1709418366 0
+D a Oru s 48000 n 2 l 0:00.404
+D i 16
+F phucsmink_kick_bounce.wav 44352 0 1709418366 0
+D s 48000 n 2 l 0:00.230 i 16
+F phucsmink_kick_punch.wav 65536 0 1709418366 0
+D s 48000 n 2 l 0:00.206 i 24
+F xfchiba_kick_1.wav 81692 0 1709418366 0
+D c "Modified by FL Studio 21" s 44100 n 2 l 0:00.461
+D i 16
