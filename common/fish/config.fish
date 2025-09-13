@@ -5,5 +5,4 @@ set fish_greeting
 export LC_COLLATE=C
 
 if status is-interactive
-    # Commands to run in interactive sessions can go here
 end

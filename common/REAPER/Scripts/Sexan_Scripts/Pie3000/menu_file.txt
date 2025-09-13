@@ -1,0 +1,46 @@
+{
+ [1] = {
+  [1] = {
+   cmd = "53002",
+   col = 255,
+   name = "BirdBird Global Sampler",
+   png = "/Data/toolbar_icons/200/toolbar_window_tab_list.png",
+   cmd_name = "Script: BirdBird_Global Sampler.lua",
+  },
+  guid = "{63696A1A-6E7D-ACE5-5ECB-05E44FDC95BB}",
+  RADIUS = 135,
+  [2] = {
+   cmd = "50124",
+   col = 255,
+   name = "Media Explorer",
+   png = "/Data/toolbar_icons/200/toolbar_window_tab_folder.png",
+   cmd_name = "Media explorer: Show/hide media explorer",
+  },
+  active = true,
+  menu = true,
+  name = "Show",
+  col = 255,
+  [5] = {
+   cmd = "53003",
+   col = 255,
+   name = "Monitoring FX Chain",
+   png = "/Data/toolbar_icons/200/toolbar_window_tab_effects.png",
+   cmd_name = "Script: edgemeal_Toggle show monitoring FX chain.lua",
+  },
+  [4] = {
+   cmd = "40377",
+   col = 255,
+   name = "Virtual MIDI Keyboard",
+   png = "/Data/toolbar_icons/200/toolbar_misc_keyboard.png",
+   cmd_name = "View: Show virtual MIDI keyboard",
+  },
+  hovered = false,
+  [3] = {
+   cmd = "40078",
+   png = "/Data/toolbar_icons/200/toolbar_window_tab_mixer_mcp.png",
+   col = 255,
+   name = "Mixer",
+   cmd_name = "View: Toggle mixer visible",
+  },
+ },
+}

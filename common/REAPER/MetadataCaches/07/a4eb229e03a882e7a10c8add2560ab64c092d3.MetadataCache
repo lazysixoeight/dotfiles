@@ -1,110 +1,110 @@
 C10018 "/home/lazy/Music/Samples/Pile of Breaks"
-F 075_1.wav 122878 0 1651972386 0
+F 075_1.wav 122878 0 315507600 0
 D t beat c "Get more at http://www.hgb-leipzig.de/~ajoscht/" d Drumloop s 44100
 D n 1 l 0:01.391 i 16
-F "3 dog calling-q-t160-c-multiband-c.wav" 535512 0 1368714844 0
+F "3 dog calling-q-t160-c-multiband-c.wav" 535512 0 315507600 0
 D s 44100 n 2 l 0:01.500 i 32
-F 55_1.wav 1151948 0 1651972378 0
+F 55_1.wav 1151948 0 315507600 0
 D s 96000 n 2 l 0:02.999 i 16
-F "amen 2.wav" 846908 0 1454990394 0
+F "amen 2.wav" 846908 0 315507600 0
 D s 44100 n 2 l 0:02.400 i 32
-F "amen 4.wav" 423548 0 1454991264 0
+F "amen 4.wav" 423548 0 315507600 0
 D s 44100 n 2 l 0:01.200 i 32
-F "amen 8-2.wav" 423548 0 1454992022 0
+F "amen 8-2.wav" 423548 0 315507600 0
 D s 44100 n 2 l 0:01.200 i 32
-F amen-single-eq-q-t155-c-tr.wav 1789268 0 1427321894 0
+F amen-single-eq-q-t155-c-tr.wav 1789268 0 315507600 0
 D s 96000 n 2 l 0:03.096 i 24
-F amen-t180.wav 768734 0 1718128450 0
+F amen-t180.wav 768734 0 315507600 0
 D y 2021-03-2 s 48000 n 2 r 0:01.333
 D l 0:02.666 i 24
-F apache.wav 2149758 0 1751363787 0
+F apache.wav 2149758 0 315507600 0
 D y 2025-07-01 s 44100 n 2 l 0:08.121
 D i 24
-F "Bad Break - 8A.wav" 244876 0 1587134956 0
+F "Bad Break - 8A.wav" 244876 0 315507600 0
 D t "4A - 8A" k 8A s 44100 n 2
 D l 0:01.381 i 16
-F bonita_q-t165-c.wav 513212 0 1362851400 0
+F bonita_q-t165-c.wav 513212 0 315507600 0
 D s 44100 n 2 l 0:01.454 i 32
-F breakdown.wav 1627014 0 1751363571 0
+F breakdown.wav 1627014 0 315507600 0
 D y 2025-07-01 s 44100 n 2 l 0:06.146
 D i 24
-F cw_amen01_175.wav 483884 0 1200799782 0
+F cw_amen01_175.wav 483884 0 315507600 0
 D s 44100 n 2 l 0:02.742 i 16
-F cw_amen13_173.wav 978908 0 1200846854 0
+F cw_amen13_173.wav 978908 0 315507600 0
 D s 44100 n 2 l 0:05.549 i 16
-F doin_the_do-q-t180-comp.wav 470444 0 1303784746 0
+F doin_the_do-q-t180-comp.wav 470444 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
-F drumcorps_amen.wav 686352 0 1602426220 0
+F drumcorps_amen.wav 686352 0 315507600 0
 D t "Live @ Breakcore Gives Me Wood" c "Modified by FL Studio 12" s 44100 n 2
 D l 0:03.889 i 16
-F "fire eater.wav" 1286940 0 1751363357 0
+F "fire eater.wav" 1286940 0 315507600 0
 D y 2025-07-01 s 44100 n 2 l 0:04.861
 D i 24
-F fools_gold-q-t180-comp.wav 470444 0 1303784754 0
+F fools_gold-q-t180-comp.wav 470444 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
-F funky_drummer-q-t180-compressed.wav 470444 0 1303785104 0
+F funky_drummer-q-t180-compressed.wav 470444 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
-F funky_mule-q-t180-compressed.wav 470444 0 1303785114 0
+F funky_mule-q-t180-compressed.wav 470444 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
-F give_it_up-q-t170-waveadjust-comp.wav 504344 0 1351622324 0
+F give_it_up-q-t170-waveadjust-comp.wav 504344 0 315507600 0
 D s 44100 n 2 l 0:01.411 i 32
-F glass-jaw.wav 940946 0 1704145391 0
+F glass-jaw.wav 940946 0 315507600 0
 D s 44100 n 2 l 0:05.333 i 16
-F hotpants-q-t170-eq-c.wav 504380 0 1368745602 0
+F hotpants-q-t170-eq-c.wav 504380 0 315507600 0
 D s 44100 n 2 l 0:01.411 i 32
-F in_one_peace_q-t180-c.wav 475366 0 1362851404 0
+F in_one_peace_q-t180-c.wav 475366 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
-F know_you_got_soul-q-t160-waveadjust-comp.wav 529244 0 1351691177 0
+F know_you_got_soul-q-t160-waveadjust-comp.wav 529244 0 315507600 0
 D s 44100 n 2 l 0:01.500 i 32
-F life-could-q-t175-eqd+compressed_badly.wav 483884 0 1340907764 0
+F life-could-q-t175-eqd+compressed_badly.wav 483884 0 315507600 0
 D s 44100 n 2 l 0:01.371 i 32
-F loverfriend-flat-multiband-q-t165-waveadjust-compressed.wav 518596 0 1349474577 0
+F loverfriend-flat-multiband-q-t165-waveadjust-compressed.wav 518596 0 315507600 0
 D s 44100 n 2 l 0:01.454 i 32
-F "mixed amens (28).wav" 847004 0 1460751526 0
+F "mixed amens (28).wav" 847004 0 315507600 0
 D s 44100 n 2 l 0:02.399 i 32
-F phantasy_q-t165-c.wav 513212 0 1362851465 0
+F phantasy_q-t165-c.wav 513212 0 315507600 0
 D s 44100 n 2 l 0:01.454 i 32
-F "Processed amens (13).wav" 1692716 0 1461546418 0
-D t 3 a 4 b 5 s 44100
-D n 2 l 0:04.796 i 32
-F "Processed amens (5).wav" 847080 0 1461546418 0
-D t 3 a 4 b 5 s 44100
-D n 2 l 0:02.399 i 32
-F Recipe_eq-q-t180-c.wav 470452 0 1362850379 0
+F "Processed amens (13).wav" 1692716 0 315507600 0
+D t 3 a 4 b 5 c "Recorded on 30.11.2014 in Edison."
+D s 44100 n 2 l 0:04.796 i 32
+F "Processed amens (5).wav" 847080 0 315507600 0
+D t 3 a 4 b 5 c "Recorded on 30.11.2014 in Edison."
+D s 44100 n 2 l 0:02.399 i 32
+F Recipe_eq-q-t180-c.wav 470452 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
-F "rs-nt.[eq master source].wav" 264862 0 1338185170 0
+F "rs-nt.[eq master source].wav" 264862 0 315507600 0
 D p 160.002419 s 44100 n 2 l 0:01.499
 D i 16
-F sesame-q-t180-compressed.wav 470444 0 1303785138 0
+F sesame-q-t180-compressed.wav 470444 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
-F snafiabreak.wav 242066 0 1651972438 0
+F snafiabreak.wav 242066 0 315507600 0
 D s 44100 n 2 l 0:01.371 i 16
-F "soul (crashes)_q_175.wav" 241964 0 1235509592 0
+F "soul (crashes)_q_175.wav" 241964 0 315507600 0
 D s 44100 n 2 l 0:01.371 i 16
-F soul1_A_q_175.wav 241960 0 1235504208 0
+F soul1_A_q_175.wav 241960 0 315507600 0
 D s 44100 n 2 l 0:01.371 i 16
-F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad).wav 503338 0 1364714861 0
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad).wav 503338 0 315507600 0
 D s 44100 n 2 l 0:01.412 i 32
-F the-worm-q-t155-c.wav 558492 0 1345050492 0
+F the-worm-q-t155-c.wav 558492 0 315507600 0
 D s 44100 n 2 l 0:01.566 i 32
-F "Think Shaker.wav" 373598 0 1643317338 0
+F "Think Shaker.wav" 373598 0 315507600 0
 D s 44100 n 2 l 0:01.411 i 24
-F think-(composite)-waveadjust-q-t170-comp-waveadjust-cyanide-multiband.wav 498116 0 1351686351 0
+F think-(composite)-waveadjust-q-t170-comp-waveadjust-cyanide-multiband.wav 498116 0 315507600 0
 D s 44100 n 2 l 0:01.411 i 32
-F think1-q-t185bpm-compressed.wav 229110 0 1250529658 0
+F think1-q-t185bpm-compressed.wav 229110 0 315507600 0
 D p 184.999388 s 44100 n 2 l 0:01.297
 D i 16
-F think2-q-t185bpm-compressed.wav 229110 0 1250529656 0
+F think2-q-t185bpm-compressed.wav 229110 0 315507600 0
 D p 184.999388 s 44100 n 2 l 0:01.297
 D i 16
-F think3-q-t185bpm-compressed.wav 229110 0 1250529654 0
+F think3-q-t185bpm-compressed.wav 229110 0 315507600 0
 D p 184.999388 s 44100 n 2 l 0:01.297
 D i 16
-F think4-q-t185bpm-compressed.wav 229106 0 1250529652 0
+F think4-q-t185bpm-compressed.wav 229106 0 315507600 0
 D p 185.002622 s 44100 n 2 l 0:01.297
 D i 16
-F tightenup-q-t185bpm-compressed.wav 457950 0 1250535658 0
+F tightenup-q-t185bpm-compressed.wav 457950 0 315507600 0
 D p 185.001005 s 44100 n 2 l 0:02.594
 D i 16
-F weymen-q-t170bpm-compressed.wav 1992332 0 1315336392 0
+F weymen-q-t170bpm-compressed.wav 1992332 0 315507600 0
 D s 44100 n 2 l 0:05.647 i 32

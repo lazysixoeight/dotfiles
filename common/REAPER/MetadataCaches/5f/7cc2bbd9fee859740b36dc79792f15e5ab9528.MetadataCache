@@ -1,0 +1,52 @@
+C10018 /home/lazy/Documents/REAPER/Projects/Media
+F "04-MIDI render 001-glued.wav" 1846496 0 1757735990 0
+D y 2025-09-13 s 48000 n 2 r 0:43.600
+D l 0:06.400 i 24
+F "3 dog calling-q-t160-c-multiband-c reversed 001-glued.wav" 38608 0 1757735379 0
+D y 2025-09-13 s 44100 n 2 r 0:37.100
+D l 0:00.100 i 32
+F "3 dog calling-q-t160-c-multiband-c.wav" 535512 0 315507600 0
+D s 44100 n 2 l 0:01.500 i 32
+F AKWF_0707-glued.wav 282976 0 1757733841 0
+D y 2025-09-13 s 44100 n 1 r 0:25.600
+D l 0:03.200 i 16
+F "amen-single-eq-q-t155-c-tr render 001-glued.wav" 49034 0 1757221153 0
+D y 2025-09-07 s 48000 n 2 r 0:02.222
+D l 0:00.158 i 24
+F "amen-single-eq-q-t155-c-tr reversed 001-glued.wav" 49034 0 1757227751 0
+D y 2025-09-07 s 96000 n 2 r 0:02.857
+D l 0:00.079 i 24
+F "amen-single-eq-q-t155-c-tr reversed 002-glued.wav" 49034 0 1757234226 0
+D y 2025-09-07 s 96000 n 2 r 0:03.492
+D l 0:00.079 i 24
+F "amen-single-eq-q-t155-c-tr-glued render 001-glued.wav" 94748 0 1757221421 0
+D y 2025-09-07 s 48000 n 2 r 0:02.619
+D l 0:00.317 i 24
+F amen-single-eq-q-t155-c-tr-glued-01.wav 92548 0 1757234388 0
+D y 2025-09-07 s 96000 n 2 r 0:03.333
+D l 0:00.158 i 24
+F amen-single-eq-q-t155-c-tr-glued-04.wav 49034 0 1757234698 0
+D y 2025-09-07 s 96000 n 2 r 0:04.126
+D l 0:00.079 i 24
+F amen-single-eq-q-t155-c-tr-glued-06.wav 183442 0 1757242560 0
+D y 2025-09-07 s 96000 n 2 r 0:04.444
+D l 0:00.316 i 24
+F amen-single-eq-q-t155-c-tr.wav 1789268 0 315507600 0
+D s 96000 n 2 l 0:03.096 i 24
+F "cw_amen01_175 reversed 001.wav" 91452 0 1757682441 0
+D y 2025-09-12 s 44100 n 2 r 1:32.000
+D l 0:00.514 i 16
+F cw_amen01_175.wav 483884 0 315507600 0
+D s 44100 n 2 l 0:02.742 i 16
+F "cw_amen13_173 reversed 001.wav" 31324 0 1757679146 0
+D y 2025-09-12 s 44100 n 2 r 1:01.833
+D l 0:00.173 i 16
+F cw_amen13_173-glued.wav 30136 0 1757680570 0
+D y 2025-09-12 s 44100 n 2 r 0:57.833
+D l 0:00.166 i 16
+F "much better.wav" 76802 0 1757734703 0
+D s 22050 n 1 l 0:01.740 i 16
+F "Smoke Detector Chirp [gXQkGSO9kH0].wav" 2169010 0 315507600 0
+D s 48000 n 2 l 0:11.296 i 16
+F "umm were not doing acid.wav" 133936 0 1757733671 0
+D s 22050 n 1 l 0:03.036 i 16
