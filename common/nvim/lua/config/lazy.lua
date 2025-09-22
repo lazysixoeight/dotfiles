@@ -29,6 +29,9 @@ vim.opt.undofile = true
 vim.opt.expandtab = true
 vim.opt.smartindent = true
 
+vim.keymap.set("n", "<A-Right>", ":bnext<CR>", { desc = "Next buffer" })
+vim.keymap.set("n", "<A-Left>", ":bprevious<CR>", { desc = "Previous buffer" })
+
 -- Setup lazy.nvim
 require("lazy").setup({
   spec = {

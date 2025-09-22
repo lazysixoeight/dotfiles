@@ -28,10 +28,6 @@ D s 44100 n 2 l 0:01.454 i 32
 F breakdown.wav 1627014 0 315507600 0
 D y 2025-07-01 s 44100 n 2 l 0:06.146
 D i 24
-F cw_amen01_175.wav 483884 0 315507600 0
-D s 44100 n 2 l 0:02.742 i 16
-F cw_amen13_173.wav 978908 0 315507600 0
-D s 44100 n 2 l 0:05.549 i 16
 F doin_the_do-q-t180-comp.wav 470444 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
 F drumcorps_amen.wav 686352 0 315507600 0
@@ -79,10 +75,6 @@ F sesame-q-t180-compressed.wav 470444 0 315507600 0
 D s 44100 n 2 l 0:01.333 i 32
 F snafiabreak.wav 242066 0 315507600 0
 D s 44100 n 2 l 0:01.371 i 16
-F "soul (crashes)_q_175.wav" 241964 0 315507600 0
-D s 44100 n 2 l 0:01.371 i 16
-F soul1_A_q_175.wav 241960 0 315507600 0
-D s 44100 n 2 l 0:01.371 i 16
 F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad).wav 503338 0 315507600 0
 D s 44100 n 2 l 0:01.412 i 32
 F the-worm-q-t155-c.wav 558492 0 315507600 0
@@ -97,14 +89,8 @@ D i 16
 F think2-q-t185bpm-compressed.wav 229110 0 315507600 0
 D p 184.999388 s 44100 n 2 l 0:01.297
 D i 16
-F think3-q-t185bpm-compressed.wav 229110 0 315507600 0
-D p 184.999388 s 44100 n 2 l 0:01.297
-D i 16
 F think4-q-t185bpm-compressed.wav 229106 0 315507600 0
 D p 185.002622 s 44100 n 2 l 0:01.297
-D i 16
-F tightenup-q-t185bpm-compressed.wav 457950 0 315507600 0
-D p 185.001005 s 44100 n 2 l 0:02.594
 D i 16
 F weymen-q-t170bpm-compressed.wav 1992332 0 315507600 0
 D s 44100 n 2 l 0:05.647 i 32
