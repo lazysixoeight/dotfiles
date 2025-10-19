@@ -75,6 +75,38 @@ F "Banbarra - Shack Up.wav" 1675736 0 1602999248 0
 D s 44100 n 2 l 0:09.499 i 16
 F "Barry White I'm Gonna Love You Just A Little Bit More Baby.wav" 2150360 0 1602999250 0
 D s 44100 n 2 l 0:12.190 i 16
+F "Basement Khemists - Everybody.wav" 1799324 0 1602999250 0
+D s 44100 n 2 l 0:10.200 i 16
+F "Beastie Boys - Pow.wav" 4941708 0 1602999256 0
+D s 96000 n 2 l 0:12.868 i 16
+F "Beginning of the End - Funky Nassau.wav" 1440492 0 1602999288 0
+D s 44100 n 2 l 0:08.165 i 16
+F "Benny Gordon - Give A Damn.wav" 665716 0 1602999288 0
+D s 44100 n 2 l 0:03.773 i 16
+F "Bernard Purdie - Ad Lib (part1).wav" 1613936 0 1602999290 0
+D s 44100 n 2 l 0:09.149 i 16
+F "Bernard Purdie - Ad Lib (part2).wav" 1613936 0 1602999292 0
+D s 44100 n 2 l 0:09.149 i 16
+F "Bernard Purdie - Ad Lib (part3).wav" 1613936 0 1602999292 0
+D s 44100 n 2 l 0:09.149 i 16
+F "Bernard Purdie - Alexander's Rag Time Band (part1).wav" 1884148 0 1602999294 0
+D s 44100 n 2 l 0:10.680 i 16
+F "Bernard Purdie - Alexander's Rag Time Band (part2).wav" 1916976 0 1602999296 0
+D s 44100 n 2 l 0:10.866 i 16
+F "Bernard Purdie - Attica (part1).wav" 326392 0 1602999296 0
+D s 44100 n 2 l 0:01.850 i 16
+F "Bernard Purdie - Attica (part2).wav" 1161772 0 1602999326 0
+D s 44100 n 2 l 0:06.585 i 16
+F "Bernard Purdie - Bernard's BackBeat (part1).wav" 904692 0 1602999328 0
+D s 44100 n 2 l 0:05.128 i 16
+F "Bernard Purdie - Bernard's BackBeat (part2).wav" 904692 0 1602999328 0
+D s 44100 n 2 l 0:05.128 i 16
+F "Bernard Purdie - Bernard's BackBeat (part3).wav" 904692 0 1602999330 0
+D s 44100 n 2 l 0:05.128 i 16
+F "Bernard Purdie - Butterfingers.wav" 1362336 0 1602999332 0
+D s 44100 n 2 l 0:07.722 i 16
+F "Bernard Purdie - Caravan.wav" 3213160 0 1602999334 0
+D s 44100 n 2 l 0:18.214 i 16
 F "Bernard Purdie - Jimmy's Back (part1).wav" 2291876 0 1602999338 0
 D s 44100 n 2 l 0:12.992 i 16
 F "Bernard Purdie - On the Outskirts of Minitown (part1).wav" 1429764 0 1602999340 0
@@ -267,10 +299,195 @@ D t "Detroit Emeralds Break Beat - Youre Getting Too Smart Drum Break" s 44100 n
 D i 128k j "mime:image/jpeg offset:135 length:6904"
 F "Detroit Emeralds You're Getting Too Smart.wav" 1789124 0 1602999512 0
 D s 44100 n 2 l 0:10.142 i 16
+F "Dexter Wansel - Theme From The Planets (part1).wav" 1651772 0 1602999512 0
+D s 44100 n 2 l 0:09.363 i 16
+F "Dexter Wansel - Theme From The Planets (part2).wav" 1221424 0 1602999514 0
+D s 44100 n 2 l 0:06.923 i 16
+F "Esther Williams - Last Night Changed It All (I Really Had A Ball).wav" 1577016 0 1602999560 0
+D s 44100 n 2 l 0:08.939 i 16
+F "Etta James - Out On The Street Again.wav" 2074424 0 1602999562 0
+D s 44100 n 2 l 0:11.759 i 16
+F "Eugene Blacknell & NB - We Know.wav" 5038084 0 1602999564 0
+D s 44100 n 2 l 0:28.560 i 16
+F "Explosions - Garden Of Four Trees.wav" 928268 0 1602999564 0
+D s 44100 n 2 l 0:05.262 i 16
+F "Fanny - I've had it.wav" 616780 0 1602999564 0
+D s 44100 n 2 l 0:03.496 i 16
+F "Fans - Roly Poly Micky Lolich.wav" 3257676 0 1602999566 0
+D s 44100 n 2 l 0:18.467 i 16
+F "Fat Larry's Band - Down On The Avenue (part1).wav" 2009056 0 1602999570 0
+D s 44100 n 2 l 0:11.388 i 16
+F "Fat Larry's Band - Down On The Avenue (part2).wav" 1795356 0 1602999572 0
+D s 44100 n 2 l 0:10.177 i 16
+F "Fatback - You gotta believe.wav" 1160270 0 1602999572 0
+D s 44100 n 2 l 0:04.384 i 24
+F "Fatback Band - Lady Groove.wav" 902068 0 1602999574 0
+D s 44100 n 2 l 0:05.113 i 16
+F "Fatback Band - Let Me Do It To You.wav" 783820 0 1602999574 0
+D s 44100 n 2 l 0:04.443 i 16
+F "Fatback Band feat. Johnny King - Keep On Brother Keep On.wav" 493964 0 1602999576 0
+D s 44100 n 2 l 0:02.800 i 16
+F "Fausto Papetti - Love's Theme.wav" 887902 0 1602999578 0
+D s 44100 n 1 l 0:10.066 i 16
+F "Fausto Papetti - Tutta n ata Storia.wav" 1640892 0 1602999578 0
+D s 44100 n 2 l 0:09.301 i 16
+F "FBI - FBI.wav" 1630948 0 1602999580 0
+D s 44100 n 2 l 0:09.245 i 16
+F "Fearless - Incognito.wav" 1683896 0 1602999582 0
+D s 44100 n 2 l 0:09.545 i 16
+F feel-good.mp3 241147 0 1602426606 0
+D t "Feel Good" a Fancy c "Audio recorded by Yout.com" s 44100
+D n 2 l 0:15.047 i 128k
+F "Finished Touch - Mighty Good Friends.wav" 1625448 0 1602999582 0
+D s 44100 n 2 l 0:09.214 i 16
+F "Finished Touch - New Frontiers.wav" 1486300 0 1602999586 0
+D s 44100 n 2 l 0:08.425 i 16
+F "Five Stairsteps - Don't Change Your Love (Loop Ultimate Break Beat).mp3" 1458355 0 1602955540 0
+D t "Don't Change Your Love" a "Five Stairsteps" s 44100 n 2
+D l 1:30.711 i 128k j "mime:image/jpeg offset:120 length:6236"
+F "Frank Hatchett - Stratus.wav" 787020 0 1602999588 0
+D s 44100 n 2 l 0:04.461 i 16
+F "Frankie Seay & The Soul Riders - Soul Food (part1).wav" 1042024 0 1602999588 0
+D s 44100 n 1 l 0:11.813 i 16
+F "Frankie Seay & The Soul Riders - Soul Food (part2).wav" 985086 0 1602999588 0
+D s 44100 n 1 l 0:11.168 i 16
+F "Frankie Seay & The Soul Riders - Soul Food (part3).wav" 483494 0 1602999590 0
+D s 44100 n 1 l 0:05.481 i 16
+F "Fred Wesley & Jb's - Blow Your Head.wav" 2048868 0 1602999592 0
+D s 44100 n 2 l 0:11.614 i 16
+F "Fred Wesley - Four Play.wav" 1369868 0 1602999590 0
+D s 44100 n 2 l 0:07.765 i 16
+F "Freda Payne - The Easiest Way To Fall .wav" 2122580 0 1602999594 0
+D s 44100 n 2 l 0:12.032 i 16
+F "Free - Mr Big (ver.1).wav" 2077040 0 1602999598 0
+D s 44100 n 2 l 0:11.774 i 16
+F "Free - Mr Big (ver.2).wav" 1120004 0 1602999598 0
+D y 2007-12-26 s 44100 n 2 l 0:06.348
+D i 16 m 10
+F "Funk Brothers - Home Cookin.wav" 2307400 0 1602999600 0
+D s 44100 n 2 l 0:13.080 i 16
+F "Funk Brothers - I Can't Get Next To You.wav" 755288 0 1602999600 0
+D s 44100 n 2 l 0:04.281 i 16
+F "Funk Inc. - Kool Is Back.wav" 1641724 0 1602999602 0
+D s 44100 n 2 l 0:09.306 i 16
+F "Funk Inc.- Kool Is Back (My Drum Remix).mp3" 1516654 0 1602955344 0
+D t "Kool Is Back" a "Funk Inc." s 44100 n 2
+D l 1:34.290 i 128k j "mime:image/jpeg offset:104 length:7291"
+F "Funkadelic - Good Old Music (part1).wav" 871000 0 1602999602 0
+D s 44100 n 2 l 0:04.937 i 16
+F "Funkadelic - Good Old Music (part2).wav" 1111876 0 1602999604 0
+D s 44100 n 2 l 0:06.302 i 16
+F "Funkadelic - Good Old Music (part3).wav" 2226140 0 1602999606 0
+D s 44100 n 2 l 0:12.619 i 16
+F "Funkadelic - Good Old Music (part4).wav" 1093872 0 1602999606 0
+D s 44100 n 2 l 0:06.200 i 16
+F "Funkadelic - Good Old Music (part5).wav" 1657704 0 1602999610 0
+D s 44100 n 2 l 0:09.397 i 16
+F "Garnet Mimms - Stop Check Yourself.wav" 852952 0 1602999624 0
+D s 44100 n 2 l 0:04.835 i 16
+F "Groove Collective - Unknown.wav" 473980 0 1602999636 0
+D s 44100 n 2 l 0:02.686 i 16
+F "H.P.B. Mix - Light My Fire.wav" 1533228 0 1602999636 0
+D s 44100 n 2 l 0:08.691 i 16
+F "HAND MADE - PASSPORT.wav" 1646800 0 1602999638 0
+D s 44100 n 2 l 0:09.335 i 16
+F "Hardys Jet Band - Selected Sound.wav" 1104424 0 1602999640 0
+D s 44100 n 2 l 0:06.260 i 16
+F "Harmony Cats - Cats Theme (Kon Drum Edit).wav" 1758044 0 1602999640 0
+D s 44100 n 2 l 0:09.965 i 16
+F "Harold Malbern - I Want You Back.wav" 3216356 0 1602999644 0
+D s 44100 n 2 l 0:18.233 i 16
+F "Harva Hodge & The Moodysec - Let The Sun Shine In.wav" 1382012 0 1602999644 0
+D s 44100 n 2 l 0:07.834 i 16
+F "Head West - Attention.wav" 4234740 0 1602999646 0
+D s 44100 n 2 l 0:24.006 i 16
+F "Headhunters - God Made Me Funky (part1).wav" 1814932 0 1603381298 0
+D s 44100 n 2 l 0:10.228 i 16
 F "Hot Chocolate - You Could've Been A Lady.wav" 385804 0 1602999672 0
 D s 44100 n 2 l 0:02.186 i 16
 F "Ian Langley - Chicano Chaser.wav" 1488908 0 1602999672 0
 D s 44100 n 2 l 0:08.440 i 16
+F "Isaac Hayes - Breakthrough.wav" 1004524 0 1602999690 0
+D s 44100 n 2 l 0:05.694 i 16
+F "Isaac Hayes - Joy (part1).wav" 984132 0 1602999692 0
+D s 44100 n 2 l 0:05.578 i 16
+F "Isaac Hayes - Joy (part2).wav" 991868 0 1602999692 0
+D s 44100 n 2 l 0:05.622 i 16
+F "James Brown - Cold Sweat (ver.2).wav" 737850 0 1603342836 0
+D s 44100 n 1 l 0:08.319 i 16
+F "James Brown - Cold Sweat Live (part6).wav" 1201636 0 1603342850 0
+D s 44100 n 2 l 0:06.811 i 16
+F "James Brown - Cold Sweat Live (part7).wav" 624368 0 1603342852 0
+D s 44100 n 2 l 0:03.539 i 16
+F "James Brown - Dead On It (Pt2).wav" 764184 0 1603342852 0
+D s 44100 n 2 l 0:04.331 i 16
+F "James Brown - Funky Drummer (ver.1).wav" 3356836 0 1603342856 0
+D s 44100 n 2 l 0:19.029 i 16
+F "James Brown - Funky Drummer (ver.2).wav" 3524892 0 1603342856 0
+D s 44100 n 2 l 0:19.982 i 16
+F "James Brown - Funky President (Break Loop).mp3" 1088626 0 1602955218 0
+D t "James Brown - Funky President (Break Loop)" s 44100 n 2 l 1:07.645
+D i 128k j "mime:image/jpeg offset:113 length:5572"
+F "James Brown - Funky President (People It's Bad)(CD1).wav" 1667188 0 1603342856 0
+D s 44100 n 2 l 0:09.450 i 16
+F "James Brown - Funky President (People It's Bad)(CD2).wav" 1651852 0 1603342858 0
+D s 44100 n 2 l 0:09.363 i 16
+F "James Brown - Funky President .wav" 880104 0 1603342856 0
+D s 44100 n 1 l 0:09.978 i 16
+F "James Brown - Give It Up, Or Turn It Loose.wav" 1485788 0 1603342860 0
+D s 44100 n 2 l 0:08.422 i 16
+F "James Brown - Hustle!!! (Dead On It).wav" 1476532 0 1603342860 0
+D s 44100 n 2 l 0:08.370 i 16
+F "James Brown - Say It Loud - I'm Black And I'm Proud.wav" 4948184 0 1603342866 0
+D s 192000 n 2 l 0:04.295 i 24
+F "James Brown - Soul Pride (cd).wav" 3234764 0 1603342864 0
+D s 44100 n 2 l 0:18.337 i 16
+F "James Brown - Soul Pride (part1).wav" 1232652 0 1603342864 0
+D s 44100 n 2 l 0:06.987 i 16
+F "James Brown - Soul Pride (part2).wav" 1258688 0 1603342864 0
+D s 44100 n 2 l 0:07.135 i 16
+F "James Brown - Soul Pride (part3).wav" 1468120 0 1603342866 0
+D s 44100 n 2 l 0:08.322 i 16
+F "James Brown - Soul Pride (part4).wav" 1797772 0 1603342866 0
+D s 44100 n 2 l 0:10.191 i 16
+F "James Brown - Soul Pride (vinyl).wav" 3179856 0 1603342868 0
+D s 44100 n 2 l 0:18.026 i 16
+F "James Brown - Thank You For Lettin Me Be Myself And You Be Yours (Pt2).wav" 1848254 0 1603342868 0
+D s 44100 n 2 l 0:06.984 i 24
+F "Janet Dubois - Queen Of The Highway (Kon Kondensed Edit).wav" 2042280 0 1603342868 0
+D s 44100 n 2 l 0:11.577 i 16
+F "Jay Mitchell - Funky Fever (part1).wav" 2038604 0 1603342870 0
+D s 44100 n 2 l 0:11.556 i 16
+F "Jay Mitchell - Funky Fever (part2).wav" 1350880 0 1603342870 0
+D s 44100 n 2 l 0:07.657 i 16
+F "Jay Mitchell - Funky Fever (part3).wav" 683456 0 1603342874 0
+D s 44100 n 2 l 0:03.874 i 16
+F "Jay Mitchell - Funky Fever (part4).wav" 1367320 0 1603342874 0
+D s 44100 n 2 l 0:07.750 i 16
+F "Jesse And Erson - Mighty Mighty.wav" 914784 0 1603342876 0
+D s 44100 n 2 l 0:05.185 i 16
+F "Jimi Hendrix - Little Miss Lover (cdl).wav" 1742280 0 1603342876 0
+D s 44100 n 2 l 0:09.876 i 16
+F "Jimi Hendrix - Little Miss Lover (vinyl).wav" 1833008 0 1603342878 0
+D s 44100 n 2 l 0:10.390 i 16
+F "Jimmy Castor Bunch - It's Just Begun.wav" 1414164 0 1603342878 0
+D s 44100 n 2 l 0:08.016 i 16
+F "Jimmy MC - Griff The Worm.wav" 1811284 0 1603342878 0
+D s 44100 n 2 l 0:10.267 i 16
+F "Jimmy McGriff - Red Sails in the Sunset (Groove Grease).wav" 790856 0 1603342880 0
+D s 44100 n 2 l 0:04.483 i 16
+F "Jingo - Fever.wav" 1515512 0 1603342880 0
+D s 44100 n 2 l 0:08.591 i 16
+F "Joe Bataan - When You're Down.wav" 2081960 0 1603342882 0
+D s 44100 n 2 l 0:11.802 i 16
+F "Joe Farrell - Great Gorge.wav" 2834840 0 1603342882 0
+D s 44100 n 2 l 0:10.713 i 24
+F "Joe Tex - Papa Was Too (ver.1).wav" 1150354 0 1603342882 0
+D s 44100 n 1 l 0:13.042 i 16
+F "Joe Tex - Papa Was Too (ver.2) (part1).wav" 1402628 0 1603342884 0
+D s 44100 n 2 l 0:07.951 i 16
+F "Joe Tex - Papa Was Too (ver.2) (part2).wav" 931620 0 1603342884 0
+D s 44100 n 2 l 0:05.281 i 16
 F "Johnny Jenkins - I Walk On Guilded Splinters (ver.1).wav" 1894664 0 1603342898 0
 D s 44100 n 2 l 0:10.740 i 16
 F "Johnny Jenkins - I Walk On Guilded Splinters (ver.2) (part1).wav" 2174704 0 1603342898 0

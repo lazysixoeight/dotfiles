@@ -1,7 +1,84 @@
 C10018 "/home/lazy/Documents/REAPER Media/Projects/Media"
+F 005_Crash_Tune6A_-_TR909TDM_Zenhiser.wav 349484 0 1760261659 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.315 i 24
+F "01-MIDI render 001-glued-01.wav" 13827296 0 1759844132 0
+D y 2025-10-07 s 48000 n 2 r 1:42.260
+D l 0:48.000 i 24
+F "01-MIDI render 001-glued.wav" 13827296 0 1759843960 0
+D y 2025-10-07 s 48000 n 2 r 1:42.260
+D l 0:48.000 i 24
+F "01-MIDI render 001.wav" 28537780 0 1759843796 0
+D y 2025-10-07 s 48000 n 2 r 1:42.260
+D l 1:39.086 i 24
+F "01-MIDI render 002-glued reversed 001-glued reversed 001-glued.wav" 82286 0 1760522880 0
+D y 2025-10-15 s 48000 n 2 r 0:18.000
+D l 0:00.274 i 24
+F "01-MIDI render 002-glued reversed 001-glued.wav" 1528004 0 1760522796 0
+D y 2025-10-15 s 48000 n 2 r 0:18.352
+D l 0:05.294 i 24
+F "01-MIDI render 003-glued.wav" 2407472 0 1760535008 0
+D y 2025-10-15 s 48000 n 2 r 0:33.391
+D l 0:08.347 i 24
 F 01-MIDI-glued.wav 171404 0 1759413095 0
 D y 2025-10-02 s 48000 n 2 r 1:02.222
 D l 0:00.888 i 16
+F "02-MIDI render 001.wav" 6299170 0 1759844145 0
+D y 2025-10-07 s 48000 n 2 r 2:09.391
+D l 0:21.869 i 24
+F "02-MIDI render 002-glued reversed 001-glued.wav" 1528004 0 1760255962 0
+D y 2025-10-12 s 48000 n 2 r 0:20.823
+D l 0:05.294 i 24
+F "06-MIDI render 001-glued reversed 001-glued.wav" 4811642 0 1759842600 0
+D y 2025-10-07 s 48000 n 2 r 0:56.347
+D l 0:16.695 i 24
+F "06-MIDI render 001-glued reversed 001.wav" 4811882 0 1759842507 0
+D y 2025-10-07 s 48000 n 2 l 0:16.695
+D i 24
+F "06-MIDI render 001-glued-01.wav" 4811642 0 1759842566 0
+D y 2025-10-07 s 48000 n 2 r 1:16.173
+D l 0:16.695 i 24
+F "06-MIDI render 001-glued.wav" 4811642 0 1759842493 0
+D y 2025-10-07 s 48000 n 2 r 0:48.000
+D l 0:16.695 i 24
+F "063_Bassdrum_Acc1_Tune6_Att6_Dec6_-_TR909TDM_Zenhiser reversed 001-glued.wav" 109956 0 1760836763 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-10-19 g Drums
+D s 44100 n 2 r 0:15.600 l 0:00.400
+D i 24
+F "07-MIDI render 001-glued reversed 001-glued.wav" 1205384 0 1760616159 0
+D y 2025-10-16 s 48000 n 2 r 0:54.260
+D l 0:04.173 i 24
+F "07-MIDI render 001-glued.wav" 1205384 0 1760616140 0
+D y 2025-10-16 s 48000 n 2 r 0:50.086
+D l 0:04.173 i 24
+F "08-MIDI render 001-glued reversed 001-glued-01 reversed 001.wav" 379184 0 1759843463 0
+D y 2025-10-07 s 48000 n 2 l 0:01.304
+D i 24
+F "08-MIDI render 001-glued reversed 001-glued-01.wav" 376390 0 1759843376 0
+D y 2025-10-07 s 48000 n 2 r 0:58.891
+D l 0:01.304 i 24
+F "08-MIDI render 001-glued reversed 001-glued.wav" 604340 0 1759843164 0
+D y 2025-10-07 s 48000 n 2 r 0:56.347
+D l 0:02.086 i 24
+F "08-MIDI render 001-glued.wav" 604340 0 1759843033 0
+D y 2025-10-07 s 48000 n 2 r 0:56.347
+D l 0:02.086 i 24
+F "08-MIDI render 001.wav" 889780 0 1759843019 0
+D y 2025-10-07 s 48000 n 2 r 0:56.347
+D l 0:03.086 i 24
+F 170_024_Mic2_DeskDist_SP.wav 1552206 0 1760250829 0
+D y 2014-09-2 s 44100 n 2 l 0:05.647
+D i 24
+F "Clave 2.wav" 16820 0 315507600 0
+D s 44100 n 2 l 0:00.095 i 16
 F "devlog 1 [G4epXvRbKXE]-glued.wav" 149142 0 1758441446 0
 D y 2025-09-21 s 48000 n 2 r 2:12.911
 D l 0:00.759 i 16
+F "Fred Wesley - Four Play (Break 2) reversed 001-glued.wav" 48818 0 1760777380 0
+D t "Track 26" y 2025-10-18 s 44100 n 2
+D r 0:20.256 l 0:00.256 i 16
+F "Junior Mance - Thank You Falletin Me Be Mice Elf Again.wav" 1024698 0 1466009810 0
+D t "Track 11" s 44100 n 2 l 0:05.807
+D i 16
+F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad).wav 503338 0 315507600 0
+D s 44100 n 2 l 0:01.412 i 32

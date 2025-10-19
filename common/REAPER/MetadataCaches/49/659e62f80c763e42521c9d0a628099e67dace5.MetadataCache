@@ -2,6 +2,9 @@ C10018 "/home/lazy/Documents/REAPER Media"
 F 01-250812_1719-jsfx.wav 15815608 0 1754993984 0
 D y 2025-08-12 s 48000 n 2 l 0:41.184
 D i 32
+F 01-251008_0525-02.wav 762450 0 1759875960 0
+D y 2025-10-08 s 48000 n 1 l 0:05.290
+D i 24
 F 01-amen-single-eq-q-t155-c-tr-250814_2016-jsfx.wav 467448 0 1755177403 0
 D y 2025-08-14 s 48000 n 2 l 0:01.215
 D i 32
@@ -11,6 +14,9 @@ D i 32
 F 01-amen-single-eq-q-t155-c-tr-250815_1139-jsfx.wav 1307536 0 1755232790 0
 D y 2025-08-15 s 48000 n 2 l 0:03.403
 D i 32
+F "01-MIDI render 001-glued.wav" 233696 0 1759641577 0
+D y 2025-10-05 s 48000 n 2 l 0:00.800
+D i 24
 F "01-MIDI render 002-glued.wav" 8067296 0 1757674889 0
 D y 2025-09-12 s 48000 n 2 r 0:48.000
 D l 0:28.000 i 24
@@ -38,6 +44,13 @@ D l 0:02.268 i 24
 F 05-250913_1013-jsfx.wav 171408 0 1757733220 0
 D y 2025-09-13 s 48000 n 2 l 0:00.444
 D i 32
+F "063_Bassdrum_Acc1_Tune6_Att6_Dec6_-_TR909TDM_Zenhiser reversed 001-glued.wav" 109956 0 1760836215 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-10-19 g Drums
+D s 44100 n 2 r 0:06.400 l 0:00.400
+D i 24
+F "170_024_Mic2_DeskDist_SP reversed 001-glued.wav" 750810 0 1760255078 0
+D y 2025-10-12 s 44100 n 2 r 0:15.529
+D l 0:02.823 i 24
 F "AMEN 1 - Kick-glued.wav" 106696 0 1751429745 0
 D y 2025-07-02 s 44100 n 2 r 0:14.926
 D l 0:00.300 i 32
@@ -50,9 +63,15 @@ D i 32
 F "amen-single-eq-q-t155-c-tr render 001-glued.wav" 118520 0 1754708240 0
 D y 2025-08-09 s 48000 n 2 r 0:08.199
 D l 0:00.400 i 24
+F "amen-single-eq-q-t155-c-tr reversed 001-glued.wav" 101504 0 1760869955 0
+D y 2025-10-19 s 96000 n 2 r 0:02.045
+D l 0:00.170 i 24
 F "amen-single-eq-q-t155-c-tr reversed 005-glued.wav" 87614 0 1755955855 0
 D y 2025-08-23 s 96000 n 2 r 0:01.682
 D l 0:00.146 i 24
+F "amen-single-eq-q-t155-c-tr-glued render 001-glued.wav" 1574204 0 1760870222 0
+D y 2025-10-19 s 48000 n 2 l 0:05.454
+D i 24
 F amen-single-eq-q-t155-c-tr-glued-01.wav 95312 0 1757215170 0
 D y 2025-09-07 s 96000 n 2 r 0:00.952
 D l 0:00.159 i 24
@@ -146,12 +165,42 @@ D l 0:00.759 i 16
 F "Ed MacFarlane ⧸ Various Artists - Jeffries ⧸ Carewe ⧸ Greig - Evil At Play [4135114788]-glued.wav" 118288 0 1751949343 0
 D y 2025-07-08 s 44100 n 2 l 0:00.666
 D i 16
+F "Fabio Frizzi - Kalu'-glued.wav" 141856 0 1760834368 0
+D y 2025-10-19 s 44100 n 1 l 0:01.600
+D i 16
 F fools_gold-q-t180-comp-glued.wav 21392 0 1750140589 0
 D y 2025-06-17 s 44100 n 2 r 0:01.098
 D l 0:00.059 i 32
+F "Heavy Live A Cut 1 render 001-glued.wav" 1728736 0 1760869713 0
+D y 2025-10-19 s 48000 n 2 l 0:06.000
+D i 24
 F "oru_fx_rain_X render 001-glued.wav" 52304096 0 1753881150 0
 D y 2025-07-30 s 48000 n 2 l 3:01.600
 D i 24
+F "Roy Ayers - The Boogie Back-glued-03.wav" 638466 0 1760785238 0
+D t "Track 25" y 2025-10-18 s 44100 n 2
+D l 0:03.599 i 16
+F "Rufus Thomas - The Breakdown (Pt. 2) reversed 001-glued.wav" 17812 0 1760794531 0
+D t "Track 28" y 2025-10-18 s 44100 n 1
+D r 0:05.806 l 0:00.161 i 16
+F "Rufus Thomas - The Breakdown (Pt. 2) reversed 002-glued.wav" 10698 0 1760794552 0
+D t "Track 28" y 2025-10-18 s 44100 n 1
+D r 0:06.048 l 0:00.080 i 16
+F "Rufus Thomas - The Breakdown (Pt. 2) reversed 003-glued.wav" 17812 0 1760794679 0
+D t "Track 28" y 2025-10-18 s 44100 n 1
+D r 0:06.451 l 0:00.161 i 16
+F "Rufus Thomas - The Breakdown (Pt. 2) reversed 004-glued.wav" 10698 0 1760794712 0
+D t "Track 28" y 2025-10-18 s 44100 n 1
+D r 0:06.854 l 0:00.080 i 16
+F "Rufus Thomas - The Breakdown (Pt. 2) reversed 006-glued.wav" 10698 0 1760794876 0
+D t "Track 28" y 2025-10-18 s 44100 n 1
+D r 0:07.903 l 0:00.080 i 16
+F "Rufus Thomas - The Breakdown (Pt. 2) reversed 007-glued.wav" 17812 0 1760794983 0
+D t "Track 28" y 2025-10-18 s 44100 n 1
+D r 0:08.387 l 0:00.161 i 16
+F "Rufus Thomas - The Breakdown (Pt. 2)-glued.wav" 31962 0 1760795096 0
+D t "Track 28" y 2025-10-18 s 44100 n 1
+D r 0:10.322 l 0:00.322 i 16
 F "soul (crashes)_q_175-glued.wav" 99076 0 1755955563 0
 D y 2025-08-23 s 48000 n 2 r 0:01.243
 D l 0:00.512 i 16
