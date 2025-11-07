@@ -17,7 +17,7 @@ exec_always 'pkill waybar; waybar'
 # Logo key. Use Mod1 for Alt.
 set $mod Mod4
 # Your preferred terminal emulator
-set $term alacritty
+set $term kitty
 # Your preferred application launcher
 set $menu rofi -show drun
 
@@ -62,7 +62,7 @@ exec swayidle -w \
 # Basics:
 #
     bindsym $mod+Return exec $term
-    bindsym $mod+Shift+Return exec $term --class=term-float
+    bindsym $mod+Shift+Return exec $term --app-id float
     bindsym $mod+Shift+q kill
     bindsym $mod+d exec $menu
     bindsym $mod+r exec tofi-run | xargs swaymsg exec --
@@ -162,7 +162,7 @@ exec swayidle -w \
 #
 # Window Rulez
 #
-    for_window [app_id="term-float"] floating enable, resize set width 1000, resize set height 760 
+    for_window [app_id="float"] floating enable, resize set width 1000, resize set height 760 
     
     for_window [shell="xwayland"] title_format "%title [Xwayland]"
     

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="f009af5aabe82059c643a1bde07dbb2f06662acd" name="ReaTeam Scripts">
+<index version="1" commit="6505af7aefceb8c4652988250bb02e0c550471d5" name="ReaTeam Scripts">
   <category name="Cursor">
     <reapack name="amagalma_Move edit cursor to closest item edge (among the selected items).lua" type="script" desc="Move edit cursor to closest item edge (among the selected items)">
       <metadata>
@@ -2384,6 +2384,28 @@ Refactored/reorganized the code for readability]]></changelog>
         <source file="talagan_ReaImGui Markdown/reaimgui_markdown.lua">https://github.com/ReaTeam/ReaScripts/raw/933eec62ceb2516e7ecd82545e983708b85b1f52/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown.lua</source>
         <source main="main" file="./talagan_ReaImGui Markdown Demo.lua">https://github.com/ReaTeam/ReaScripts/raw/933eec62ceb2516e7ecd82545e983708b85b1f52/Development/talagan_ReaImGui%20Markdown/actions/talagan_ReaImGui%20Markdown%20Demo.lua</source>
       </version>
+      <version name="0.1.4" author="Ben 'Talagan' Babut" time="2025-10-24T15:20:28Z">
+        <changelog><![CDATA[- [Feature] Added size hint calculation after rendering]]></changelog>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/ext/imgui.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-ast.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-ast.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-html.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-html.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-imgui.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-test.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-test.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-text.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-text.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown.lua</source>
+        <source main="main" file="./talagan_ReaImGui Markdown Demo.lua">https://github.com/ReaTeam/ReaScripts/raw/f490cfaba549654d806db3c2752488fc3649d0bb/Development/talagan_ReaImGui%20Markdown/actions/talagan_ReaImGui%20Markdown%20Demo.lua</source>
+      </version>
+      <version name="0.1.5" author="Ben 'Talagan' Babut" time="2025-10-25T00:58:17Z">
+        <changelog><![CDATA[- [Bug Fix] Port to ImGui 0.10 was not finished.]]></changelog>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/ext/imgui.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-ast.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-ast.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-html.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-html.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-imgui.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-test.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-test.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown/markdown-text.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown/markdown-text.lua</source>
+        <source file="talagan_ReaImGui Markdown/reaimgui_markdown.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/reaimgui_markdown.lua</source>
+        <source main="main" file="./talagan_ReaImGui Markdown Demo.lua">https://github.com/ReaTeam/ReaScripts/raw/6505af7aefceb8c4652988250bb02e0c550471d5/Development/talagan_ReaImGui%20Markdown/actions/talagan_ReaImGui%20Markdown%20Demo.lua</source>
+      </version>
     </reapack>
     <reapack name="willdevelop_Read tags (for plugin tag system).lua" type="script" desc="Read tags (for plugin tag system)">
       <metadata>
@@ -2597,6 +2619,22 @@ Refactored/reorganized the code for readability]]></changelog>
 - Fixed: working when there are other envelopes
 - Added: If mouse is not over Arrange or TCP then it works according to last context]]></changelog>
         <source main="main">https://github.com/ReaTeam/ReaScripts/raw/bf3b39415aaaaa2a8ce96f99289772dc5da34a81/Envelopes/amagalma_Toggle%20volume%20envelope%20visibility%20for%20selected%20tracks%20or%20items%20depending%20on%20mouse%20position%20or%20last%20context.lua</source>
+      </version>
+    </reapack>
+    <reapack name="az_Set envelope in time selection or segment under mouse to 0 dB or center.lua" type="script" desc="Set envelope in time selection or segment under mouse to 0 dB or center">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 For feature requests and bug reports click website button below.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=288069">Forum thread</link>
+        <link rel="donation" href="https://paypal.me/AZsound">Donate via PayPal</link>
+      </metadata>
+      <version name="1.0" author="AZ" time="2025-10-17T16:26:06Z">
+        <source main="main">https://github.com/ReaTeam/ReaScripts/raw/f98609245925fc07c9430e3e97a2c07733f9fdf2/Envelopes/az_Set%20envelope%20in%20time%20selection%20or%20segment%20under%20mouse%20to%200%20dB%20or%20center.lua</source>
       </version>
     </reapack>
     <reapack name="BuyOne_(Un)Collapse envelope lanes.lua" type="script" desc="(Un)Collapse envelope lanes (18 scripts)">
@@ -6649,6 +6687,13 @@ website
         <source main="main">https://github.com/ReaTeam/ReaScripts/raw/b2f92de3e4019d87921ed2d99a9c613782f8fee0/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection).lua</source>
         <source file="az_Fade tool (work on context of mouse, razor or time selection)/az_Options window for az_Fade tool.lua">https://github.com/ReaTeam/ReaScripts/raw/b2f92de3e4019d87921ed2d99a9c613782f8fee0/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Options%20window%20for%20az_Fade%20tool.lua</source>
         <source main="main" file="az_Fade tool (work on context of mouse, razor or time selection)/az_Open options for az_Fade tool.lua">https://github.com/ReaTeam/ReaScripts/raw/b2f92de3e4019d87921ed2d99a9c613782f8fee0/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Open%20options%20for%20az_Fade%20tool.lua</source>
+      </version>
+      <version name="2.4" author="AZ" time="2025-10-17T16:26:20Z">
+        <changelog><![CDATA[- Support for editing take envelopes via razor
+- New option to prefer edit single take envelope rather double fades creation.]]></changelog>
+        <source main="main">https://github.com/ReaTeam/ReaScripts/raw/bdf7f0112a031fee743b8dd98b19d35e5e24b4cb/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection).lua</source>
+        <source file="az_Fade tool (work on context of mouse, razor or time selection)/az_Options window for az_Fade tool.lua">https://github.com/ReaTeam/ReaScripts/raw/bdf7f0112a031fee743b8dd98b19d35e5e24b4cb/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Options%20window%20for%20az_Fade%20tool.lua</source>
+        <source main="main" file="az_Fade tool (work on context of mouse, razor or time selection)/az_Open options for az_Fade tool.lua">https://github.com/ReaTeam/ReaScripts/raw/bdf7f0112a031fee743b8dd98b19d35e5e24b4cb/Items%20Editing/az_Fade%20tool%20(work%20on%20context%20of%20mouse,%20razor%20or%20time%20selection)/az_Open%20options%20for%20az_Fade%20tool.lua</source>
       </version>
     </reapack>
     <reapack name="az_Open item copy in primary external editor with handles.lua" type="script" desc="Open item copy in primary external editor with handles">
@@ -20507,6 +20552,11 @@ Update post-processing display to match REAPER v7.39]]></changelog>
         <source main="main">https://github.com/ReaTeam/ReaScripts/raw/265054ab08ac86a08daba2da2787588659d758be/Rendering/cfillion_Apply%20render%20preset.lua</source>
         <source main="main" file="cfillion_Apply render preset (create action).lua">https://github.com/ReaTeam/ReaScripts/raw/265054ab08ac86a08daba2da2787588659d758be/Rendering/cfillion_Apply%20render%20preset.lua</source>
       </version>
+      <version name="2.1.10" author="cfillion" time="2025-10-19T13:58:17Z">
+        <changelog><![CDATA[Support REAPER 7.48's empty output directory [p=2898001]]]></changelog>
+        <source main="main">https://github.com/ReaTeam/ReaScripts/raw/93d09cae4a363fd297723729d83c16134ff87688/Rendering/cfillion_Apply%20render%20preset.lua</source>
+        <source main="main" file="cfillion_Apply render preset (create action).lua">https://github.com/ReaTeam/ReaScripts/raw/93d09cae4a363fd297723729d83c16134ff87688/Rendering/cfillion_Apply%20render%20preset.lua</source>
+      </version>
     </reapack>
     <reapack name="DSG_Render time selection to new track.lua" type="script" desc="Render time selection to new track">
       <metadata>
@@ -29429,6 +29479,152 @@ Fix SWS Startup / Lokasenna Radial Menu bug]]></changelog>
       </metadata>
       <version name="1.0" author="Tagirijus" time="2022-07-02T23:24:20Z">
         <source main="main">https://github.com/ReaTeam/ReaScripts/raw/9e96eea791fd93d8151a7dce11d16995d67f3faa/Various/tagirijus_Save%20project%20and%20move%20backups.lua</source>
+      </version>
+    </reapack>
+    <reapack name="talagan_Reannotate.lua" type="script" desc="Reannotate - Annotation tool for REAPER">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Reannotate is a visual annotation tool for Reaper.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 It comes as a modal overlay over Reaper, allowing to quickly consult and add some kind of colored "Post-It" notes over objects (tracks, envelopes, items, and project). These notes can be previewed as tooltips by hovering the mouse over objects and can use markdown syntax.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Basic filtering by category and search is available (pretty basic for now but may evolve).\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 SWS and Reaper notes may be edited with Reannotate. They will appear in a dedicated category, allowing retro-compatibility for older projects or projects written by users not using Reannotate.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 You can consult the forum thread for more info.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Please note that this tool is very young and may contain bugs.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Special thanks to Christian Fillion for the infallible support on ReaImGui, and Arkadata for the continuous and precious feedback and comments during the dev !\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=304147">Forum Thread</link>
+        <link rel="screenshot">https://stash.reaper.fm/50870/reannotate_screenshot_reapack.png</link>
+        <link rel="donation">https://www.paypal.com/donate/?business=3YEZMY9D6U8NC&amp;no_recurring=1&amp;currency_code=EUR</link>
+      </metadata>
+      <version name="0.3.0" author="Ben 'Talagan' Babut" time="2025-10-23T13:51:14Z">
+        <changelog><![CDATA[- First release]]></changelog>
+        <source file="talagan_Reannotate/ext/dependencies.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/ext/dependencies.lua</source>
+        <source file="talagan_Reannotate/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/ext/imgui.lua</source>
+        <source file="talagan_Reannotate/ext/json.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/ext/json.lua</source>
+        <source file="talagan_Reannotate/classes/app_context.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/classes/app_context.lua</source>
+        <source file="talagan_Reannotate/classes/arrange_view_watcher.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/classes/arrange_view_watcher.lua</source>
+        <source file="talagan_Reannotate/classes/color.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/classes/color.lua</source>
+        <source file="talagan_Reannotate/classes/launch_context.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/classes/launch_context.lua</source>
+        <source file="talagan_Reannotate/classes/mouse_observer.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/classes/mouse_observer.lua</source>
+        <source file="talagan_Reannotate/classes/notes.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/classes/notes.lua</source>
+        <source file="talagan_Reannotate/images/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/images/settings.lua</source>
+        <source file="talagan_Reannotate/modules/debug.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/modules/debug.lua</source>
+        <source file="talagan_Reannotate/modules/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/modules/settings.lua</source>
+        <source file="talagan_Reannotate/modules/unit_tests.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/modules/unit_tests.lua</source>
+        <source file="talagan_Reannotate/widgets/note_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/widgets/note_editor.lua</source>
+        <source file="talagan_Reannotate/widgets/quick_preview_overlay.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/widgets/quick_preview_overlay.lua</source>
+        <source file="talagan_Reannotate/widgets/settings_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/widgets/settings_editor.lua</source>
+        <source main="main" file="talagan_Reannotate Quick Preview.lua">https://github.com/ReaTeam/ReaScripts/raw/6c802284f4e2a41b1c798b6d8a622e101dde88e4/Various/talagan_Reannotate/actions/talagan_Reannotate%20Quick%20Preview.lua</source>
+      </version>
+      <version name="0.3.1" author="Ben 'Talagan' Babut" time="2025-10-23T14:54:17Z">
+        <changelog><![CDATA[- [DOC] Updated forum thread link
+- [Bug Fix] Envelope notes vertical position was wrong (forgot to add track's position)]]></changelog>
+        <source file="talagan_Reannotate/ext/dependencies.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/ext/dependencies.lua</source>
+        <source file="talagan_Reannotate/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/ext/imgui.lua</source>
+        <source file="talagan_Reannotate/ext/json.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/ext/json.lua</source>
+        <source file="talagan_Reannotate/classes/app_context.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/classes/app_context.lua</source>
+        <source file="talagan_Reannotate/classes/arrange_view_watcher.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/classes/arrange_view_watcher.lua</source>
+        <source file="talagan_Reannotate/classes/color.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/classes/color.lua</source>
+        <source file="talagan_Reannotate/classes/launch_context.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/classes/launch_context.lua</source>
+        <source file="talagan_Reannotate/classes/mouse_observer.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/classes/mouse_observer.lua</source>
+        <source file="talagan_Reannotate/classes/notes.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/classes/notes.lua</source>
+        <source file="talagan_Reannotate/images/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/images/settings.lua</source>
+        <source file="talagan_Reannotate/modules/debug.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/modules/debug.lua</source>
+        <source file="talagan_Reannotate/modules/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/modules/settings.lua</source>
+        <source file="talagan_Reannotate/modules/unit_tests.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/modules/unit_tests.lua</source>
+        <source file="talagan_Reannotate/widgets/note_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/widgets/note_editor.lua</source>
+        <source file="talagan_Reannotate/widgets/quick_preview_overlay.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/widgets/quick_preview_overlay.lua</source>
+        <source file="talagan_Reannotate/widgets/settings_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/widgets/settings_editor.lua</source>
+        <source main="main" file="talagan_Reannotate Quick Preview.lua">https://github.com/ReaTeam/ReaScripts/raw/6b52149e1ec9a6acd4ae984d6b63d8a01eccbf60/Various/talagan_Reannotate/actions/talagan_Reannotate%20Quick%20Preview.lua</source>
+      </version>
+      <version name="0.3.2" author="Ben 'Talagan' Babut" time="2025-10-23T20:05:15Z">
+        <changelog><![CDATA[- [Bug Fix] Check dependency on Markdown Library not working under windows]]></changelog>
+        <source file="talagan_Reannotate/ext/dependencies.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/ext/dependencies.lua</source>
+        <source file="talagan_Reannotate/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/ext/imgui.lua</source>
+        <source file="talagan_Reannotate/ext/json.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/ext/json.lua</source>
+        <source file="talagan_Reannotate/classes/app_context.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/classes/app_context.lua</source>
+        <source file="talagan_Reannotate/classes/arrange_view_watcher.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/classes/arrange_view_watcher.lua</source>
+        <source file="talagan_Reannotate/classes/color.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/classes/color.lua</source>
+        <source file="talagan_Reannotate/classes/launch_context.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/classes/launch_context.lua</source>
+        <source file="talagan_Reannotate/classes/mouse_observer.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/classes/mouse_observer.lua</source>
+        <source file="talagan_Reannotate/classes/notes.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/classes/notes.lua</source>
+        <source file="talagan_Reannotate/images/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/images/settings.lua</source>
+        <source file="talagan_Reannotate/modules/debug.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/modules/debug.lua</source>
+        <source file="talagan_Reannotate/modules/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/modules/settings.lua</source>
+        <source file="talagan_Reannotate/modules/unit_tests.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/modules/unit_tests.lua</source>
+        <source file="talagan_Reannotate/widgets/note_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/widgets/note_editor.lua</source>
+        <source file="talagan_Reannotate/widgets/quick_preview_overlay.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/widgets/quick_preview_overlay.lua</source>
+        <source file="talagan_Reannotate/widgets/settings_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/widgets/settings_editor.lua</source>
+        <source main="main" file="talagan_Reannotate Quick Preview.lua">https://github.com/ReaTeam/ReaScripts/raw/06ff8a7d82f3a4901e0969e30ef13e04aef07541/Various/talagan_Reannotate/actions/talagan_Reannotate%20Quick%20Preview.lua</source>
+      </version>
+      <version name="0.3.3" author="Ben 'Talagan' Babut" time="2025-10-24T04:18:18Z">
+        <changelog><![CDATA[- [Bug Fix] Pinned track zone overlaps with the rest of the arrange view (thanks @smandrap !)
+- [Bug Fixes] Fixed various bug linked to envelope visibility]]></changelog>
+        <source file="talagan_Reannotate/ext/dependencies.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/ext/dependencies.lua</source>
+        <source file="talagan_Reannotate/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/ext/imgui.lua</source>
+        <source file="talagan_Reannotate/ext/json.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/ext/json.lua</source>
+        <source file="talagan_Reannotate/classes/app_context.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/classes/app_context.lua</source>
+        <source file="talagan_Reannotate/classes/arrange_view_watcher.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/classes/arrange_view_watcher.lua</source>
+        <source file="talagan_Reannotate/classes/color.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/classes/color.lua</source>
+        <source file="talagan_Reannotate/classes/launch_context.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/classes/launch_context.lua</source>
+        <source file="talagan_Reannotate/classes/mouse_observer.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/classes/mouse_observer.lua</source>
+        <source file="talagan_Reannotate/classes/notes.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/classes/notes.lua</source>
+        <source file="talagan_Reannotate/images/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/images/settings.lua</source>
+        <source file="talagan_Reannotate/modules/debug.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/modules/debug.lua</source>
+        <source file="talagan_Reannotate/modules/reaper_ext.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/modules/reaper_ext.lua</source>
+        <source file="talagan_Reannotate/modules/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/modules/settings.lua</source>
+        <source file="talagan_Reannotate/modules/unit_tests.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/modules/unit_tests.lua</source>
+        <source file="talagan_Reannotate/widgets/note_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/widgets/note_editor.lua</source>
+        <source file="talagan_Reannotate/widgets/quick_preview_overlay.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/widgets/quick_preview_overlay.lua</source>
+        <source file="talagan_Reannotate/widgets/settings_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/widgets/settings_editor.lua</source>
+        <source main="main" file="talagan_Reannotate Quick Preview.lua">https://github.com/ReaTeam/ReaScripts/raw/69a4698d740d4f263ca5fd6bcb71fa99fd4b5e67/Various/talagan_Reannotate/actions/talagan_Reannotate%20Quick%20Preview.lua</source>
+      </version>
+      <version name="0.3.4" author="Ben 'Talagan' Babut" time="2025-10-24T15:20:50Z">
+        <changelog><![CDATA[- [Feature] Double-click tooltip for auto resize
+- [Bug Fix] Items contained in hidden fixed lanes should not be shown in overlay (thanks @smandrap !)]]></changelog>
+        <source file="talagan_Reannotate/ext/dependencies.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/ext/dependencies.lua</source>
+        <source file="talagan_Reannotate/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/ext/imgui.lua</source>
+        <source file="talagan_Reannotate/ext/json.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/ext/json.lua</source>
+        <source file="talagan_Reannotate/classes/app_context.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/classes/app_context.lua</source>
+        <source file="talagan_Reannotate/classes/arrange_view_watcher.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/classes/arrange_view_watcher.lua</source>
+        <source file="talagan_Reannotate/classes/color.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/classes/color.lua</source>
+        <source file="talagan_Reannotate/classes/launch_context.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/classes/launch_context.lua</source>
+        <source file="talagan_Reannotate/classes/mouse_observer.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/classes/mouse_observer.lua</source>
+        <source file="talagan_Reannotate/classes/notes.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/classes/notes.lua</source>
+        <source file="talagan_Reannotate/images/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/images/settings.lua</source>
+        <source file="talagan_Reannotate/modules/debug.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/modules/debug.lua</source>
+        <source file="talagan_Reannotate/modules/reaper_ext.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/modules/reaper_ext.lua</source>
+        <source file="talagan_Reannotate/modules/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/modules/settings.lua</source>
+        <source file="talagan_Reannotate/modules/unit_tests.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/modules/unit_tests.lua</source>
+        <source file="talagan_Reannotate/widgets/note_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/widgets/note_editor.lua</source>
+        <source file="talagan_Reannotate/widgets/quick_preview_overlay.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/widgets/quick_preview_overlay.lua</source>
+        <source file="talagan_Reannotate/widgets/settings_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/widgets/settings_editor.lua</source>
+        <source main="main" file="talagan_Reannotate Quick Preview.lua">https://github.com/ReaTeam/ReaScripts/raw/24883b315b24d059027af840af5091cb7dbf6603/Various/talagan_Reannotate/actions/talagan_Reannotate%20Quick%20Preview.lua</source>
+      </version>
+      <version name="0.3.5" author="Ben 'Talagan' Babut" time="2025-10-25T00:57:53Z">
+        <changelog><![CDATA[- [Bug Fix] [Win32] Scroll wheel events not forwarded to Reaper (thanks @Zzibbubby !)]]></changelog>
+        <source file="talagan_Reannotate/ext/dependencies.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/ext/dependencies.lua</source>
+        <source file="talagan_Reannotate/ext/imgui.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/ext/imgui.lua</source>
+        <source file="talagan_Reannotate/ext/json.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/ext/json.lua</source>
+        <source file="talagan_Reannotate/classes/app_context.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/classes/app_context.lua</source>
+        <source file="talagan_Reannotate/classes/arrange_view_watcher.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/classes/arrange_view_watcher.lua</source>
+        <source file="talagan_Reannotate/classes/color.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/classes/color.lua</source>
+        <source file="talagan_Reannotate/classes/launch_context.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/classes/launch_context.lua</source>
+        <source file="talagan_Reannotate/classes/mouse_observer.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/classes/mouse_observer.lua</source>
+        <source file="talagan_Reannotate/classes/notes.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/classes/notes.lua</source>
+        <source file="talagan_Reannotate/images/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/images/settings.lua</source>
+        <source file="talagan_Reannotate/modules/debug.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/modules/debug.lua</source>
+        <source file="talagan_Reannotate/modules/reaper_ext.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/modules/reaper_ext.lua</source>
+        <source file="talagan_Reannotate/modules/settings.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/modules/settings.lua</source>
+        <source file="talagan_Reannotate/modules/unit_tests.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/modules/unit_tests.lua</source>
+        <source file="talagan_Reannotate/widgets/note_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/widgets/note_editor.lua</source>
+        <source file="talagan_Reannotate/widgets/quick_preview_overlay.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/widgets/quick_preview_overlay.lua</source>
+        <source file="talagan_Reannotate/widgets/settings_editor.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/widgets/settings_editor.lua</source>
+        <source main="main" file="talagan_Reannotate Quick Preview.lua">https://github.com/ReaTeam/ReaScripts/raw/7ca420b5a1c5830f1acce07d2fc976668870d77c/Various/talagan_Reannotate/actions/talagan_Reannotate%20Quick%20Preview.lua</source>
       </version>
     </reapack>
     <reapack name="talagan_Spectracular.lua" type="script" desc="Spectracular ! Spectrogram binocular for REAPER">

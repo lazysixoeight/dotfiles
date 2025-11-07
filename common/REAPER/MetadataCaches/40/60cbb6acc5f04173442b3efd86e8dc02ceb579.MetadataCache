@@ -1,4 +1,14 @@
 C10018 "/home/lazy/Documents/REAPER Media/Projects/Media"
+F 004_Clap_Hard4_-_TR909TDM_Zenhiser.wav 265278 0 1760445796 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.997 i 24
+F "004_Hihat_Closed_Decay1_Soft2_-_TR909TDM_Zenhiser reversed 001-glued.wav" 93948 0 1761140456 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-10-22 g Drums
+D s 44100 n 2 r 0:45.176 l 0:00.339
+D i 24
+F 004_Hihat_Closed_Decay1_Soft2_-_TR909TDM_Zenhiser.wav 90784 0 1760445688 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.339 i 24
 F 005_Crash_Tune6A_-_TR909TDM_Zenhiser.wav 349484 0 1760261659 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
 D n 2 l 0:01.315 i 24
@@ -20,15 +30,28 @@ D l 0:05.294 i 24
 F "01-MIDI render 003-glued.wav" 2407472 0 1760535008 0
 D y 2025-10-15 s 48000 n 2 r 0:33.391
 D l 0:08.347 i 24
+F "01-MIDI render 004-glued.wav" 409886 0 1761353213 0
+D y 2025-10-25 s 48000 n 2 r 1:36.529
+D l 0:01.411 i 24
 F 01-MIDI-glued.wav 171404 0 1759413095 0
 D y 2025-10-02 s 48000 n 2 r 1:02.222
 D l 0:00.888 i 16
+F "013_Bassdrum_Acc1_Tune1_Att6_Dec6_-_TR909TDM_Zenhiser reversed 001-glued.wav" 97506 0 1761138609 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-10-22 g Drums
+D s 44100 n 2 r 0:30.705 l 0:00.352
+D i 24
+F 013_Bassdrum_Acc1_Tune1_Att6_Dec6_-_TR909TDM_Zenhiser.wav 169352 0 1760262622 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.635 i 24
 F "02-MIDI render 001.wav" 6299170 0 1759844145 0
 D y 2025-10-07 s 48000 n 2 r 2:09.391
 D l 0:21.869 i 24
 F "02-MIDI render 002-glued reversed 001-glued.wav" 1528004 0 1760255962 0
 D y 2025-10-12 s 48000 n 2 r 0:20.823
 D l 0:05.294 i 24
+F 027_Bassdrum_Acc1_Tune3_Att1_Dec3_-_TR909TDM_Zenhiser.wav 174904 0 1760444182 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.656 i 24
 F "06-MIDI render 001-glued reversed 001-glued.wav" 4811642 0 1759842600 0
 D y 2025-10-07 s 48000 n 2 r 0:56.347
 D l 0:16.695 i 24
@@ -66,19 +89,97 @@ D l 0:02.086 i 24
 F "08-MIDI render 001.wav" 889780 0 1759843019 0
 D y 2025-10-07 s 48000 n 2 r 0:56.347
 D l 0:03.086 i 24
+F "170_024_Mic2_DeskDist_SP reversed 001-glued.wav" 143784 0 1760266265 0
+D y 2025-10-12 s 44100 n 2 r 0:17.294
+D l 0:00.529 i 24
+F "170_024_Mic2_DeskDist_SP reversed 001.wav" 50706 0 1760266263 0
+D y 2014-09-2 s 44100 n 2 l 0:00.176
+D i 24
 F 170_024_Mic2_DeskDist_SP.wav 1552206 0 1760250829 0
 D y 2014-09-2 s 44100 n 2 l 0:05.647
 D i 24
+F 170_041_Mic2_DeskDist_SP.wav 1519528 0 1760251784 0
+D g Rock/Blues p 170.000201 s 44100 n 2
+D l 0:05.647 i 24
+F amen-single-eq-q-t155-c-tr.wav 1789268 0 315507600 0
+D s 96000 n 2 l 0:03.096 i 24
+F "aphex_twinrichard_d_james_goodinteresting_interview_bits_compilation reversed 001-glued.wav" 127834 0 1761224701 0
+D y 2025-10-23 s 44100 n 2 r 1:16.235
+D l 0:00.705 i 16
+F "aphex_twinrichard_d_james_goodinteresting_interview_bits_compilation reversed 001.wav" 125286 0 1761224696 0
+D y 2025-10-23 s 44100 n 2 r 1:16.235
+D l 0:00.705 i 16
+F aphex_twinrichard_d_james_goodinteresting_interview_bits_compilation.wav 22540366 0 1759560798 0
+D s 44100 n 2 l 2:07.779 i 16
+F "Big Boss Man - Kelvin Stardust.wav" 1318600 0 1574758660 0
+D s 44100 n 2 l 0:07.474 i 16
+F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno render 001.wav" 1640458 0 1761352139 0
+D y 2025-10-25 s 48000 n 2 r 1:33.176
+D l 0:05.693 i 24
+F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno render 002-glued.wav" 1643018 0 1761352145 0
+D y 2025-10-25 s 48000 n 2 r 1:33.176
+D l 0:05.693 i 24
+F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno render 002.wav" 1928458 0 1761352143 0
+D y 2025-10-25 s 48000 n 2 r 1:33.176
+D l 0:06.693 i 24
+F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno.wav" 1004372 0 1759615659 0
+D s 44100 n 2 l 0:05.693 i 16
+F "Clap 808 1 V2.wav" 457746 0 315507600 0
+D s 44100 n 1 l 0:03.356 i 24
 F "Clave 2.wav" 16820 0 315507600 0
 D s 44100 n 2 l 0:00.095 i 16
-F "devlog 1 [G4epXvRbKXE]-glued.wav" 149142 0 1758441446 0
-D y 2025-09-21 s 48000 n 2 r 2:12.911
-D l 0:00.759 i 16
+F click.wav 572 0 1761227021 0
+D s 44100 n 1 l 0:00.011 i 8
+F door.wav 30124380 0 1761955980 0
+D y 2025-11-01 s 44100 n 2 l 1:53.846
+D i 24
+F "Drumloop 33.wav" 369254 0 1570981748 0
+D t "Nummer 3" s 44100 n 2 l 0:02.092
+D i 16
+F "Drumloop 6.wav" 371814 0 1570949436 0
+D t "Nummer 1" s 44100 n 2 l 0:02.106
+D i 16
+F "Effect Break 2 - 12A.wav" 266252 0 1587134974 0
+D t "4A - 12A" k 12A s 44100 n 2
+D l 0:01.502 i 16
+F "fools-gold 115 reversed 001-glued.wav" 87296 0 1762178221 0
+D y 2025-11-03 s 44100 n 2 r 0:05.079
+D l 0:00.317 i 24
 F "Fred Wesley - Four Play (Break 2) reversed 001-glued.wav" 48818 0 1760777380 0
 D t "Track 26" y 2025-10-18 s 44100 n 2
 D r 0:20.256 l 0:00.256 i 16
+F "Fred Wesley - Four Play (Break 2) reversed 001.wav" 70862 0 1760777376 0
+D t "Track 26" y 2025-10-18 s 44100 n 2
+D r 0:20.256 l 0:00.381 i 16
 F "Junior Mance - Thank You Falletin Me Be Mice Elf Again.wav" 1024698 0 1466009810 0
 D t "Track 11" s 44100 n 2 l 0:05.807
 D i 16
+F "laserShoot reversed 001-glued.wav" 11796 0 1761227772 0
+D y 2025-10-23 s 44100 n 1 r 1:30.516
+D l 0:00.096 i 16
+F "laserShoot reversed 001.wav" 9236 0 1761227766 0
+D y 2025-10-23 s 44100 n 1 r 1:30.516
+D l 0:00.096 i 16
+F laserShoot(1).wav 2618 0 1761226942 0
+D s 44100 n 1 l 0:00.058 i 8
+F laserShoot(2).wav 6069 0 1761226966 0
+D s 44100 n 1 l 0:00.136 i 8
+F laserShoot.wav 4294 0 1761226938 0
+D s 44100 n 1 l 0:00.096 i 8
+F "Old Wooden Doors - Open and Close - with Creaking Sound Effect.mp3" 166532 0 1761955748 0
+D s 48000 n 2 l 0:15.267 i 87k
 F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad).wav 503338 0 315507600 0
 D s 44100 n 2 l 0:01.412 i 32
+F Stagnating.mp3 26925 0 1761226560 0
+D s 24000 n 1 l 0:01.260 i 171k
+F "The Winstons - Amen, Brother (ver.1)-glued-01.wav" 20192 0 1762169629 0
+D y 2025-11-03 s 44100 n 2 r 0:02.977
+D l 0:00.110 i 16
+F "The Winstons - Amen, Brother (ver.1)-glued-02.wav" 20192 0 1762169685 0
+D y 2025-11-03 s 44100 n 2 r 0:02.977
+D l 0:00.110 i 16
+F "The Winstons - Amen, Brother (ver.1)-glued.wav" 20192 0 1762169624 0
+D y 2025-11-03 s 44100 n 2 r 0:02.977
+D l 0:00.110 i 16
+F "Welcome to fish the .mp3" 71565 0 1761226755 0
+D s 24000 n 1 l 0:03.490 i 164k

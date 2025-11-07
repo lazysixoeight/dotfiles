@@ -1,27 +1,8 @@
 C10018 /home/lazy/Downloads
-F "!!!Clipped Zay 808.wav" 361478 0 1746235919 0
-D s 44100 n 2 l 0:01.023 i 32
-F "!!!spinz 808.wav" 627484 0 1746235919 0
-D t "venexxi 3k drumkit" a @venexxi b "venexxi 3k drumkit" s 44100
-D n 2 l 0:01.777 i 32
-F 808_main_fungi_C.wav 1574198 0 1746235919 0
-D s 44100 n 2 l 0:05.949 i 24
-F audio.wav 589262 0 1753191532 0
-D s 22050 n 1 l 0:13.360 i 16
-F backoutsideboyz.wav 349670 0 1746235919 0
-D s 44100 n 2 l 0:00.990 i 32
-F "ctm 808.wav" 825436 0 1746235919 0
-D t "venexxi 3k drumkit" a @venexxi b "venexxi 3k drumkit" s 44100
-D n 2 l 0:02.338 i 32
-F "Going Bad 808 OG.wav" 347796 0 1746235919 0
-D t "808 5 {C} [ 808 went bad ]" a @fredyicey b "Icey - Wheezy Outta Here Kit" s 44100
-D n 2 l 0:00.984 i 32
-F "jdolla 808.wav" 453746 0 1746235919 0
-D s 44100 n 2 l 0:02.571 i 16
-F "LONG PLUGG 808.wav" 1275252 0 1746235919 0
-D s 44100 n 2 l 0:03.614 i 32
-F "TIK TOK 808 LMAOOO.wav" 1303642 0 1746235919 0
-D s 44100 n 2 l 0:07.389 i 16
-F "wizard sub.wav" 1828372 0 1746235919 0
-D a @okayypablo b "@okayypablo Summer League Drum Kit" s 44100 n 2
-D l 0:04.818 i 32 j "mime:image/jpeg offset:1700523 length:127849"
+F "Aphex Twin - Avril 14th.mid" 4195 0 1761950069 0
+D t "Grand Piano" p 78.0001 n 1 l 1:14.001
+F door.wav 1048576 0 1761955977 0
+D y 2025-11-01 s 44100 n 2 l 1:53.846
+D i 24
+F "Old Wooden Doors - Open and Close - with Creaking Sound Effect.mp3" 166532 0 1761955748 0
+D s 48000 n 2 l 0:15.267 i 87k

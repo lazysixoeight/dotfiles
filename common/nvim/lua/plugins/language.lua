@@ -186,6 +186,7 @@ return {
         pylsp = {},
         nil_ls = {},
         rust_analyzer = {},
+        clangd = {},
         lua_ls = {
           -- cmd = { ... },
           -- filetypes = { ... },
