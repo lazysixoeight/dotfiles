@@ -33,8 +33,6 @@ function fish_prompt
         end
     end
 
-
-
     set retc green
 
     set -q __fish_git_prompt_showupstream
@@ -121,6 +119,12 @@ function fish_prompt
     set -q VIRTUAL_ENV
     and _nim_prompt_wrapper $retc V (basename "$VIRTUAL_ENV")
 
+    # Nix devshell indicator
+    if set -q IN_NIX_SHELL
+      _nim_prompt_wrapper $retc N "$name"
+    end
+
+    
     # git
     set -l prompt_git (fish_git_prompt '%s')
     test -n "$prompt_git"

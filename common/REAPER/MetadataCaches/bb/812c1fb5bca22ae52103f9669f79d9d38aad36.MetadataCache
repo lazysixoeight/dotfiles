@@ -1,0 +1,211 @@
+C10018 "/home/lazy/Music/Samples/MusicRadar Modular Percussions/Modular Beats"
+F "Modular Beat 01 (Beat) 120BPM.wav" 1066648 0 1459257207 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D l 0:04.000 i 24
+F "Modular Beat 01 (Full) 120BPM.wav" 1066648 0 1459257208 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D l 0:04.000 i 24
+F "Modular Beat 01 (Perc) 120BPM.wav" 1066648 0 1459257210 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D l 0:04.000 i 24
+F "Modular Beat 01 (Stripped) 120BPM.wav" 1066652 0 1459257211 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D r 0:00.017 l 0:04.000 i 24
+F "Modular Beat 02 (Beat) 120BPM.wav" 1059900 0 1459257213 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 02 (Full) 120BPM.wav" 1059900 0 1459257215 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 02 (Perc) 120BPM.wav" 1059900 0 1459257216 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 02 (Stripped) 120BPM.wav" 1059900 0 1459257218 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 03 (Beat) 120BPM.wav" 1062468 0 1459257220 0
+D t Clock y 2016-02-10 s 44100 n 2
+D r 0:00.015 l 0:03.984 i 24
+F "Modular Beat 03 (Full) 120BPM.wav" 1062910 0 1459257223 0
+D t Clock y 2016-02-10 s 44100 n 2
+D r 0:00.017 l 0:03.982 i 24
+F "Modular Beat 03 (Perc) 120BPM.wav" 1059900 0 1459257225 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 03 (Stripped) 120BPM.wav" 1059900 0 1459257227 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 04 (Beat) 120BPM.wav" 1059900 0 1459257229 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 04 (Full) 120BPM.wav" 1059900 0 1459257230 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 04 (Perc) 120BPM.wav" 1059900 0 1459257232 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 04 (Stripped) 120BPM.wav" 1059900 0 1459257234 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 05 (Beat) 120BPM.wav" 1060568 0 1459257236 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.022 l 0:03.977 i 24
+F "Modular Beat 05 (Full) 120BPM.wav" 1062048 0 1459257239 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.017 l 0:03.982 i 24
+F "Modular Beat 05 (Perc) 120BPM.wav" 1059900 0 1459257241 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Beat 05 (Stripped) 120BPM.wav" 1062252 0 1459257243 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.016 l 0:03.983 i 24
+F "Modular Beat 06 (Beat) 100BPM.wav" 1274608 0 1459257244 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.017 l 0:04.782 i 24
+F "Modular Beat 06 (Full) 100BPM.wav" 1274014 0 1459257247 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.020 l 0:04.779 i 24
+F "Modular Beat 06 (Perc) 100BPM.wav" 1274284 0 1459257250 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.019 l 0:04.780 i 24
+F "Modular Beat 06 (Stripped) 100BPM.wav" 1273972 0 1459257251 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.020 l 0:04.779 i 24
+F "Modular Beat 07 (Beat) 100BPM.wav" 1272930 0 1459257253 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.020 l 0:04.779 i 24
+F "Modular Beat 07 (Full) 100BPM.wav" 1273968 0 1459257255 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.016 l 0:04.783 i 24
+F "Modular Beat 07 (Perc) 100BPM.wav" 1273050 0 1459257256 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.019 l 0:04.780 i 24
+F "Modular Beat 07 (Srtripped) 100BPM.wav" 1272696 0 1459257257 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.021 l 0:04.778 i 24
+F "Modular Beat 08 (Beat) 100BPM.wav" 1272852 0 1459257259 0
+D t Clock y 2016-02-12 s 44100 n 2
+D r 0:00.020 l 0:04.779 i 24
+F "Modular Beat 08 (Full) 100BPM.wav" 1272606 0 1459257260 0
+D t Clock y 2016-02-12 s 44100 n 2
+D r 0:00.021 l 0:04.778 i 24
+F "Modular Beat 08 (Perc) 100BPM.wav" 1278326 0 1459257261 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 08 (Stripped) 100BPM.wav" 1273536 0 1459257264 0
+D t Clock y 2016-02-12 s 44100 n 2
+D r 0:00.018 l 0:04.781 i 24
+F "Modular Beat 09 (Beat) 100BPM.wav" 1278326 0 1459257265 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 09 (Full) 100BPM.wav" 1278326 0 1459257268 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 09 (Perc) 100BPM.wav" 1278326 0 1459257270 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 09 (Stripped) 100BPM.wav" 1278326 0 1459257271 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 10 (Beat) 100BPM.wav" 1278326 0 1459257273 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 10 (Full) 100BPM.wav" 1278326 0 1459257274 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 10 (Perc) 100BPM.wav" 1278326 0 1459257275 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 10 (Stripped) 100BPM.wav" 1278326 0 1459257277 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:04.800 i 24
+F "Modular Beat 11 (Beat) 130BPM.wav" 985226 0 1459257232 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 11 (Full) 130BPM.wav" 985226 0 1459257233 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 11 (Perc) 130BPM.wav" 985226 0 1459257234 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 11 (Stripped) 130BPM.wav" 985226 0 1459257234 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 12 (Beat) 130BPM.wav" 978486 0 1459257235 0
+D t Clock s 44100 n 2 l 0:03.692
+D i 24
+F "Modular Beat 12 (Full) 130BPM.wav" 978486 0 1459257235 0
+D t Clock s 44100 n 2 l 0:03.692
+D i 24
+F "Modular Beat 12 (Perc) 130BPM.wav" 985226 0 1459257235 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 12 (Stripped) 130BPM.wav" 978486 0 1459257236 0
+D t Clock s 44100 n 2 l 0:03.692
+D i 24
+F "Modular Beat 13 (Beat) 130BPM.wav" 985226 0 1459257236 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 13 (Full) 130BPM.wav" 985226 0 1459257238 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 13 (Perc) 130BPM.wav" 985226 0 1459257239 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 13 (Stripped) 130BPM.wav" 985226 0 1459257239 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 14 (Beat) 130BPM.wav" 985226 0 1459257240 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 14 (Full) 130BPM.wav" 985226 0 1459257241 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 14 (Perc) 130BPM.wav" 985214 0 1459257242 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 14 (Stripped) 130BPM.wav" 985226 0 1459257242 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 15 (Beat) 130BPM.wav" 985226 0 1459257243 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 15 (Full) 130BPM.wav" 985226 0 1459257243 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 15 (Perc 01) 130BPM.wav" 985226 0 1459257244 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 15 (Perc 02) 130BPM.wav" 985226 0 1459257245 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Beat 15 (Stripped) 130BPM.wav" 985226 0 1459257246 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Perc Loop 01 120BPM.wav" 1066648 0 1459257278 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D l 0:04.000 i 24
+F "Modular Perc Loop 02 120BPM.wav" 1059904 0 1459257280 0
+D t Untitled1 s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Perc Loop 03 120BPM.wav" 1059904 0 1459257281 0
+D t Untitled1 s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Perc Loop 04 120BPM.wav" 1066656 0 1459257284 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D r 0:00.261 l 0:04.000 i 24
+F "Modular Perc Loop 05 120BPM.wav" 1066648 0 1459257286 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D l 0:04.000 i 24
+F "Modular Perc Loop 06 120BPM.wav" 1066648 0 1459257287 0
+D t Untitled1 y 2016-02-08 s 44100 n 2
+D l 0:04.000 i 24
+F "Modular Perc Loop 07 120BPM.wav" 1062096 0 1459257289 0
+D t Clock y 2016-02-11 s 44100 n 2
+D r 0:00.017 l 0:03.982 i 24
+F "Modular Perc Loop 08 120BPM.wav" 1059900 0 1459257291 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24
+F "Modular Perc Loop 09 120BPM.wav" 1059900 0 1459257292 0
+D t Clock s 44100 n 2 l 0:04.000
+D i 24

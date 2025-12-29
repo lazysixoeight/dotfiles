@@ -1,0 +1,99 @@
+C10018 "/home/lazy/Music/Samples/MZ Drum Kit 2019/Open Hat [100]"
+F "Open Hat [1400].wav" 490408 0 1532410260 0
+D t "OpenHat ( 1400 )" c "Recorded on 7/23/2018 in Edison." s 44100 n 2
+D l 0:01.389 i 32
+F "Open Hat [808one].wav" 917742 0 1348900576 0
+D c "Recorded on 30.09.2012 in Edison." s 44100 n 2 l 0:02.600
+D i 32
+F "Open Hat [808two].wav" 1599328 0 1396740480 0
+D y 2014-04-05 s 48000 n 2 l 0:05.549
+D i 24
+F "Open Hat [909].wav" 104728 0 1146595508 0
+D s 44100 n 2 l 0:00.593 i 16
+F "Open Hat [909High].wav" 123040 0 1146595508 0
+D s 44100 n 2 l 0:00.697 i 16
+F "Open Hat [Accent].wav" 307574 0 1515347035 0
+D s 44100 n 2 l 0:01.161 i 24
+F "Open Hat [Alien].wav" 196044 0 1538825696 0
+D s 44100 n 2 l 0:01.111 i 16
+F "Open Hat [Apple].wav" 211868 0 1545007278 0
+D s 44100 n 2 l 0:00.600 i 32
+F "Open Hat [Astral].wav" 187804 0 1386949890 0
+D s 44100 n 2 l 0:01.033 i 16
+F "Open Hat [Blondie].wav" 225144 0 1386949890 0
+D s 44100 n 2 l 0:01.235 i 16
+F "Open Hat [CallingMeHome].wav" 288584 0 1421074720 0
+D s 44100 n 2 l 0:01.064 i 24
+F "Open Hat [Capsize].wav" 365114 0 1386949890 0
+D s 44100 n 2 l 0:01.374 i 24
+F "Open Hat [ClearSky].wav" 157078 0 1386949890 0
+D y 2013-10-30 s 44100 n 2 r 1:00:00.000
+D l 0:00.585 i 24
+F "Open Hat [Coasting].wav" 320486 0 1504689501 0
+D t "Neon Drive" s 44100 n 2 r 0:12.946
+D l 0:01.196 i 24
+F "Open Hat [Concrete].wav" 137306 0 1512568193 0
+D y 2013-11-06 s 44100 n 2 r 1:00:00.003
+D l 0:00.510 i 24
+F "Open Hat [Crackles].wav" 56408 0 1386949890 0
+D s 44100 n 1 l 0:00.622 i 16
+F "Open Hat [Crispy].wav" 150368 0 1515347035 0
+D s 44100 n 2 l 0:00.568 i 24
+F "Open Hat [Cymb].wav" 67432 0 1116977888 0
+D s 44100 n 2 l 0:00.382 i 16
+F "Open Hat [Dark].wav" 196044 0 1538825485 0
+D s 44100 n 2 l 0:01.111 i 16
+F "Open Hat [DC].wav" 503990 0 1545007278 0
+D c "Recorded on 12/4/2012 in Edison." s 44100 n 2 l 0:01.427
+D i 32
+F "Open Hat [Diamonds].wav" 51524 0 1421074720 0
+D g Electronic/Dance c www.primeloops.com s 44100 n 2
+D l 0:00.181 i 24
+F "Open Hat [Ding].wav" 179698 0 1478073890 0
+D s 44100 n 2 l 0:01.017 i 16
+F "Open Hat [Disregard].wav" 454826 0 1545007278 0
+D s 44100 n 2 l 0:01.718 i 24
+F "Open Hat [Doctor].wav" 137294 0 1512568193 0
+D y 2013-11-06 s 44100 n 2 r 1:00:00.003
+D l 0:00.510 i 24
+F "Open Hat [Easy].wav" 806840 0 1515347035 0
+D s 44100 n 2 l 0:03.049 i 24
+F "Open Hat [Elixir].wav" 235020 0 1386949890 0
+D s 44100 n 2 l 0:00.859 i 24
+F "Open Hat [Enemies].wav" 126062 0 1503180446 0
+D c "Recorded on 8/19/2017 in Edison." s 44100 n 2 l 0:00.356
+D i 32
+F "Open Hat [Faces].wav" 146472 0 1545007278 0
+D t "NM - Faces OH" c "Recorded on 9/30/2017 in Edison." s 44100 n 1
+D l 0:00.828 i 32
+F "Open Hat [Favorite].wav" 196044 0 1538825646 0
+D s 44100 n 2 l 0:01.111 i 16
+F "Open Hat [Flashing].wav" 120758 0 1421074720 0
+D s 44100 n 2 l 0:00.440 i 24
+F "Open Hat [Flexx].wav" 738144 0 1532992826 0
+D t "OpenHat ( Flexx )" c "Recorded on 3/21/2018 in Edison." s 44100 n 2
+D l 0:02.091 i 32
+F "Open Hat [Funky].wav" 116246 0 1512568193 0
+D s 44100 n 2 l 0:00.433 i 24
+F "Open Hat [Garb].wav" 148640 0 1140082278 0
+D s 44100 n 2 l 0:00.842 i 16
+F "Open Hat [Golddust].wav" 75334 0 1386949890 0
+D s 44100 n 2 l 0:00.278 i 24
+F "Open Hat [Gripes].wav" 86676 0 1509535068 0
+D s 44100 n 2 l 0:00.321 i 24
+F "Open Hat [Gym].wav" 67422 0 1509535068 0
+D s 44100 n 2 l 0:00.249 i 24
+F "Open Hat [Heartbeat].wav" 72830 0 1503180560 0
+D c "Recorded on 8/19/2017 in Edison." s 44100 n 2 l 0:00.205
+D i 32
+F "Open Hat [HitALick].wav" 149366 0 1503187534 0
+D c "Recorded on 8/19/2017 in Edison." s 44100 n 2 l 0:00.422
+D i 32
+F "Open Hat [Icey].wav" 136502 0 1450820458 0
+D t "JOKAA AJOOK (Open Hat_3)" c "Modified by FL Studio 10" p 155.3729 s 44100
+D n 2 l 0:00.386 i 32
+F "Open Hat [JP].wav" 78270 0 1503187810 0
+D c "Recorded on 8/19/2017 in Edison." s 44100 n 2 l 0:00.221
+D i 32
+F "Open Hat [Kicky].wav" 72088 0 1140073774 0
+D s 44100 n 2 l 0:00.408 i 16

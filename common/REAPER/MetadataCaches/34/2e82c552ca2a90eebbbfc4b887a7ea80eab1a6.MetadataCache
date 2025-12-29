@@ -1,18 +1,19 @@
 C10018 "/home/lazy/Music/Samples/Renewed Amens/old amens"
-F "old amen (1).wav" 1687798 0 1455584136 0
-D s 44100 n 2 l 0:04.783 i 32
-F "old amen (2).wav" 1613014 0 1455584298 0
-D p 170.6267 s 44100 n 2 l 0:04.571
+F "old amen (1).wav" 1687798 0 315532800 0
+D c "Recorded on 26.11.2014 in Edison." s 44100 n 2 l 0:04.783
 D i 32
-F "old amen (3).wav" 1693652 0 1455584558 0
+F "old amen (2).wav" 1613014 0 315532800 0
+D c "Recorded on 26.11.2014 in Edison." p 170.6267 s 44100 n 2
+D l 0:04.571 i 32
+F "old amen (3).wav" 1693652 0 315532800 0
 D p 200 s 44100 n 2 l 0:04.800
 D i 32
-F "old amen (4).wav" 1693652 0 1455576666 0
+F "old amen (4).wav" 1693652 0 315532800 0
 D p 200 s 44100 n 2 l 0:04.800
 D i 32
-F "old amen (5).wav" 1693628 0 1455576668 0
+F "old amen (5).wav" 1693628 0 315532800 0
 D p 200 s 44100 n 2 l 0:04.800
 D i 32
-F "old amen (6).wav" 920556 0 1455576668 0
-D p 184.0008 s 44100 n 2 l 0:02.609
+F "old amen (6).wav" 920556 0 315532800 0
+D p 184.0008 s 44100 n 2 l 0:02.608
 D i 32

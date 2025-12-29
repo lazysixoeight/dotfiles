@@ -1,69 +1,100 @@
 C10018 /home/lazy/Music/Exported
-F "1 sample very painful.wav" 13883370 0 1750936262 0
+F "1 sample very painful.wav" 13883370 0 315532800 0
 D y 2025-06-26 s 44100 n 2 l 0:52.466
 D i 24
-F "actually not bad.wav" 7628916 0 1751185401 0
+F "actually not bad.wav" 7628916 0 315532800 0
 D y 2025-06-29 s 44100 n 2 l 0:28.829
 D i 24
-F "ambient woo.flac" 6060625 0 1748764269 0
+F "ambient woo.flac" 6060625 0 315532800 0
 D s 44100 n 2 l 1:50.312 i 16
-F "amen with melody.flac" 1473907 0 1749034565 0
+F "amen with melody.flac" 1473907 0 315532800 0
 D a lazy y 2025 p 200 s 48000
 D n 2 l 0:09.600 i 24
-F "amen_165 chop.flac" 1682054 0 1748916645 0
+F "amen_165 chop.flac" 1682054 0 315532800 0
 D t "Amen 165" a lazy y 2025 p 202.7027027027027
 D s 48000 n 2 l 0:12.580 i 24
-F "another drill n bass pattern.wav" 1545678 0 1747457722 0
+F "another drill n bass pattern.wav" 1545678 0 315532800 0
 D s 48000 n 2 l 0:08.050 i 16
-F "chopped mutton.flac" 1072145 0 1748926018 0
+F "Avril 14th.wav" 30124380 0 1761951700 0
+D y 2025-11-01 s 44100 n 2 l 1:53.846
+D i 24
+F bodish.wav 41140242 0 1759844407 0
+D y 2025-10-07 s 44100 n 2 l 2:35.478
+D i 24
+F chitchat.wav 20227890 0 1763714624 0
+D y 2025-11-21 s 44100 n 2 l 1:16.444
+D i 24
+F "chopped mutton.flac" 1072145 0 315532800 0
 D t "chopped mutton" a lazy y 2025 p 300
 D s 48000 n 2 l 0:05.600 i 24
-F "dilla swing.flac" 6403802 0 1748834343 0
-D s 44100 n 2 l 1:14.468 i 16
-F "drill n bass again.wav" 1641678 0 1747466945 0
-D s 48000 n 2 l 0:08.550 i 16
-F drukQs-imitation-attempt.wav 3465678 0 1747449195 0
-D s 48000 n 2 l 0:18.050 i 16
-F drum'n'bass.flac 781010 0 1748575057 0
-D s 44100 n 2 l 0:13.950 i 16
-F "fm sentimentalist.wav" 52147242 0 1754919387 0
-D y 2025-08-11 s 44100 n 2 l 3:17.076
+F "clean feet.wav" 6357570 0 1765330390 0
+D y 2025-12-10 s 44100 n 2 l 0:24.024
 D i 24
-F "generic ass beat.flac" 1024290 0 1748570746 0
+F "dilla swing.flac" 6403802 0 315532800 0
+D s 44100 n 2 l 1:14.468 i 16
+F "drill n bass again.wav" 1641678 0 315532800 0
+D s 48000 n 2 l 0:08.550 i 16
+F drukQs-imitation-attempt.wav 3465678 0 315532800 0
+D s 48000 n 2 l 0:18.050 i 16
+F drum_n_bass.flac 781010 0 315532800 0
+D s 44100 n 2 l 0:13.950 i 16
+F "generic ass beat.flac" 1024290 0 315532800 0
 D s 44100 n 2 l 0:13.116 i 16
-F "good enough.wav" 16538190 0 1750827717 0
+F "good enough.wav" 16538190 0 315532800 0
 D y 2025-06-25 s 44100 n 2 l 1:02.500
 D i 24
-F "my piano thing.wav" 10098876 0 1753513691 0
-D y 2025-07-26 s 48000 n 2 l 0:35.063
-D i 24
-F "not a bad drill'n'bass.wav" 7435302 0 1750482615 0
+F "not a bad drill_n_bass.wav" 7435302 0 315532800 0
 D y 2025-06-21 s 44100 n 2 l 0:28.097
 D i 24
-F "piano piece.flac" 1510551 0 1749091004 0
+F "piano piece.flac" 1510551 0 315532800 0
 D s 44100 n 2 l 0:27.758 i 16
-F "piano un10 it happened.wav" 31116624 0 1752985303 0
-D y 2025-07-20 s 48000 n 2 l 1:48.041
-D i 24
-F "printing machine.wav" 4137678 0 1747458022 0
+F "printing machine.wav" 4137678 0 315532800 0
 D s 48000 n 2 l 0:21.550 i 16
-F quick-drill-n-bass.wav 2121678 0 1747448393 0
+F quick-drill-n-bass.wav 2121678 0 315532800 0
 D s 48000 n 2 l 0:11.050 i 16
-F random-sample-mashed.wav 4905678 0 1747993476 0
+F random-sample-mashed.wav 4905678 0 315532800 0
 D s 48000 n 2 l 0:25.550 i 16
-F "reaper drill'n'bass.wav" 2401452 0 1750123031 0
+F "reaper drill_n_bass.wav" 2401452 0 315532800 0
 D y 2025-06-17 s 44100 n 2 l 0:09.073
 D i 24
-F Some_Drums.wav 7977678 0 1748160333 0
+F "Somber Bespoke.mp4" 122689452 0 1763820411 0
+D s 48000 n 2 l 2:38.866
+F Some_Drums.wav 7977678 0 315532800 0
 D s 48000 n 2 l 0:41.550 i 16
-F "tommib help buss breakcore.flac" 4015668 0 1749968735 0
-D s 44100 n 2 l 0:52.316 i 16
-F untitled1.wav 968736 0 1753525805 0
-D y 2025-07-26 s 44100 n 2 l 0:03.658
+F squarepuller.wav 18437334 0 1763277711 0
+D y 2025-11-16 s 44100 n 2 l 1:09.677
 D i 24
-F "useless experiment.flac" 1081025 0 1748872621 0
+F "techno rave.wav" 42160290 0 315532800 0
+D y 2025-09-12 s 44100 n 2 l 2:39.333
+D i 24
+F "tommib help buss breakcore.flac" 4015668 0 315532800 0
+D s 44100 n 2 l 0:52.316 i 16
+F traquil.wav 52555722 0 1760878281 0
+D y 2025-10-19 s 44100 n 2 l 3:18.620
+D i 24
+F "uhhhhh idm.wav" 20216130 0 315532800 0
+D y 2025-09-13 s 44100 n 2 l 1:16.400
+D i 24
+F unf02.wav 8022246 0 1761473487 0
+D y 2025-10-26 s 44100 n 2 l 0:30.315
+D i 24
+F "useless experiment.flac" 1081025 0 315532800 0
 D s 44100 n 2 l 0:25.048 i 16
-F "vord like drums.flac" 964906 0 1750055877 0
+F "vord like drums.flac" 964906 0 315532800 0
 D s 44100 n 2 l 0:12.035 i 16
-F "weird track.flac" 1775152 0 1749267326 0
+F "Watch This Larry.wav" 56095890 0 1765523649 0
+D y 2025-12-12 s 44100 n 2 l 3:32.000
+D i 24
+F "weird track.flac" 1775152 0 315532800 0
 D s 44100 n 2 l 0:23.803 i 16
+F "whip up.wav" 22034652 0 1763192059 0
+D y 2025-11-15 s 44100 n 2 l 1:23.272
+D i 24
+F whoowhee.wav 5513294 0 1759649445 0
+D s 48000 n 2 l 0:28.714 i 16
+F wlxrandr.wav 37661658 0 1764164508 0
+D y 2025-11-26 s 44100 n 2 l 2:22.331
+D i 24
+F x16_single_cycle.wav 40643250 0 1765361518 0
+D y 2025-12-10 s 44100 n 2 l 2:33.600
+D i 24

@@ -1,0 +1,96 @@
+C10018 "/home/lazy/Music/Samples/MZ Drum Kit 2019/Cymbal [100]"
+F "Crash [808Dist].wav" 784044 0 1538826041 0
+D s 44100 n 2 l 0:04.444 i 16
+F "Crash [8bit].wav" 1030630 0 1545007294 0
+D c "Recorded on 5/23/2014 in Edison." s 44100 n 2 l 0:02.920
+D i 32
+F "Crash [909Dirty].wav" 222424 0 1146595508 0
+D s 44100 n 2 l 0:01.260 i 16
+F "Crash [909High].wav" 127056 0 1146595508 0
+D s 44100 n 2 l 0:00.719 i 16
+F "Crash [Airy].wav" 369096 0 1396298042 0
+D c "Recorded on 7/17/2012 in Edison." s 44100 n 2 l 0:02.090
+D i 16
+F "Crash [Arcocen].wav" 1152836 0 1381930403 0
+D s 44100 n 2 l 0:04.305 i 24
+F "Crash [Arena].wav" 256374 0 1381930403 0
+D s 44100 n 2 l 0:01.421 i 16
+F "Crash [Asian].wav" 1618740 0 1116978230 0
+D s 44100 n 2 l 0:09.176 i 16
+F "Crash [BigSmoke].wav" 937438 0 1545007294 0
+D c "Recorded on 8/10/2010 in Edison." s 44100 n 2 l 0:02.656
+D i 32
+F "Crash [Bodies].wav" 268304 0 1509535068 0
+D s 44100 n 2 l 0:01.008 i 24
+F "Crash [Clean].wav" 890568 0 1545007294 0
+D s 44100 n 2 l 0:05.047 i 16
+F "Crash [Cluedo].wav" 865572 0 1512657011 0
+D s 44100 n 2 l 0:03.265 i 24
+F "Crash [CMAP].wav" 1190646 0 1545007294 0
+D c "Recorded on 9/30/2009 in Edison." s 44100 n 2 l 0:03.374
+D i 32
+F "Crash [Codeine].wav" 514340 0 1545007294 0
+D c "Modified by FL Studio 12" s 44100 n 1 l 0:02.914
+D i 32
+F "Crash [Constant].wav" 353302 0 1511277313 0
+D s 44100 n 2 l 0:01.329 i 24
+F "Crash [CrazyEyez].wav" 396602 0 1512657011 0
+D s 44100 n 2 l 0:01.492 i 24
+F "Crash [Decker].wav" 604458 0 1545007294 0
+D s 44100 n 2 l 0:03.426 i 16
+F "Crash [Delay].wav" 532574 0 1396298042 0
+D s 44100 n 2 l 0:03.017 i 16
+F "Crash [Different].wav" 313558 0 939947400 0
+D s 44100 n 2 l 0:01.776 i 16
+F "Crash [Dub1].wav" 99942 0 1381930403 0
+D s 44100 n 1 l 0:01.068 i 16
+F "Crash [Dub2].wav" 244886 0 1381930404 0
+D s 44100 n 1 l 0:02.712 i 16
+F "Crash [Eest].wav" 604390 0 1545007294 0
+D t "TM88 Nightmare V2" s 44100 n 2 l 0:01.712
+D i 32
+F "Crash [Flush].wav" 420974 0 939947400 0
+D s 44100 n 2 l 0:02.385 i 16
+F "Crash [Gazing].wav" 705644 0 1538108072 0
+D s 44100 n 2 l 0:02.000 i 32
+F "Crash [Ghost].wav" 589010 0 1386949888 0
+D s 44100 n 2 l 0:02.220 i 24
+F "Crash [Gong1].wav" 579246 0 1381930403 0
+D s 44100 n 1 l 0:04.274 i 24
+F "Crash [Gong2].wav" 584894 0 1381930403 0
+D s 44100 n 1 l 0:04.317 i 24
+F "Crash [Gong3].wav" 591308 0 1381930403 0
+D s 44100 n 1 l 0:04.365 i 24
+F "Crash [Gorgeous].wav" 784044 0 1538826450 0
+D s 44100 n 2 l 0:04.444 i 16
+F "Crash [Grammik].wav" 112022 0 1424274753 0
+D s 44100 n 2 l 0:00.626 i 16
+F "Crash [H20].wav" 508142 0 1424274753 0
+D s 44100 n 2 l 0:02.871 i 16
+F "Crash [Infected].wav" 255620 0 1386949888 0
+D s 44100 n 2 l 0:00.960 i 24
+F "Crash [Junk].wav" 970826 0 1545007294 0
+D s 44100 n 2 l 0:03.668 i 24
+F "Crash [Luger].wav" 605892 0 1396298042 0
+D c "Modified by FL Studio 10" s 44100 n 2 l 0:03.433
+D i 16
+F "Crash [Mashdown].wav" 405388 0 1511277313 0
+D s 44100 n 2 l 0:01.526 i 24
+F "Crash [Nahdude].wav" 438738 0 1545007294 0
+D y 2007-07-03 d Ex9 s 44100 n 2
+D l 0:02.480 i 16
+F "Crash [NewAge].wav" 416516 0 1238544836 0
+D c "Modified by FL Studio 8" s 44100 n 2 l 0:01.180
+D i 32
+F "Crash [OG].wav" 604844 0 1538826545 0
+D s 44100 n 2 l 0:03.428 i 16
+F "Crash [OldPhotos].wav" 812432 0 1386949888 0
+D s 44100 n 2 l 0:03.064 i 24
+F "Crash [Ouch].wav" 392044 0 1538826498 0
+D s 44100 n 2 l 0:02.222 i 16
+F "Crash [Panned].wav" 1001694 0 1422803524 0
+D s 44100 n 2 l 0:03.784 i 24
+F "Crash [Phased].wav" 996188 0 1545007294 0
+D s 44100 n 2 l 0:05.647 i 16
+F "Crash [Pizzagate].wav" 1129004 0 1545007294 0
+D s 44100 n 2 l 0:06.400 i 16

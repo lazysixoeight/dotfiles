@@ -28,6 +28,7 @@ vim.opt.breakindent = true
 vim.opt.undofile = true
 vim.opt.expandtab = true
 vim.opt.smartindent = true
+vim.o.background = "light"
 
 vim.keymap.set("n", "<A-Right>", ":bnext<CR>", { desc = "Next buffer" })
 vim.keymap.set("n", "<A-Left>", ":bprevious<CR>", { desc = "Previous buffer" })
@@ -38,8 +39,6 @@ require("lazy").setup({
     -- import your plugins
     { import = "plugins" },
   },
-
-  install = { colorscheme = { "monokai-pro-classic" } },
   -- automatically check for plugin updates
   checker = { enabled = true },
 })

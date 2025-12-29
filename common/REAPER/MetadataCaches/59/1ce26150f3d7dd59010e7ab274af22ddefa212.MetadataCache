@@ -1,8 +1,4 @@
 C10018 /home/lazy/Downloads
-F "Aphex Twin - Avril 14th.mid" 4195 0 1761950069 0
-D t "Grand Piano" p 78.0001 n 1 l 1:14.001
-F door.wav 1048576 0 1761955977 0
-D y 2025-11-01 s 44100 n 2 l 1:53.846
-D i 24
-F "Old Wooden Doors - Open and Close - with Creaking Sound Effect.mp3" 166532 0 1761955748 0
-D s 48000 n 2 l 0:15.267 i 87k
+F ataisatsana.mid 2853 0 1766111013 0
+D t "Aphex Twin - aisatsana" y 2014 p 51 k C
+D n 1 l 2:09.000

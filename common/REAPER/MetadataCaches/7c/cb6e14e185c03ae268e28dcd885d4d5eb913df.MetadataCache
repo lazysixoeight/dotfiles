@@ -1,0 +1,47 @@
+C10018 "/home/lazy/Music/Samples/random sfx"
+F 151025__bubaproducer__laser-shot-small-1.wav 297798 0 1765795584 0
+D t "LaserShotSmall 1" a "Laser Pack" y 2012-04-07 g "SciFi, Sound effects"
+D c "Credits www.bubaproducer.com" d "laser, shot, future, space" s 48000 n 2
+D l 0:00.991 i 24
+F 440661__seansecret__classic-laser-pew.wav 264778 0 1765850743 0
+D p 120 s 44100 n 2 l 0:01.500
+D i 16
+F 62872__benboncan__telephone-ring-uk-2.wav 5293722 0 1764158742 0
+D y 2008-11-10 s 44100 n 2 l 0:30.005
+D i 16
+F 755046__innzoom__voxflowers.wav 45923996 0 1765850743 0
+D s 44100 n 2 l 4:20.339 i 16
+F 788790__tormy__telephone-hang-off-dial-hung-up.wav 1486948 0 1766897046 0
+D t "SOUND FX" y 2025-02-14 s 48000 n 1
+D r 0:05.138 l 0:10.295 i 24
+F 835148__jackegerton__jackegerton_better_t_array_perfect_step_good_cat_rectified_mono_seti_hydrogen_song_16_44pt1.wav 352844 0 1764158408 0
+D s 44100 n 1 l 0:04.000 i 16
+F audio(1).wav 136484 0 1764156191 0
+D s 22050 n 1 l 0:03.093 i 16
+F audio.wav 326382 0 1764155001 0
+D s 22050 n 1 l 0:07.399 i 16
+F "cool acid thing.wav" 847410 0 1766490711 0
+D y 2025-12-23 s 44100 n 2 l 0:03.200
+D i 24
+F "cool acid thing2.wav" 424050 0 1766491290 0
+D y 2025-12-23 s 44100 n 2 l 0:01.600
+D i 24
+F "cool acid thing3.wav" 847410 0 1766546916 0
+D y 2025-12-24 s 44100 n 2 l 0:03.200
+D i 24
+F "fm exp processed again.wav" 3387570 0 1766319761 0
+D y 2025-12-21 s 44100 n 2 l 0:12.800
+D i 24
+F "fm exp.wav" 2540850 0 1766318917 0
+D y 2025-12-21 s 44100 n 2 l 0:09.600
+D i 24
+F "here comes a transition.wav" 85258 0 1766569234 0
+D s 22050 n 1 l 0:01.932 i 16
+F kick.wav 106530 0 1766492149 0
+D y 2025-12-23 s 44100 n 2 l 0:00.400
+D i 24
+F laserShoot.wav 10666 0 1764154698 0
+D s 44100 n 1 l 0:00.240 i 8
+F "white noise.wav" 424050 0 1766841940 0
+D y 2025-12-27 s 44100 n 2 l 0:01.600
+D i 24

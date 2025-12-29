@@ -1,185 +1,1150 @@
 C10018 "/home/lazy/Documents/REAPER Media/Projects/Media"
+F 003_Hihat_Closed_Decay1_Soft1_-_TR909TDM_Zenhiser-glued.wav 106576 0 1766920339 0
+D y 2025-12-28 s 44100 n 2 r 1:24.800
+D l 0:00.400 i 24
+F 003_Hihat_Closed_Decay1_Soft1_-_TR909TDM_Zenhiser.wav 112890 0 1760445687 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.422 i 24
+F 004_Clap_Hard4_-_TR909TDM_Zenhiser-glued-01.wav 199212 0 1765850329 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-16 g Drums
+D s 48000 n 2 r 0:18.290 l 0:00.677
+D i 24
+F 004_Clap_Hard4_-_TR909TDM_Zenhiser-glued-02.wav 67542 0 1766224369 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-20 g Drums
+D s 44100 n 2 r 0:48.000 l 0:00.240
+D i 24
+F 004_Clap_Hard4_-_TR909TDM_Zenhiser-glued.wav 282744 0 1765792888 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-15 g Drums
+D s 48000 n 2 r 0:00.483 l 0:00.967
+D i 24
 F 004_Clap_Hard4_-_TR909TDM_Zenhiser.wav 265278 0 1760445796 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
 D n 2 l 0:00.997 i 24
-F "004_Hihat_Closed_Decay1_Soft2_-_TR909TDM_Zenhiser reversed 001-glued.wav" 93948 0 1761140456 0
-D t "TR 909 - The Drum Machine" a Zenhiser y 2025-10-22 g Drums
-D s 44100 n 2 r 0:45.176 l 0:00.339
+F 004_Crash_Tune3B_-_TR909TDM_Zenhiser.wav 400742 0 1760261658 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.509 i 24
+F 005_Clap_Hard5_-_TR909TDM_Zenhiser-glued.wav 215712 0 1766892224 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-28 g Drums
+D s 44100 n 2 r 0:32.400 l 0:00.800
 D i 24
-F 004_Hihat_Closed_Decay1_Soft2_-_TR909TDM_Zenhiser.wav 90784 0 1760445688 0
+F 005_Clap_Hard5_-_TR909TDM_Zenhiser.wav 266808 0 1760445796 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
-D n 2 l 0:00.339 i 24
-F 005_Crash_Tune6A_-_TR909TDM_Zenhiser.wav 349484 0 1760261659 0
+D n 2 l 0:01.003 i 24
+F 006_Bassdrum_Acc1_Tune1_Att3_Dec1_-_TR909TDM_Zenhiser.wav 164512 0 1760262612 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
-D n 2 l 0:01.315 i 24
-F "01-MIDI render 001-glued-01.wav" 13827296 0 1759844132 0
-D y 2025-10-07 s 48000 n 2 r 1:42.260
-D l 0:48.000 i 24
-F "01-MIDI render 001-glued.wav" 13827296 0 1759843960 0
-D y 2025-10-07 s 48000 n 2 r 1:42.260
-D l 0:48.000 i 24
-F "01-MIDI render 001.wav" 28537780 0 1759843796 0
-D y 2025-10-07 s 48000 n 2 r 1:42.260
-D l 1:39.086 i 24
-F "01-MIDI render 002-glued reversed 001-glued reversed 001-glued.wav" 82286 0 1760522880 0
-D y 2025-10-15 s 48000 n 2 r 0:18.000
-D l 0:00.274 i 24
-F "01-MIDI render 002-glued reversed 001-glued.wav" 1528004 0 1760522796 0
-D y 2025-10-15 s 48000 n 2 r 0:18.352
-D l 0:05.294 i 24
-F "01-MIDI render 003-glued.wav" 2407472 0 1760535008 0
-D y 2025-10-15 s 48000 n 2 r 0:33.391
-D l 0:08.347 i 24
-F "01-MIDI render 004-glued.wav" 409886 0 1761353213 0
-D y 2025-10-25 s 48000 n 2 r 1:36.529
-D l 0:01.411 i 24
-F 01-MIDI-glued.wav 171404 0 1759413095 0
-D y 2025-10-02 s 48000 n 2 r 1:02.222
-D l 0:00.888 i 16
-F "013_Bassdrum_Acc1_Tune1_Att6_Dec6_-_TR909TDM_Zenhiser reversed 001-glued.wav" 97506 0 1761138609 0
-D t "TR 909 - The Drum Machine" a Zenhiser y 2025-10-22 g Drums
-D s 44100 n 2 r 0:30.705 l 0:00.352
+D n 2 l 0:00.617 i 24
+F 007_Rimshot_Soft3_-_TR909TDM_Zenhiser.wav 126594 0 1760258265 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.474 i 24
+F 008_Snare_Tune1_Ton1_Snap9_Soft_-_TR909TDM_Zenhiser.wav 270308 0 1760444507 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.016 i 24
+F 009_Snare_Tune1_Ton1_Snap11_Hard_-_TR909TDM_Zenhiser.wav 269520 0 1760444508 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.013 i 24
+F 010_Hihat_Closed_Decay6_Hard2_-_TR909TDM_Zenhiser.wav 153960 0 1760445691 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.577 i 24
+F 012_Hihat_Closed_Decay6_Soft2_-_TR909TDM_Zenhiser-glued.wav 56952 0 1766895574 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-28 g Drums
+D s 44100 n 2 r 0:51.199 l 0:00.200
 D i 24
 F 013_Bassdrum_Acc1_Tune1_Att6_Dec6_-_TR909TDM_Zenhiser.wav 169352 0 1760262622 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
 D n 2 l 0:00.635 i 24
+F 016_Hihat_Closed_Decay9_Soft2_-_TR909TDM_Zenhiser.wav 159192 0 1760445694 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.597 i 24
+F "02 Spinning Wheel-glued-02.wav" 442096 0 1765453468 0
+D t "Spinning Wheel" a "Dr. Lonnie Smith" b Drives y 2025-12-11
+D g Jazz s 44100 n 1 l 0:03.900
+D i 16 m 2 j "mime:image/jpeg offset:3554 length:94269"
+F "02 Spinning Wheel.flac" 49542234 0 1765450831 0
+D t "Spinning Wheel" a "Dr. Lonnie Smith" b Drives y 1970
+D g Jazz s 44100 n 2 l 7:35.906
+D i 16 m 2
 F "02-MIDI render 001.wav" 6299170 0 1759844145 0
 D y 2025-10-07 s 48000 n 2 r 2:09.391
 D l 0:21.869 i 24
-F "02-MIDI render 002-glued reversed 001-glued.wav" 1528004 0 1760255962 0
-D y 2025-10-12 s 48000 n 2 r 0:20.823
-D l 0:05.294 i 24
-F 027_Bassdrum_Acc1_Tune3_Att1_Dec3_-_TR909TDM_Zenhiser.wav 174904 0 1760444182 0
+F "02-MIDI render 003-glued reversed 001-glued.wav" 72602 0 1765873641 0
+D y 2025-12-16 s 48000 n 2 r 0:21.978
+D l 0:00.240 i 24
+F "02-MIDI-glued render 002-glued reversed 001-glued.wav" 49502 0 1765881372 0
+D y 2025-12-16 s 48000 n 2 r 0:24.786
+D l 0:00.160 i 24
+F "02-MIDI-glued render 003-glued-02.wav" 188108 0 1765882330 0
+D y 2025-12-16 s 48000 n 2 r 0:23.663
+D l 0:00.641 i 24
+F 020_Bassdrum_Acc1_Tune1_Att9_Dec11_-_TR909TDM_Zenhiser.wav 219908 0 1760262631 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
-D n 2 l 0:00.656 i 24
-F "06-MIDI render 001-glued reversed 001-glued.wav" 4811642 0 1759842600 0
-D y 2025-10-07 s 48000 n 2 r 0:56.347
-D l 0:16.695 i 24
-F "06-MIDI render 001-glued reversed 001.wav" 4811882 0 1759842507 0
-D y 2025-10-07 s 48000 n 2 l 0:16.695
+D n 2 l 0:00.826 i 24
+F "020_Hihat_Open_Decay1_Hard2_-_TR909TDM_Zenhiser reversed 001.wav" 58776 0 1766028878 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-18 g Drums
+D s 44100 n 2 r 1:01.862 l 0:00.206
 D i 24
-F "06-MIDI render 001-glued-01.wav" 4811642 0 1759842566 0
-D y 2025-10-07 s 48000 n 2 r 1:16.173
-D l 0:16.695 i 24
-F "06-MIDI render 001-glued.wav" 4811642 0 1759842493 0
-D y 2025-10-07 s 48000 n 2 r 0:48.000
-D l 0:16.695 i 24
-F "063_Bassdrum_Acc1_Tune6_Att6_Dec6_-_TR909TDM_Zenhiser reversed 001-glued.wav" 109956 0 1760836763 0
-D t "TR 909 - The Drum Machine" a Zenhiser y 2025-10-19 g Drums
-D s 44100 n 2 r 0:15.600 l 0:00.400
+F 020_Hihat_Open_Decay1_Hard2_-_TR909TDM_Zenhiser-glued-02.wav 442074 0 1766022319 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-18 g Drums
+D s 44100 n 2 r 1:06.206 l 0:01.655
 D i 24
-F "07-MIDI render 001-glued reversed 001-glued.wav" 1205384 0 1760616159 0
-D y 2025-10-16 s 48000 n 2 r 0:54.260
-D l 0:04.173 i 24
-F "07-MIDI render 001-glued.wav" 1205384 0 1760616140 0
-D y 2025-10-16 s 48000 n 2 r 0:50.086
-D l 0:04.173 i 24
-F "08-MIDI render 001-glued reversed 001-glued-01 reversed 001.wav" 379184 0 1759843463 0
-D y 2025-10-07 s 48000 n 2 l 0:01.304
+F 020_Hihat_Open_Decay1_Hard2_-_TR909TDM_Zenhiser.wav 206672 0 1760445697 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.776 i 24
+F 021_Hihat_Open_Decay1_Soft1_-_TR909TDM_Zenhiser-glued-01.wav 50724 0 1766568396 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-24 g Drums
+D s 44100 n 2 r 0:31.058 l 0:00.176
 D i 24
-F "08-MIDI render 001-glued reversed 001-glued-01.wav" 376390 0 1759843376 0
-D y 2025-10-07 s 48000 n 2 r 0:58.891
-D l 0:01.304 i 24
-F "08-MIDI render 001-glued reversed 001-glued.wav" 604340 0 1759843164 0
-D y 2025-10-07 s 48000 n 2 r 0:56.347
-D l 0:02.086 i 24
-F "08-MIDI render 001-glued.wav" 604340 0 1759843033 0
-D y 2025-10-07 s 48000 n 2 r 0:56.347
-D l 0:02.086 i 24
-F "08-MIDI render 001.wav" 889780 0 1759843019 0
-D y 2025-10-07 s 48000 n 2 r 0:56.347
-D l 0:03.086 i 24
-F "170_024_Mic2_DeskDist_SP reversed 001-glued.wav" 143784 0 1760266265 0
-D y 2025-10-12 s 44100 n 2 r 0:17.294
-D l 0:00.529 i 24
-F "170_024_Mic2_DeskDist_SP reversed 001.wav" 50706 0 1760266263 0
-D y 2014-09-2 s 44100 n 2 l 0:00.176
+F "022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued-01 render 001-glued reversed 001.wav" 26260 0 1766631468 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-25 g Drums
+D s 48000 n 2 l 0:00.076 i 24
+F "022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued-01 render 001-glued reversed 002.wav" 26260 0 1766631468 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-25 g Drums
+D s 48000 n 2 l 0:00.076 i 24
+F "022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued-01 render 001-glued reversed 003.wav" 26260 0 1766631468 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-25 g Drums
+D s 48000 n 2 l 0:00.076 i 24
+F "022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued-01 render 001-glued reversed 004.wav" 26260 0 1766631469 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-25 g Drums
+D s 48000 n 2 l 0:00.076 i 24
+F "022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued-01 render 001-glued-01.wav" 54942 0 1766629807 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-25 g Drums
+D s 48000 n 2 r 0:35.470 l 0:00.176
 D i 24
-F 170_024_Mic2_DeskDist_SP.wav 1552206 0 1760250829 0
-D y 2014-09-2 s 44100 n 2 l 0:05.647
+F "022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued-01 render 001-glued.wav" 3256824 0 1766629307 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-25 g Drums
+D s 48000 n 2 r 0:31.058 l 0:11.294
 D i 24
-F 170_041_Mic2_DeskDist_SP.wav 1519528 0 1760251784 0
-D g Rock/Blues p 170.000201 s 44100 n 2
-D l 0:05.647 i 24
-F amen-single-eq-q-t155-c-tr.wav 1789268 0 315507600 0
-D s 96000 n 2 l 0:03.096 i 24
-F "aphex_twinrichard_d_james_goodinteresting_interview_bits_compilation reversed 001-glued.wav" 127834 0 1761224701 0
-D y 2025-10-23 s 44100 n 2 r 1:16.235
-D l 0:00.705 i 16
-F "aphex_twinrichard_d_james_goodinteresting_interview_bits_compilation reversed 001.wav" 125286 0 1761224696 0
-D y 2025-10-23 s 44100 n 2 r 1:16.235
-D l 0:00.705 i 16
+F 022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued-01.wav 1498326 0 1766628980 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-25 g Drums
+D s 44100 n 2 r 0:31.058 l 0:05.647
+D i 24
+F 022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser-glued.wav 50724 0 1766567196 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-24 g Drums
+D s 44100 n 2 r 0:31.058 l 0:00.176
+D i 24
+F 022_Hihat_Open_Decay1_Soft2_-_TR909TDM_Zenhiser.wav 261800 0 1760444076 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.984 i 24
+F 023_Hihat_Open_Decay3_Hard1_-_TR909TDM_Zenhiser.wav 244294 0 1760444077 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.918 i 24
+F 024_Bassdrum_Acc1_Tune1_Att11_Dec9_-_TR909TDM_Zenhiser-glued.wav 207390 0 1765598944 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-13 g Drums
+D s 48000 n 2 r 0:25.599 l 0:00.706
+D i 24
+F 024_Hihat_Open_Decay3_Hard2_-_TR909TDM_Zenhiser.wav 247604 0 1760444078 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.931 i 24
+F 03-251126_1846-jsfx.wav 1412616 0 1764157560 0
+D y 2025-11-26 s 48000 n 2 l 0:03.676
+D i 32
+F 03-251224_1139-jsfx-glued-01.wav 409896 0 1766551293 0
+D y 2025-12-24 s 48000 n 2 r 0:25.411
+D l 0:01.058 i 32
+F 03-251224_1139-jsfx.wav 838560 0 1766551182 0
+D y 2025-12-24 s 48000 n 2 l 0:02.181
+D i 32
+F 03-251226_1655.wav 559698 0 1766742927 0
+D y 2025-12-26 s 48000 n 1 r 0:14.906
+D l 0:03.882 i 24
+F 03-251227_1515.wav 1023570 0 1766823318 0
+D y 2025-12-27 s 48000 n 1 r 0:25.600
+D l 0:07.103 i 24
+F "03-MIDI render 001-glued render 001-glued.wav" 3075296 0 1764144499 0
+D y 2025-11-26 s 48000 n 2 l 0:10.666
+D i 24
+F "03-MIDI render 001-glued render 001.wav" 3363536 0 1764144496 0
+D y 2025-11-26 s 48000 n 2 l 0:11.666
+D i 24
+F "03-MIDI render 001-glued.wav" 1027298 0 1764144056 0
+D y 2025-11-26 s 48000 n 2 l 0:03.555
+D i 24
+F "03-MIDI render 002-glued.wav" 1539296 0 1764158530 0
+D y 2025-11-26 s 48000 n 2 r 0:03.555
+D l 0:05.333 i 24
+F "03-MIDI render 002.wav" 1824736 0 1764157395 0
+D y 2025-11-26 s 48000 n 2 r 0:03.555
+D l 0:06.333 i 24
+F "03-MIDI-glued render 001-glued-01.wav" 1385696 0 1766926693 0
+D y 2025-12-28 s 48000 n 2 r 2:26.400
+D l 0:04.800 i 24
+F "03-MIDI-glued render 001-glued.wav" 1616096 0 1766925464 0
+D y 2025-12-28 s 48000 n 2 r 2:12.800
+D l 0:05.600 i 24
+F 032_Hihat_Open_Decay9_Hard2_-_TR909TDM_Zenhiser.wav 263836 0 1760445308 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.992 i 24
+F 033_h__Drum_Beat_121bpm_-_TR909TDM_Zenhiser.wav 2109398 0 1760443914 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:07.959 i 24
+F "036_Bassdrum_Acc1_Tune3_Att6_Dec1_-_TR909TDM_Zenhiser render 001-glued.wav" 256026 0 1765786672 0
+D t "TR 909 - The Drum Machine" a Zenhiser y 2025-12-15 g Drums
+D s 48000 n 2 l 0:00.874 i 24
+F 036_Bassdrum_Acc1_Tune3_Att6_Dec1_-_TR909TDM_Zenhiser.wav 232632 0 1760443334 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.874 i 24
+F 038_Bassdrum_Acc1_Tune3_Att6_Dec6_-_TR909TDM_Zenhiser.wav 169148 0 1760443336 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.635 i 24
+F "04-Kick8088-MIDI render 001-glued-04 reversed 001-glued.wav" 2563298 0 1764905234 0
+D y 2025-12-05 s 48000 n 2 r 2:51.111
+D l 0:08.888 i 24
+F "04-Kick8088-MIDI render 001-glued-04.wav" 3200740 0 1764905159 0
+D y 2025-12-05 s 48000 n 2 r 2:50.444
+D l 0:11.111 i 24
+F "04-Kick8088-MIDI render 001-glued-05.wav" 2112736 0 1764905340 0
+D y 2025-12-05 s 48000 n 2 r 2:50.444
+D l 0:07.333 i 24
+F "04-Kick8088-MIDI render 001-glued.wav" 67298 0 1764904259 0
+D y 2025-12-05 s 48000 n 2 r 2:48.666
+D l 0:00.222 i 24
+F "04-MIDI-glued render 001-glued.wav" 1027298 0 1764839675 0
+D y 2025-12-04 s 48000 n 2 r 2:56.444
+D l 0:03.555 i 24
+F "044 - Tommy Roe - Sweet Pea render 001-glued.wav" 553696 0 1765179425 0
+D y 2025-12-08 s 48000 n 2 l 0:01.920
+D i 24
+F "044 - Tommy Roe - Sweet Pea render 005-glued.wav" 553696 0 1765179520 0
+D y 2025-12-08 s 48000 n 2 r 0:01.920
+D l 0:01.920 i 24
+F "044 - Tommy Roe - Sweet Pea render 009-glued.wav" 553696 0 1765179669 0
+D y 2025-12-08 s 48000 n 2 l 0:01.920
+D i 24
+F "044 - Tommy Roe - Sweet Pea-glued-03.wav" 172670 0 1766651395 0
+D y 2025-12-25 s 44100 n 1 l 0:01.920
+D i 16 m 044
+F "044 - Tommy Roe - Sweet Pea-glued.wav" 361546 0 1765179735 0
+D y 2025-12-08 s 44100 n 2 r 0:03.120
+D l 0:02.030 i 16 m 044
+F "044 - Tommy Roe - Sweet Pea.flac" 13702393 0 1765178331 0
+D t "Sweet Pea" a "Tommy Roe" b "Billboard Usa - Top 100 Hits Of 1966" y 1966
+D g Sixties s 44100 n 2 l 2:09.106
+D i 16 m 044
+F "05-MIDI render 001-glued.wav" 14336734 0 1764905911 0
+D y 2025-12-05 s 48000 n 2 r 0:56.888
+D l 0:49.777 i 24
+F "05-MIDI render 004-glued.wav" 892606 0 1766213963 0
+D y 2025-12-20 s 48000 n 2 r 0:24.774
+D l 0:03.096 i 24
+F "06 Non-Stop Home-glued-01.wav" 353536 0 1763383739 0
+D y 2025-11-17 s 44100 n 2 l 0:02.000
+D i 16
+F "06 Non-Stop Home-glued.wav" 353536 0 1763252840 0
+D y 2025-11-16 s 44100 n 2 l 0:02.000
+D i 16
+F "06 We're So Happy-glued-01.wav" 605536 0 1765186564 0
+D y 2025-12-08 s 44100 n 2 l 0:03.428
+D i 16
+F "06 We're So Happy-glued-02.wav" 605536 0 1765186598 0
+D y 2025-12-08 s 44100 n 2 l 0:03.428
+D i 16
+F 07-251226_2143.wav 1911282 0 1766760212 0
+D y 2025-12-26 s 48000 n 2 r 0:02.981
+D l 0:06.634 i 24
+F 07-251226_2145-01.wav 1966578 0 1766760356 0
+D y 2025-12-26 s 48000 n 2 r 0:08.944
+D l 0:06.826 i 24
+F 07-251226_2145.wav 1782258 0 1766760334 0
+D y 2025-12-26 s 48000 n 2 r 0:08.944
+D l 0:06.186 i 24
+F 07-251228_0926.wav 1017426 0 1766888824 0
+D y 2025-12-28 s 48000 n 1 l 0:07.060
+D i 24
+F 08-251228_1000-01-glued.wav 464096 0 1766890942 0
+D y 2025-12-28 s 48000 n 1 r 0:06.400
+D l 0:03.200 i 24
+F 08-251228_1017.wav 716370 0 1766891873 0
+D y 2025-12-28 s 48000 n 1 l 0:04.970
+D i 24
+F 09-251227_1754-glued-01.wav 452126 0 1766841117 0
+D y 2025-12-27 s 48000 n 1 r 0:21.818
+D l 0:03.116 i 24
+F 09-251227_1754.wav 519762 0 1766832844 0
+D y 2025-12-27 s 48000 n 1 r 0:21.818
+D l 0:03.604 i 24
+F 09-251228_1008-02.wav 553554 0 1766891312 0
+D y 2025-12-28 s 48000 n 1 r 0:19.200
+D l 0:03.839 i 24
+F 09-251228_1010.wav 946770 0 1766891425 0
+D y 2025-12-28 s 48000 n 1 r 0:19.200
+D l 0:06.570 i 24
+F 09-251228_1102.wav 912978 0 1766894569 0
+D y 2025-12-28 s 48000 n 1 r 0:38.400
+D l 0:06.335 i 24
+F 10-251228_1110.wav 943698 0 1766895059 0
+D y 2025-12-28 s 48000 n 1 r 0:57.600
+D l 0:06.548 i 24
+F 10-251228_1112.wav 581202 0 1766895175 0
+D y 2025-12-28 s 48000 n 1 r 0:46.400
+D l 0:04.031 i 24
+F 11-251228_1147-01.wav 673362 0 1766897269 0
+D y 2025-12-28 s 48000 n 1 r 1:04.200
+D l 0:04.671 i 24
+F "11-MIDI render 002-glued-01.wav" 449234 0 1766214446 0
+D y 2025-12-20 s 48000 n 2 r 0:24.710
+D l 0:01.548 i 24
+F "11-MIDI render 002-glued-02.wav" 449240 0 1766214495 0
+D y 2025-12-20 s 48000 n 2 r 0:26.322
+D l 0:01.548 i 24
+F "11-MIDI render 002.wav" 734674 0 1766214434 0
+D y 2025-12-20 s 48000 n 2 r 0:24.774
+D l 0:02.548 i 24
+F "14 Why Why.flac" 31507996 0 1766052200 0
+D t "Why? Why?" a "Bogdan Raczynski" b "Samurai Math Beats" y 1999
+D g "IDM, Drill n Bass" s 48000 n 2 l 4:54.133
+D i 16 m 14
+F 14-251228_1646.wav 332370 0 1766915192 0
+D y 2025-12-28 s 48000 n 1 r 1:18.400
+D l 0:02.303 i 24
+F 15-251228_1808-01-glued.wav 867296 0 1766920642 0
+D y 2025-12-28 s 48000 n 1 r 1:18.400
+D l 0:06.000 i 24
+F 15-251228_1808-01.wav 952914 0 1766920112 0
+D y 2025-12-28 s 48000 n 1 r 1:18.400
+D l 0:06.612 i 24
+F 15-251228_1818.wav 1020498 0 1766920690 0
+D y 2025-12-28 s 48000 n 1 r 1:31.200
+D l 0:07.082 i 24
+F 151025__bubaproducer__laser-shot-small-1-glued.wav 332024 0 1766021786 0
+D t "LaserShotSmall 1" a "Laser Pack" y 2025-12-18 g "SciFi, Sound effects"
+D c "Credits www.bubaproducer.com" d "laser, shot, future, space" s 48000 n 2
+D r 1:02.068 l 0:01.137 i 24
+F 151025__bubaproducer__laser-shot-small-1.wav 297798 0 1765795584 0
+D t "LaserShotSmall 1" a "Laser Pack" y 2012-04-07 g "SciFi, Sound effects"
+D c "Credits www.bubaproducer.com" d "laser, shot, future, space" s 48000 n 2
+D l 0:00.991 i 24
+F 18-251229_0749-glued.wav 657402 0 1766969455 0
+D y 2025-12-29 s 48000 n 1 r 2:03.200
+D l 0:04.542 i 24
+F 18-251229_0749.wav 962130 0 1766969376 0
+D y 2025-12-29 s 48000 n 1 r 2:03.200
+D l 0:06.676 i 24
+F 18-251229_0756.wav 1057362 0 1766969826 0
+D y 2025-12-29 s 48000 n 1 r 1:18.400
+D l 0:07.338 i 24
+F 19-251229_0758.wav 329298 0 1766969910 0
+D y 2025-12-29 s 48000 n 1 r 1:22.599
+D l 0:02.282 i 24
+F 440661__seansecret__classic-laser-pew.wav 264778 0 1765850743 0
+D p 120 s 44100 n 2 l 0:01.500
+D i 16
+F 62872__benboncan__telephone-ring-uk-2.wav 5293722 0 1764158742 0
+D y 2008-11-10 s 44100 n 2 l 0:30.005
+D i 16
+F 755046__innzoom__voxflowers.wav 45923996 0 1765801098 0
+D s 44100 n 2 l 4:20.339 i 16
+F 788790__tormy__telephone-hang-off-dial-hung-up.wav 1486948 0 1766897046 0
+D t "SOUND FX" y 2025-02-14 s 48000 n 1
+D r 0:05.138 l 0:10.295 i 24
+F 835148__jackegerton__jackegerton_better_t_array_perfect_step_good_cat_rectified_mono_seti_hydrogen_song_16_44pt1.wav 352844 0 1764158408 0
+D s 44100 n 1 l 0:04.000 i 16
+F "A Totally Normal Cartoon Fight but Jax is Jaxy [CtcfyH60itE]-glued render 002-glued.wav" 2442824 0 1766625397 0
+D y 2025-12-25 s 48000 n 2 r 0:31.764
+D l 0:08.470 i 24
+F "A Totally Normal Cartoon Fight but Jax is Jaxy [CtcfyH60itE].opus" 5167344 0 1766568893 0
+D s 48000 n 2 l 5:42.673 i 121k
+F "amen 2 - hat 2 render 001-glued render 001-glued-02.wav" 32064 0 1766469566 0
+D y 2025-12-23 s 48000 n 1 r 0:04.459
+D l 0:00.199 i 24
+F "amen 2 - hat 2 render 001-glued render 001-glued-03.wav" 17250 0 1766472330 0
+D y 2025-12-23 s 48000 n 1 r 0:02.840
+D l 0:00.096 i 24
+F "amen 2 - hat 2 render 001-glued render 001-glued-11.wav" 17250 0 1766472578 0
+D y 2025-12-23 s 48000 n 1 r 0:02.837
+D l 0:00.096 i 24
+F "amen 2 - hat 2 render 001-glued render 001-glued-12.wav" 46222 0 1766472743 0
+D y 2025-12-23 s 48000 n 1 r 0:04.459
+D l 0:00.297 i 24
+F "amen 2 - hat 2 render 001-glued render 001-glued-15.wav" 32284 0 1766482763 0
+D y 2025-12-23 s 48000 n 1 r 0:10.135
+D l 0:00.201 i 24
+F "amen 3-2 - hat 4.wav" 24510 0 315532800 0
+D s 44100 n 2 l 0:00.068 i 32
+F "amen[140] reversed 001.wav" 60230 0 1765981949 0
+D y 2025-11-17 s 44100 n 2 l 0:00.214
+D i 24
+F "amen[140] reversed 002.wav" 31884 0 1766020588 0
+D y 2025-11-17 s 44100 n 1 l 0:00.214
+D i 24
+F "amen[140] reversed 003.wav" 31884 0 1766105834 0
+D y 2025-11-17 s 44100 n 1 l 0:00.214
+D i 24
+F amen[140]-glued-03.wav 112784 0 1765981107 0
+D y 2025-12-17 s 44100 n 2 r 0:36.827
+D l 0:00.413 i 24
+F amen[140]-glued-05.wav 58040 0 1765982026 0
+D y 2025-12-17 s 44100 n 2 r 0:49.862
+D l 0:00.206 i 24
+F amen[140]-glued-07.wav 58040 0 1765983568 0
+D y 2025-12-17 s 44100 n 2 r 0:56.275
+D l 0:00.206 i 24
+F amen[140]-glued-08.wav 58040 0 1765983572 0
+D y 2025-12-17 s 44100 n 2 r 0:55.655
+D l 0:00.206 i 24
+F amen[140]-glued-11.wav 672200 0 1766225571 0
+D y 2025-12-20 s 48000 n 1 r 0:49.548
+D l 0:04.645 i 24
+F amen[140]-glued-12.wav 31166 0 1766225747 0
+D y 2025-12-20 s 48000 n 1 r 0:54.000
+D l 0:00.193 i 24
+F amen[140]-glued-15.wav 895166 0 1766227141 0
+D y 2025-12-20 s 48000 n 1 r 1:01.935
+D l 0:06.193 i 24
+F amen[140]-glued.wav 45746 0 1765873718 0
+D y 2025-12-16 s 44100 n 2 r 0:20.534
+D l 0:00.160 i 24
+F amen[140].wav 1361490 0 1763385214 0
+D y 2025-11-17 s 44100 n 2 l 0:05.142
+D i 24
+F "apache1[120] reversed 001.wav" 69680 0 1763286111 0
+D y 2025-11-16 s 44100 n 2 l 0:00.249
+D i 24
+F "apache1[120] reversed 002.wav" 69680 0 1763286165 0
+D y 2025-11-16 s 44100 n 2 l 0:00.249
+D i 24
+F "apache1[120] reversed 003.wav" 69686 0 1763286214 0
+D y 2025-11-16 s 44100 n 2 l 0:00.250
+D i 24
+F "apache1[120] reversed 004.wav" 36608 0 1763286509 0
+D y 2025-11-16 s 44100 n 2 l 0:00.124
+D i 24
+F "apache1[120] reversed 006.wav" 69686 0 1764159275 0
+D y 2025-11-16 s 44100 n 1 l 0:00.500
+D i 24
+F "apache1[120] reversed 007.wav" 36612 0 1764162451 0
+D y 2025-11-16 s 44100 n 1 l 0:00.250
+D i 24
+F "apache1[120] reversed 008.wav" 36612 0 1764163443 0
+D y 2025-11-16 s 44100 n 1 l 0:00.250
+D i 24
+F "apache1[120] reversed 009-glued.wav" 14970 0 1766567991 0
+D y 2025-12-24 s 44100 n 1 r 0:31.676
+D l 0:00.088 i 24
+F "apache1[120] reversed 010.wav" 36608 0 1766569601 0
+D y 2025-11-16 s 44100 n 1 l 0:00.249
+D i 24
+F apache1[120]-glued-02.wav 96952 0 1763286222 0
+D y 2025-11-16 s 44100 n 2 r 0:17.181
+D l 0:00.363 i 24
+F apache1[120]-glued-03.wav 99512 0 1763287348 0
+D y 2025-11-16 s 44100 n 2 r 0:21.454
+D l 0:00.363 i 24
+F apache1[120]-glued-04.wav 14970 0 1766569660 0
+D y 2025-12-24 s 44100 n 1 r 0:36.441
+D l 0:00.088 i 24
+F apache1[120]-glued-05.wav 49992 0 1766569694 0
+D y 2025-12-24 s 44100 n 1 r 0:31.058
+D l 0:00.352 i 24
+F apache1[120]-glued-06.wav 27948 0 1766742536 0
+D y 2025-12-26 s 44100 n 1 r 0:20.403
+D l 0:00.186 i 24
+F apache1[120]-glued.wav 51404 0 1763285507 0
+D y 2025-11-16 s 44100 n 2 r 0:10.000
+D l 0:00.181 i 24
+F apache1[120].wav 1059090 0 1763262534 0
+D y 2025-11-16 s 44100 n 2 l 0:04.000
+D i 24
 F aphex_twinrichard_d_james_goodinteresting_interview_bits_compilation.wav 22540366 0 1759560798 0
 D s 44100 n 2 l 2:07.779 i 16
-F "Big Boss Man - Kelvin Stardust.wav" 1318600 0 1574758660 0
-D s 44100 n 2 l 0:07.474 i 16
-F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno render 001.wav" 1640458 0 1761352139 0
-D y 2025-10-25 s 48000 n 2 r 1:33.176
-D l 0:05.693 i 24
-F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno render 002-glued.wav" 1643018 0 1761352145 0
-D y 2025-10-25 s 48000 n 2 r 1:33.176
-D l 0:05.693 i 24
-F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno render 002.wav" 1928458 0 1761352143 0
-D y 2025-10-25 s 48000 n 2 r 1:33.176
-D l 0:06.693 i 24
-F "Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack - 01 Jungle Techno.wav" 1004372 0 1759615659 0
-D s 44100 n 2 l 0:05.693 i 16
-F "Clap 808 1 V2.wav" 457746 0 315507600 0
-D s 44100 n 1 l 0:03.356 i 24
-F "Clave 2.wav" 16820 0 315507600 0
-D s 44100 n 2 l 0:00.095 i 16
-F click.wav 572 0 1761227021 0
-D s 44100 n 1 l 0:00.011 i 8
-F door.wav 30124380 0 1761955980 0
-D y 2025-11-01 s 44100 n 2 l 1:53.846
+F audio(1).wav 136484 0 1764156191 0
+D s 22050 n 1 l 0:03.093 i 16
+F audio-glued.wav 10536 0 1764155143 0
+D y 2025-11-26 s 22050 n 1 r 0:10.666
+D l 0:00.222 i 16
+F audio.wav 326382 0 1764155001 0
+D s 22050 n 1 l 0:07.399 i 16
+F "Big Sister Comforts You When You're Down 【ASMR】【Positive Affirmations, Kisses, Head Pats】 [VaxlzbSj_Ho]-glued-01 render 001-glued.wav" 714824 0 1766552971 0
+D y 2025-12-24 s 48000 n 2 r 0:28.588
+D l 0:02.470 i 24
+F "breakdown - we the people [chan 1] 002.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 1] 003.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.115
+D i 16
+F "breakdown - we the people [chan 1] 004.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.115
+D i 16
+F "breakdown - we the people [chan 1] 005.wav" 40220 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.447
+D i 16
+F "breakdown - we the people [chan 1] 006.wav" 12138 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.129
+D i 16
+F "breakdown - we the people [chan 1] 007.wav" 9562 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.100
+D i 16
+F "breakdown - we the people [chan 1] 008.wav" 16644 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.180
+D i 16
+F "breakdown - we the people [chan 1] 009.wav" 5130 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.049
+D i 16
+F "breakdown - we the people [chan 1] 010.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 1] 011.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 1] 012.wav" 41444 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.461
+D i 16
+F "breakdown - we the people [chan 1] 013.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.115
+D i 16
+F "breakdown - we the people [chan 1] 014.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 r 0:02.277
+D l 0:00.115 i 16
+F "breakdown - we the people [chan 1] 015.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 1] 016.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 1] 017.wav" 26180 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.288
+D i 16
+F "breakdown - we the people [chan 1] 018.wav" 5826 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.057
+D i 16
+F "breakdown - we the people [chan 1] 019.wav" 10034 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.105
+D i 16
+F "breakdown - we the people [chan 1].wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 2] 002.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 2] 003.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.115
+D i 16
+F "breakdown - we the people [chan 2] 004.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.115
+D i 16
+F "breakdown - we the people [chan 2] 005.wav" 40220 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.447
+D i 16
+F "breakdown - we the people [chan 2] 006.wav" 12138 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.129
+D i 16
+F "breakdown - we the people [chan 2] 007.wav" 9562 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.100
+D i 16
+F "breakdown - we the people [chan 2] 008.wav" 16644 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.180
+D i 16
+F "breakdown - we the people [chan 2] 009.wav" 5130 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.049
+D i 16
+F "breakdown - we the people [chan 2] 010.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 2] 011.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 2] 012.wav" 41444 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.461
+D i 16
+F "breakdown - we the people [chan 2] 013.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.115
+D i 16
+F "breakdown - we the people [chan 2] 014.wav" 10914 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 r 0:02.277
+D l 0:00.115 i 16
+F "breakdown - we the people [chan 2] 015.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 2] 016.wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F "breakdown - we the people [chan 2] 017.wav" 26180 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.288
+D i 16
+F "breakdown - we the people [chan 2] 018.wav" 5826 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.057
+D i 16
+F "breakdown - we the people [chan 2] 019.wav" 10034 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.105
+D i 16
+F "breakdown - we the people [chan 2].wav" 21090 0 1763042616 0
+D y 2025-11-13 s 44100 n 1 l 0:00.230
+D i 16
+F breakdown[130].wav 977676 0 1763181185 0
+D y 2025-11-15 s 44100 n 2 l 0:03.692
 D i 24
-F "Drumloop 33.wav" 369254 0 1570981748 0
-D t "Nummer 3" s 44100 n 2 l 0:02.092
+F "Bulldozer Amen 2 - 2A reversed 001.wav" 65852 0 1764568117 0
+D t "1A - 2A" y 2025-12-01 k 2A s 44100
+D n 2 r 0:31.636 l 0:00.353 i 16
+F "Bulldozer Amen 2 - 2A reversed 002.wav" 65852 0 1764568648 0
+D t "1A - 2A" y 2025-12-01 k 2A s 44100
+D n 2 r 0:36.727 l 0:00.353 i 16
+F "Bulldozer Amen 2 - 2A reversed 003.wav" 34696 0 1764569062 0
+D t "1A - 2A" y 2025-12-01 k 2A s 44100
+D n 2 r 0:34.727 l 0:00.176 i 16
+F "Bulldozer Amen 2 - 2A-glued-01.wav" 67768 0 1764568232 0
+D t "1A - 2A" y 2025-12-01 k 2A s 44100
+D n 2 r 0:34.909 l 0:00.363 i 16
+F "Bulldozer Amen 2 - 2A.wav" 499688 0 1587134963 0
+D t "1A - 2A" k 2A s 44100 n 2
+D l 0:02.826 i 16
+F "Cat Meowing - Sound Effect - Download [rdYE3Wm6jX8].opus" 397689 0 1766923470 0
+D s 48000 n 2 l 0:26.613 i 120k
+F "CH80818-glued render 001-glued.wav" 1847804 0 1765599119 0
+D y 2025-12-13 s 48000 n 2 l 0:06.404
+D i 24
+F CH80818.wav 35392 0 1760832948 0
+D y 2013-09-21 s 44100 n 1 r 1:00.064
+D l 0:00.251 i 24
+F CH80819.wav 51222 0 1760832944 0
+D y 2013-09-21 s 44100 n 1 r 0:58.349
+D l 0:00.369 i 24
+F CH80822-glued-01.wav 109136 0 1766889729 0
+D y 2025-12-28 s 44100 n 1 r 0:06.400
+D l 0:00.800 i 24
+F CH80822-glued-02.wav 185956 0 1766922424 0
+D y 2025-12-28 s 44100 n 1 r 1:31.599
+D l 0:01.400 i 24
+F CH80822.wav 36112 0 1760832947 0
+D y 2013-09-21 s 44100 n 1 r 0:58.092
+D l 0:00.257 i 24
+F CH8086.wav 59860 0 1760832943 0
+D y 2013-09-21 s 44100 n 1 r 1:01.922
+D l 0:00.433 i 24
+F CH8087-glued.wav 2477480 0 1766841213 0
+D y 2025-12-27 s 44100 n 2 r 0:12.467
+D l 0:09.350 i 24
+F chinese-chicken[115].wav 552900 0 1766650805 0
+D y 2025-12-25 s 44100 n 2 l 0:02.086
+D i 24
+F Clap80810.wav 15426 0 1760832957 0
+D y 2013-09-21 s 44100 n 1 r 0:04.210
+D l 0:00.103 i 24
+F "Clap80813-glued render 001-glued reversed 001.wav" 449468 0 1765791265 0
+D y 2025-12-15 s 48000 n 2 l 0:01.548
+D i 24
+F "Clap80813-glued render 001-glued.wav" 560714 0 1765786419 0
+D y 2025-12-15 s 48000 n 2 r 0:02.709
+D l 0:01.935 i 24
+F Clap80813-glued.wav 28902 0 1765786348 0
+D y 2025-12-15 s 44100 n 1 r 0:00.774
+D l 0:00.193 i 24
+F Clap80816.wav 121804 0 1760832931 0
+D y 2013-09-21 s 44100 n 1 r 0:05.967
+D l 0:00.894 i 24
+F Clap80831.wav 82176 0 1760832957 0
+D y 2013-09-21 s 44100 n 1 r 0:16.359
+D l 0:00.599 i 24
+F Clave8085.wav 21498 0 1760832957 0
+D y 2013-09-21 s 44100 n 1 r 0:01.336
+D l 0:00.149 i 24
+F "cold-sweat[115,mono] reversed 001.wav" 72560 0 1766550866 0
+D y 2025-12-20 s 44100 n 1 l 0:00.521
+D i 24
+F "cold-sweat[115,mono] reversed 002.wav" 72560 0 1766627900 0
+D y 2025-12-20 s 44100 n 1 l 0:00.521
+D i 24
+F cold-sweat[115,mono]-glued-01.wav 26642 0 1766568605 0
+D y 2025-12-24 s 44100 n 1 r 0:30.882
+D l 0:00.176 i 24
+F cold-sweat[115,mono]-glued-02.wav 49992 0 1766627956 0
+D y 2025-12-25 s 44100 n 1 r 0:28.941
+D l 0:00.352 i 24
+F cold-sweat[115,mono]-glued-03.wav 29756 0 1766919439 0
+D y 2025-12-28 s 44100 n 1 r 1:27.400
+D l 0:00.200 i 24
+F cold-sweat[115,mono]-glued-04.wav 29756 0 1766923705 0
+D y 2025-12-28 s 44100 n 1 r 2:15.400
+D l 0:00.200 i 24
+F cold-sweat[115,mono]-glued.wav 49992 0 1766546097 0
+D y 2025-12-24 s 44100 n 1 r 0:18.705
+D l 0:00.352 i 24
+F cold-sweat[115,mono].wav 552900 0 1766237156 0
+D y 2025-12-20 s 44100 n 1 l 0:04.173
+D i 24
+F "cool acid thing3.wav" 847410 0 1766546916 0
+D y 2025-12-24 s 44100 n 2 l 0:03.200
+D i 24
+F Cowbell8089.wav 43308 0 1760832923 0
+D y 2013-09-21 s 44100 n 1 r 0:04.735
+D l 0:00.310 i 24
+F cw_amen02_165.wav 513204 0 1200756598 0
+D s 44100 n 2 l 0:02.909 i 16
+F "df-1.34-08 Primitive animal FX - dog - scream.wav" 173436 0 1734031599 0
+D s 44100 n 1 l 0:01.965 i 16
+F "df-1.80-04 Misc. house FX - Howling cats.wav" 192244 0 1734031600 0
+D s 44100 n 1 l 0:02.179 i 16
+F "df-2.62-04 Primitive animal - Big cat snarl FX.wav" 198924 0 1734031602 0
+D s 44100 n 1 l 0:02.254 i 16
+F "df-3.50-07 Primitive animals - rooster.wav" 206834 0 1734031604 0
+D s 44100 n 1 l 0:02.344 i 16
+F "dirty-feet[105] reversed 001.wav" 41336 0 1765326285 0
+D y 2025-11-15 s 44100 n 2 l 0:00.142
+D i 24
+F "dirty-feet[105] reversed 002.wav" 22436 0 1765326380 0
+D y 2025-11-15 s 44100 n 2 l 0:00.071
+D i 24
+F "dirty-feet[105] reversed 003.wav" 22436 0 1765326383 0
+D y 2025-11-15 s 44100 n 2 l 0:00.071
+D i 24
+F "dirty-feet[105] reversed 004.wav" 41330 0 1765327026 0
+D y 2025-11-15 s 44100 n 2 l 0:00.142
+D i 24
+F "dirty-feet[105] reversed 005.wav" 41330 0 1765327077 0
+D y 2025-11-15 s 44100 n 2 l 0:00.142
+D i 24
+F "dirty-feet[105] reversed 006.wav" 41330 0 1765329006 0
+D y 2025-11-15 s 44100 n 2 l 0:00.142
+D i 24
+F "dirty-feet[105] reversed 007.wav" 41330 0 1765329278 0
+D y 2025-11-15 s 44100 n 2 l 0:00.142
+D i 24
+F "dirty-feet[105] reversed 008.wav" 41336 0 1765785713 0
+D y 2025-11-15 s 44100 n 2 l 0:00.142
+D i 24
+F dirty-feet[105]-glued-01.wav 33824 0 1765326288 0
+D y 2025-12-10 s 44100 n 2 r 0:01.730
+D l 0:00.115 i 24
+F dirty-feet[105]-glued-02.wav 64358 0 1765326301 0
+D y 2025-12-10 s 44100 n 2 r 0:01.038
+D l 0:00.230 i 24
+F dirty-feet[105]-glued-03.wav 94886 0 1765326452 0
+D y 2025-12-10 s 44100 n 2 r 0:02.423
+D l 0:00.346 i 24
+F dirty-feet[105]-glued-04.wav 278072 0 1765326587 0
+D y 2025-12-10 s 44100 n 2 r 0:02.884
+D l 0:01.038 i 24
+F dirty-feet[105]-glued-06.wav 186482 0 1765326770 0
+D y 2025-12-10 s 44100 n 2 r 0:07.038
+D l 0:00.692 i 24
+F dirty-feet[105]-glued-07.wav 102986 0 1765326993 0
+D y 2025-12-10 s 48000 n 2 r 0:08.884
+D l 0:00.346 i 24
+F dirty-feet[105]-glued-09.wav 102986 0 1765327440 0
+D y 2025-12-10 s 48000 n 2 r 0:11.653
+D l 0:00.346 i 24
+F dirty-feet[105]-glued-10.wav 125420 0 1765327504 0
+D y 2025-12-10 s 44100 n 2 r 0:10.961
+D l 0:00.461 i 24
+F dirty-feet[105]-glued-11.wav 69758 0 1765328078 0
+D y 2025-12-10 s 48000 n 2 r 0:14.076
+D l 0:00.230 i 24
+F dirty-feet[105]-glued-12.wav 125420 0 1765328104 0
+D y 2025-12-10 s 44100 n 2 r 0:14.307
+D l 0:00.461 i 24
+F dirty-feet[105]-glued-13.wav 136220 0 1765328757 0
+D y 2025-12-10 s 48000 n 2 r 0:15.000
+D l 0:00.461 i 24
+F dirty-feet[105]-glued-14.wav 202682 0 1765328905 0
+D y 2025-12-10 s 48000 n 2 r 0:15.000
+D l 0:00.692 i 24
+F dirty-feet[105]-glued-15.wav 125420 0 1765329060 0
+D y 2025-12-10 s 44100 n 2 r 0:18.000
+D l 0:00.461 i 24
+F dirty-feet[105]-glued-16.wav 69758 0 1765329376 0
+D y 2025-12-10 s 48000 n 2 r 0:18.692
+D l 0:00.230 i 24
+F dirty-feet[105]-glued-19.wav 69758 0 1765329571 0
+D y 2025-12-10 s 48000 n 2 r 0:18.461
+D l 0:00.230 i 24
+F dirty-feet[105]-glued-20.wav 136220 0 1765329613 0
+D y 2025-12-10 s 48000 n 2 r 0:18.923
+D l 0:00.461 i 24
+F dirty-feet[105]-glued-21.wav 54506 0 1765795663 0
+D y 2025-12-15 s 44100 n 2 r 0:09.580
+D l 0:00.193 i 24
+F dirty-feet[105]-glued-22.wav 54506 0 1765796023 0
+D y 2025-12-15 s 44100 n 2 r 0:10.354
+D l 0:00.193 i 24
+F dirty-feet[105]-glued-26.wav 80114 0 1765852869 0
+D y 2025-12-16 s 44100 n 2 r 0:22.935
+D l 0:00.290 i 24
+F dirty-feet[105]-glued.wav 64358 0 1765326099 0
+D y 2025-12-10 s 44100 n 2 r 0:00.346
+D l 0:00.230 i 24
+F dirty-feet[105].wav 605490 0 1763179356 0
+D y 2025-11-15 s 44100 n 2 l 0:02.285
+D i 24
+F "Dred Vox - 11A.wav" 1086612 0 1587135156 0
+D t "Dred Vox - 11A" k 11A s 44100 n 2
+D l 0:06.146 i 16
+F fire-eater[100,mono].wav 635730 0 1765449605 0
+D y 2025-12-11 s 44100 n 1 l 0:04.800
+D i 24
+F flim_stems.wav 16417512 0 1766481689 0
+D y 2025-12-23 s 48000 n 2 l 0:42.752
+D i 32
+F fuz&daboog[115]-glued.wav 54506 0 1764835111 0
+D y 2025-12-04 s 44100 n 2 r 0:07.354
+D l 0:00.193 i 24
+F fuz&daboog[115]-imported.wav 1105110 0 1763180632 0
+D y 2025-11-15 s 44100 n 2 l 0:04.173
+D i 24
+F fuz&daboog[115].wav 1105110 0 1763170528 0
+D y 2025-11-15 s 44100 n 2 l 0:04.173
+D i 24
+F "give it up 130.wav" 977676 0 1763020467 0
+D y 2025-11-13 s 44100 n 2 l 0:03.692
+D i 24
+F "hot-pants[115] render 001.wav" 419534 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.444
+D i 24
+F "hot-pants[115] render 002.wav" 419534 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.444
+D i 24
+F "hot-pants[115] render 003.wav" 419534 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.444
+D i 24
+F "hot-pants[115] render 004.wav" 355538 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.222
+D i 24
+F "hot-pants[115] render 005.wav" 355538 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.222
+D i 24
+F "hot-pants[115] render 006.wav" 675536 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:02.333
+D i 24
+F "hot-pants[115] render 007.wav" 547538 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.888
+D i 24
+F "hot-pants[115] render 008.wav" 355538 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.222
+D i 24
+F "hot-pants[115] render 009.wav" 483536 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.666
+D i 24
+F "hot-pants[115] render 010.wav" 355538 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.222
+D i 24
+F "hot-pants[115] render 011.wav" 419534 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.444
+D i 24
+F "hot-pants[115] render 012.wav" 483536 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.666
+D i 24
+F "hot-pants[115] render 013 reversed 001.wav" 67532 0 1764154792 0
+D y 2025-11-15 s 48000 n 2 l 0:00.222
+D i 24
+F "hot-pants[115] render 013.wav" 547538 0 1764151648 0
+D y 2025-11-15 s 48000 n 2 l 0:01.888
+D i 24
+F "hot-pants[115] reversed 003-glued.wav" 238496 0 1764150151 0
+D y 2025-11-26 s 44100 n 2 r 1:06.666
+D l 0:00.888 i 24
+F "hot-pants[115]-glued reversed 001-glued.wav" 131294 0 1764150335 0
+D y 2025-11-26 s 48000 n 2 r 1:07.111
+D l 0:00.444 i 24
+F hot-pants[115]-glued-01.wav 473696 0 1764154601 0
+D y 2025-11-26 s 44100 n 2 r 0:51.555
+D l 0:01.777 i 24
+F hot-pants[115].wav 1105110 0 1763169721 0
+D y 2025-11-15 s 44100 n 2 l 0:04.173
+D i 24
+F "Hype Break 170.wav" 747152 0 1417071904 0
+D s 44100 n 2 l 0:02.823 i 24
+F "Ike & Tina Turner - Funky Mule (part2).wav" 319524 0 1213249496 0
+D s 44100 n 2 l 0:01.811 i 16
+F "Ike & Tina Turner - Funky Mule (part3)-glued.wav" 471136 0 1765261184 0
+D y 2025-12-09 s 44100 n 2 l 0:02.666
 D i 16
-F "Drumloop 6.wav" 371814 0 1570949436 0
-D t "Nummer 1" s 44100 n 2 l 0:02.106
+F "Ike & Tina Turner - Funky Mule (part3).wav" 643644 0 1213249556 0
+D s 44100 n 2 l 0:03.648 i 16
+F "James Brown - Soul Pride (part4).wav" 1797772 0 1212924030 0
+D s 44100 n 2 l 0:10.191 i 16
+F "Kick [Ball].wav" 42772 0 1090884972 0
+D s 44100 n 2 l 0:00.242 i 16
+F "Kick [BlackIce] render 002-glued render 001-glued render 003-glued.wav" 60488 0 1766405159 0
+D y 2025-12-22 s 48000 n 2 r 0:09.267
+D l 0:00.198 i 24
+F "Kick [Drum] render 001-glued.wav" 59036 0 1766212904 0
+D y 2025-12-20 s 48000 n 2 r 0:18.580
+D l 0:00.193 i 24
+F Kick80815.wav 72204 0 1760832929 0
+D y 2013-09-17 s 44100 n 1 r 0:22.768
+D l 0:00.526 i 24
+F "Kick8087-glued render 002-glued.wav" 170522 0 1766227547 0
+D y 2025-12-20 s 48000 n 2 r 1:02.129
+D l 0:00.580 i 24
+F Kick8087.wav 87248 0 1760832929 0
+D y 2013-09-17 s 44100 n 1 r 0:08.040
+D l 0:00.612 i 24
+F "Kid Dynamite - Uphill Peace Of Mind (part2).wav" 455956 0 1212939862 0
+D s 44100 n 2 l 0:02.584 i 16
+F "Kool & The Gang - Give It Up (Part 1).wav" 859800 0 1572968388 0
+D s 44100 n 2 l 0:04.873 i 16
+F "Kool & The Gang - Give It Up (Part 2)-glued-01 [chan 1].wav" 570644 0 1763034809 0
+D y 2025-11-13 s 44100 n 1 l 0:06.461
 D i 16
-F "Effect Break 2 - 12A.wav" 266252 0 1587134974 0
-D t "4A - 12A" k 12A s 44100 n 2
-D l 0:01.502 i 16
-F "fools-gold 115 reversed 001-glued.wav" 87296 0 1762178221 0
-D y 2025-11-03 s 44100 n 2 r 0:05.079
-D l 0:00.317 i 24
-F "Fred Wesley - Four Play (Break 2) reversed 001-glued.wav" 48818 0 1760777380 0
-D t "Track 26" y 2025-10-18 s 44100 n 2
-D r 0:20.256 l 0:00.256 i 16
-F "Fred Wesley - Four Play (Break 2) reversed 001.wav" 70862 0 1760777376 0
-D t "Track 26" y 2025-10-18 s 44100 n 2
-D r 0:20.256 l 0:00.381 i 16
-F "Junior Mance - Thank You Falletin Me Be Mice Elf Again.wav" 1024698 0 1466009810 0
-D t "Track 11" s 44100 n 2 l 0:05.807
+F "Kool & The Gang - Give It Up (Part 2)-glued-01 [chan 2].wav" 570644 0 1763034809 0
+D y 2025-11-13 s 44100 n 1 l 0:06.461
 D i 16
-F "laserShoot reversed 001-glued.wav" 11796 0 1761227772 0
-D y 2025-10-23 s 44100 n 1 r 1:30.516
-D l 0:00.096 i 16
-F "laserShoot reversed 001.wav" 9236 0 1761227766 0
-D y 2025-10-23 s 44100 n 1 r 1:30.516
-D l 0:00.096 i 16
-F laserShoot(1).wav 2618 0 1761226942 0
-D s 44100 n 1 l 0:00.058 i 8
-F laserShoot(2).wav 6069 0 1761226966 0
-D s 44100 n 1 l 0:00.136 i 8
-F laserShoot.wav 4294 0 1761226938 0
-D s 44100 n 1 l 0:00.096 i 8
-F "Old Wooden Doors - Open and Close - with Creaking Sound Effect.mp3" 166532 0 1761955748 0
-D s 48000 n 2 l 0:15.267 i 87k
-F soulpride-pitch-tuned-q-t175-further-EQing-comp(bad).wav 503338 0 315507600 0
-D s 44100 n 2 l 0:01.412 i 32
-F Stagnating.mp3 26925 0 1761226560 0
-D s 24000 n 1 l 0:01.260 i 171k
-F "The Winstons - Amen, Brother (ver.1)-glued-01.wav" 20192 0 1762169629 0
-D y 2025-11-03 s 44100 n 2 r 0:02.977
-D l 0:00.110 i 16
-F "The Winstons - Amen, Brother (ver.1)-glued-02.wav" 20192 0 1762169685 0
-D y 2025-11-03 s 44100 n 2 r 0:02.977
-D l 0:00.110 i 16
+F "Kool & The Gang - Give It Up (Part 2)-glued-01.wav" 1140552 0 1763034802 0
+D y 2025-11-13 s 44100 n 2 l 0:06.461
+D i 16
+F "Kool & The Gang - Give It Up (Part 2)-glued-01.wav [chan 1]-glued.wav" 33826 0 1763037836 0
+D y 2025-11-13 s 44100 n 1 r 0:02.076
+D l 0:00.346 i 16
+F "Kool & The Gang - Give It Up (Part 2)-glued-01.wav [chan 2]-glued.wav" 33826 0 1763037836 0
+D y 2025-11-13 s 44100 n 1 r 0:02.076
+D l 0:00.346 i 16
+F "Kool & The Gang - Give It Up (Part 2)-glued-02.wav" 403936 0 1766306110 0
+D y 2025-12-21 s 44100 n 1 l 0:04.571
+D i 16
+F "Kool & The Gang - Give It Up (Part 2)-glued.wav" 1120196 0 1763034493 0
+D y 2025-11-13 s 44100 n 2 l 0:06.346
+D i 16
+F "Kool & The Gang - Give It Up (Part 2).wav" 1710268 0 1572968400 0
+D s 44100 n 2 l 0:09.695 i 16
+F laserShoot.wav 10666 0 1764154698 0
+D s 44100 n 1 l 0:00.240 i 8
+F "Led Zeppelin - When The Levee Breaks-glued-01.wav" 144416 0 1765167914 0
+D y 2025-12-08 s 44100 n 1 l 0:01.600
+D i 16
+F life-could[105,reprog,mono]-glued-02.wav 22362 0 1766405284 0
+D y 2025-12-22 s 48000 n 1 r 0:09.399
+D l 0:00.132 i 24
+F life-could[105,reprog,mono]-glued.wav 28902 0 1766216000 0
+D y 2025-12-20 s 44100 n 1 r 0:18.387
+D l 0:00.193 i 24
+F life-could[105,reprog,mono].wav 303090 0 1765341110 0
+D y 2025-12-10 s 44100 n 1 l 0:02.285
+D i 24
+F light-my-fire[130,reprog].wav 977676 0 1763383225 0
+D y 2025-11-17 s 44100 n 2 l 0:03.692
+D i 24
+F loves-theme[100]-glued.wav 10346 0 1765330324 0
+D y 2025-12-10 s 48000 n 2 r 0:24.807
+D l 0:00.024 i 24
+F loves-theme[100].wav 635730 0 1763183332 0
+D y 2025-11-15 s 44100 n 2 l 0:02.400
+D i 24
+F "Low Entropy - Low Entropy Sample Pack 2 - Doomcore, Gabber, and Speedcore Bassdrums - 07 909 distorted 4.wav" 365756 0 1766376126 0
+D s 48000 n 2 l 0:01.904 i 16
+F "Low Entropy - Low Entropy Sample Pack 2 - Doomcore, Gabber, and Speedcore Bassdrums - 08 909 distorted 5.wav" 365760 0 1766376126 0
+D s 48000 n 2 l 0:01.904 i 16
+F "Low Entropy - Low Entropy Sample Pack 2 - Doomcore, Gabber, and Speedcore Bassdrums - 13 909 distorted + eq 1.wav" 365760 0 1766376126 0
+D s 48000 n 2 l 0:01.904 i 16
+F "Low Entropy - Low Entropy Sample Pack 2 - Doomcore, Gabber, and Speedcore Bassdrums - 21 909 distorted + eq 9.wav" 365760 0 1766376126 0
+D s 48000 n 2 l 0:01.904 i 16
+F "Marva Whitney - Unwind Yourself (Remix)-glued.wav" 326396 0 1765186801 0
+D y 2025-12-08 s 44100 n 2 l 0:01.846
+D i 16
+F "Modular Beat 11 (Perc) 130BPM.wav" 985226 0 1459257234 0
+D t Clock y 2016-02-12 s 44100 n 2
+D l 0:03.692 i 24
+F "Modular Closed Hat 15.wav" 7900 0 1459257258 0
+D s 44100 n 2 l 0:00.029 i 24
+F "Modular Disco Tom 01.wav" 114094 0 1459257261 0
+D s 44100 n 2 l 0:00.431 i 24
+F "Modular Perc Hit short 14.wav" 32476 0 1459257311 0
+D s 44100 n 2 l 0:00.122 i 24
+F "Modular Perc Hit short 16.wav" 151990 0 1459257311 0
+D s 44100 n 2 l 0:00.574 i 24
+F "Modular Perc Hit short 31.wav" 82432 0 1459257315 0
+D s 44100 n 2 l 0:00.311 i 24
+F "Modular Perc Hit short 32.wav" 96688 0 1459257317 0
+D s 44100 n 2 l 0:00.365 i 24
+F "Ms20 Kick 10.wav" 400486 0 1459257335 0
+D s 44100 n 2 l 0:01.513 i 24
+F non_stop-home[120,mono]-imported.wav 265290 0 1763383839 0
+D y 2025-11-17 s 44100 n 1 l 0:02.000
+D i 24
+F non_stop-home[120,mono].wav 265290 0 1763252885 0
+D y 2025-11-16 s 44100 n 1 l 0:02.000
+D i 24
+F OH8086.wav 148396 0 1760832933 0
+D y 2013-09-21 s 44100 n 1 r 0:13.432
+D l 0:01.092 i 24
+F OH8088.wav 136876 0 1760832933 0
+D y 2013-09-21 s 44100 n 1 r 0:17.193
+D l 0:01.007 i 24
+F "old amen (1)-glued-02.wav" 42618 0 1766468164 0
+D y 2025-12-23 c "Recorded on 26.11.2014 in Edison." s 48000 n 2
+D r 0:00.202 l 0:00.101 i 32
+F "old amen (1)-glued-04.wav" 42618 0 1766472265 0
+D y 2025-12-23 c "Recorded on 26.11.2014 in Edison." s 48000 n 2
+D r 0:02.432 l 0:00.101 i 32
+F "old amen (1)-glued-08.wav" 42618 0 1766472590 0
+D y 2025-12-23 c "Recorded on 26.11.2014 in Edison." s 48000 n 2
+D r 0:02.432 l 0:00.101 i 32
+F "old amen (1)-glued-09.wav" 62082 0 1766481035 0
+D y 2025-12-23 c "Recorded on 26.11.2014 in Edison." s 48000 n 1
+D r 0:06.891 l 0:00.304 i 32
+F "old amen (1)-glued-11.wav" 81534 0 1766482940 0
+D y 2025-12-23 c "Recorded on 26.11.2014 in Edison." s 48000 n 1
+D r 0:10.540 l 0:00.405 i 32
+F "old amen (1)-glued.wav" 42534 0 1766467884 0
+D y 2025-12-23 c "Recorded on 26.11.2014 in Edison." s 48000 n 2
+D r 0:00.202 l 0:00.101 i 32
+F "old amen 2 - kick 1-glued-05.wav" 30514 0 1766471858 0
+D y 2025-12-23 c "Recorded on 26.11.2014 in Edison." s 44100 n 1
+D l 0:00.152 i 32
+F "Percussive FX 17.wav" 562240 0 1459257372 0
+D s 44100 n 2 l 0:02.124 i 24
+F Rim80810.wav 7216 0 1760832937 0
+D y 2013-09-21 s 44100 n 1 r 0:00.479
+D l 0:00.042 i 24
+F Rim8089-glued-01.wav 5196 0 1764906147 0
+D y 2025-12-05 s 44100 n 1 l 0:00.014
+D i 24
+F Rim8089-glued-02.wav 945200 0 1764906186 0
+D y 2025-12-05 s 44100 n 1 l 0:07.119
+D i 24
+F "Slick Rick - It's a Boy [Remix].mp3" 11532943 0 1765450583 0
+D t "It's a Boy [Remix]" a "Producto Ilícito" b "My Favorite Hip-Hop Songs of 1994" y 1994
+D g Hip-Hop s 44100 n 2 l 4:00.930
+D i 320k m 10 j "mime:image/jpeg offset:483 length:1890057"
+F "Snare [Athome].wav" 68334 0 1395139127 0
+D s 44100 n 2 l 0:00.252 i 24
+F Snare80817.wav 45722 0 1760832937 0
+D y 2013-09-24 s 44100 n 2 r 0:06.817
+D l 0:00.164 i 24
+F soul-pride1[135,reprog]-imported-glued.wav 944096 0 1766564248 0
+D y 2025-12-24 s 44100 n 2 r 0:00.888
+D l 0:03.555 i 24
+F soul-pride1[135,reprog]-imported.wav 1411890 0 1763180177 0
+D y 2025-11-15 s 44100 n 2 l 0:05.333
+D i 24
+F soul-pride2[135,reprog]-glued-01.wav 52598 0 1766380648 0
+D y 2025-12-22 s 44100 n 2 r 0:20.683
+D l 0:00.186 i 24
+F soul-pride2[135,reprog]-glued-02.wav 42440 0 1766629690 0
+D y 2025-12-25 s 44100 n 1 r 0:33.939
+D l 0:00.295 i 24
+F soul-pride2[135,reprog]-glued-03.wav 26642 0 1766631082 0
+D y 2025-12-25 s 44100 n 1 r 0:39.705
+D l 0:00.176 i 24
+F soul-pride2[135,reprog]-glued-04.wav 18818 0 1766632101 0
+D y 2025-12-25 s 44100 n 1 r 0:41.735
+D l 0:00.117 i 24
+F soul-pride2[135,reprog]-glued-05.wav 18818 0 1766632107 0
+D y 2025-12-25 s 44100 n 1 r 0:41.470
+D l 0:00.117 i 24
+F soul-pride2[135,reprog]-glued-06.wav 18818 0 1766632117 0
+D y 2025-12-25 s 44100 n 1 r 0:40.941
+D l 0:00.117 i 24
+F soul-pride2[135,reprog]-glued-07.wav 49992 0 1766632871 0
+D y 2025-12-25 s 44100 n 1 r 0:38.470
+D l 0:00.352 i 24
+F soul-pride2[135,reprog]-glued-08.wav 14970 0 1766673887 0
+D y 2025-12-25 s 44100 n 1 r 0:46.411
+D l 0:00.088 i 24
+F soul-pride2[135,reprog].wav 941490 0 1763180263 0
+D y 2025-11-15 s 44100 n 2 l 0:03.555
+D i 24
+F synthetic-substitution[100].wav 1270770 0 1763177738 0
+D y 2025-11-15 s 44100 n 2 l 0:04.800
+D i 24
+F "The Vibrettes - Humpty Dump-glued.wav" 737016 0 1766650900 0
+D y 2025-12-25 s 44100 n 2 l 0:04.173
+D i 16
 F "The Winstons - Amen, Brother (ver.1)-glued.wav" 20192 0 1762169624 0
 D y 2025-11-03 s 44100 n 2 r 0:02.977
 D l 0:00.110 i 16
-F "Welcome to fish the .mp3" 71565 0 1761226755 0
-D s 24000 n 1 l 0:03.490 i 164k
+F think1[115]-glued-01.wav 473696 0 1764902140 0
+D y 2025-12-05 s 44100 n 2 r 1:46.666
+D l 0:01.777 i 24
+F think1[115]-imported-glued.wav 26696 0 1766563054 0
+D y 2025-12-24 s 44100 n 2 r 0:28.588
+D l 0:00.088 i 24
+F think1[115]-imported.wav 552900 0 1765336368 0
+D y 2025-12-10 s 44100 n 2 l 0:02.086
+D i 24
+F think1[115].wav 553194 0 1763168045 0
+D y 2025-11-15 s 44100 n 2 l 0:02.088
+D i 24
+F "think2[115] reversed 001.wav" 141656 0 1764163469 0
+D y 2025-11-15 s 44100 n 2 l 0:00.521
+D i 24
+F "think2[115] reversed 002.wav" 38066 0 1764163778 0
+D y 2025-11-15 s 44100 n 2 l 0:00.130
+D i 24
+F "think2[115] reversed 004.wav" 72560 0 1766740083 0
+D y 2025-12-10 s 44100 n 2 l 0:00.260
+D i 24
+F "think2[115] reversed 005-glued.wav" 50038 0 1766740186 0
+D y 2025-12-26 s 44100 n 2 r 0:11.180
+D l 0:00.186 i 24
+F "think2[115] reversed 007.wav" 38060 0 1766740938 0
+D y 2025-12-10 s 44100 n 1 l 0:00.260
+D i 24
+F think2[115]-glued-01.wav 19874 0 1766740031 0
+D y 2025-12-26 s 44100 n 2 r 0:08.757
+D l 0:00.062 i 24
+F think2[115]-glued-02.wav 27948 0 1766740443 0
+D y 2025-12-26 s 44100 n 1 r 0:14.720
+D l 0:00.186 i 24
+F think2[115]-glued-03.wav 27948 0 1766740563 0
+D y 2025-12-26 s 44100 n 1 r 0:03.167
+D l 0:00.186 i 24
+F think2[115]-imported-glued.wav 27948 0 1766742029 0
+D y 2025-12-26 s 44100 n 1 r 0:18.260
+D l 0:00.186 i 24
+F think2[115]-imported.wav 552900 0 1765336379 0
+D y 2025-12-10 s 44100 n 2 l 0:02.086
+D i 24
+F think2[115].wav 553194 0 1763168117 0
+D y 2025-11-15 s 44100 n 2 l 0:02.088
+D i 24
+F "think3[115]-glued-01 reversed 001-glued-02.wav" 94508 0 1764679961 0
+D y 2025-12-02 s 44100 n 2 r 0:24.772
+D l 0:00.344 i 24
+F "think3[115]-glued-01 reversed 001-glued-03.wav" 1642658 0 1764680035 0
+D y 2025-12-02 s 44100 n 2 l 0:06.195
+D i 24
+F "think3[115]-glued-01 reversed 001-glued.wav" 94508 0 1764679931 0
+D y 2025-12-02 s 44100 n 2 r 0:24.772
+D l 0:00.344 i 24
+F "think3[115]-glued-01 reversed 001.wav" 94748 0 1764677707 0
+D y 2025-12-02 s 44100 n 2 l 0:00.344
+D i 24
+F think3[115]-glued-01.wav 94508 0 1764677701 0
+D y 2025-12-02 s 44100 n 2 r 0:24.387
+D l 0:00.344 i 24
+F think3[115]-glued-02.wav 413000 0 1764677811 0
+D y 2025-12-02 s 44100 n 2 r 0:24.774
+D l 0:01.548 i 24
+F think3[115]-glued-04.wav 413000 0 1764679293 0
+D y 2025-12-02 s 44100 n 2 r 0:30.774
+D l 0:01.548 i 24
+F think3[115]-imported.wav 552900 0 1765336394 0
+D y 2025-12-10 s 44100 n 2 l 0:02.086
+D i 24
+F think3[115].wav 553194 0 1763168139 0
+D y 2025-11-15 s 44100 n 2 l 0:02.088
+D i 24
+F think4[115]-imported.wav 552900 0 1765336407 0
+D y 2025-12-10 s 44100 n 2 l 0:02.086
+D i 24
+F think4[115].wav 553194 0 1763168162 0
+D y 2025-11-15 s 44100 n 2 l 0:02.088
+D i 24
+F unwind-yourself[130].wav 489180 0 1765186817 0
+D y 2025-12-08 s 44100 n 2 l 0:01.846
+D i 24
+F walk-this-way[110]-glued-01.wav 267896 0 1765604248 0
+D y 2025-12-13 s 44100 n 2 r 0:38.000
+D l 0:01.000 i 24
+F walk-this-way[110]-glued-02.wav 109136 0 1765604581 0
+D y 2025-12-13 s 44100 n 2 r 0:38.000
+D l 0:00.400 i 24
+F walk-this-way[110].wav 577998 0 1765166637 0
+D y 2025-12-08 s 44100 n 2 l 0:02.181
+D i 24
+F were-so-happy1[140].wav 907890 0 1765186647 0
+D y 2025-12-08 s 44100 n 2 l 0:03.428
+D i 24
+F whatever2superman[125].wav 508722 0 1765181066 0
+D y 2025-12-08 s 44100 n 2 l 0:01.920
+D i 24
+F "white noise-glued-01.wav" 118496 0 1766887089 0
+D y 2025-12-28 s 48000 n 2 r 0:02.000
+D l 0:00.400 i 24
+F "white noise-glued-02.wav" 118496 0 1766887137 0
+D y 2025-12-28 s 48000 n 2 r 0:01.200
+D l 0:00.400 i 24
+F "white noise-glued.wav" 109136 0 1766886917 0
+D y 2025-12-28 s 44100 n 2 r 0:01.600
+D l 0:00.400 i 24
+F who-is-she[105].wav 605490 0 1765259299 0
+D y 2025-12-09 s 44100 n 2 l 0:02.285
+D i 24

@@ -1,0 +1,35 @@
+C10018 "/home/lazy/Music/Samples/Renewed Amens/old amens/Slices/old amens 4 slices"
+F "old amen 4 - big snare.wav" 53266 0 315532800 0
+D p 399.8791 s 44100 n 2 l 0:00.150
+D i 32
+F "old amen 4 - cymbal.wav" 53352 0 315532800 0
+D p 399.2154 s 44100 n 2 l 0:00.150
+D i 32
+F "old amen 4 - hat 1.wav" 26950 0 315532800 0
+D s 44100 n 2 l 0:00.075 i 32
+F "old amen 4 - hat 2.wav" 26550 0 315532800 0
+D s 44100 n 2 l 0:00.074 i 32
+F "old amen 4 - hat 3.wav" 27070 0 315532800 0
+D s 44100 n 2 l 0:00.075 i 32
+F "old amen 4 - hat 4.wav" 26614 0 315532800 0
+D s 44100 n 2 l 0:00.074 i 32
+F "old amen 4 - kick 1.wav" 53264 0 315532800 0
+D p 399.8791 s 44100 n 2 l 0:00.150
+D i 32
+F "old amen 4 - perc 1.wav" 53248 0 315532800 0
+D s 44100 n 2 l 0:00.150 i 32
+F "old amen 4 - perc 2.wav" 53232 0 315532800 0
+D s 44100 n 2 l 0:00.149 i 32
+F "old amen 4 - perc 3.wav" 26696 0 315532800 0
+D s 44100 n 2 l 0:00.074 i 32
+F "old amen 4 - perc 4.wav" 27080 0 315532800 0
+D s 44100 n 2 l 0:00.075 i 32
+F "old amen 4 - perc 5.wav" 28576 0 315532800 0
+D s 44100 n 2 l 0:00.080 i 32
+F "old amen 4 - perc 6.wav" 25000 0 315532800 0
+D s 44100 n 2 l 0:00.069 i 32
+F "old amen 4 - snare 1.wav" 53096 0 315532800 0
+D s 44100 n 2 l 0:00.149 i 32
+F "old amen 4 - snare 2.wav" 53256 0 315532800 0
+D p 399.9395 s 44100 n 2 l 0:00.150
+D i 32

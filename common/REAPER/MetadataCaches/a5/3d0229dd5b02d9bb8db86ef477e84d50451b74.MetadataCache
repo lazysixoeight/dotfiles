@@ -1,0 +1,9 @@
+C10018 "/home/lazy/Music/Samples/Adventure Kid Waveforms/AKWF_bw_perfectwaves"
+F AKWF_saw.wav 1344 0 315532800 0
+D s 44100 n 1 l 0:00.013 i 16
+F AKWF_sin.wav 1344 0 315532800 0
+D s 44100 n 1 l 0:00.013 i 16
+F AKWF_squ.wav 1344 0 315532800 0
+D s 44100 n 1 l 0:00.013 i 16
+F AKWF_tri.wav 1344 0 315532800 0
+D s 44100 n 1 l 0:00.013 i 16

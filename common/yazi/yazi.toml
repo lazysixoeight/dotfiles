@@ -1,0 +1,4 @@
+[preview]
+ueberzug_scale = 3.0        # scale ratio for images
+ueberzug_offset = [0,0,0,0] # x,y,width,height offsets (can fix alignment)
+

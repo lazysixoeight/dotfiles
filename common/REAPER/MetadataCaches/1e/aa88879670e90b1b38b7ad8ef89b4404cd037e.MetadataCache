@@ -1,0 +1,236 @@
+C10018 "/home/lazy/Music/Samples/MZ Drum Kit 2019/Perc [100]"
+F "Perc [1Night].wav" 842164 0 1545007278 0
+D c "Modified by FL Studio 12" s 44100 n 2 l 0:02.386
+D i 32
+F "Perc [Accented].wav" 110734 0 1545287070 0
+D y 2018-12-20 s 44100 n 2 r 1:03:49.657
+D l 0:00.414 i 24
+F "Perc [AlmostaSnare].wav" 74588 0 1545007280 0
+D s 48000 n 2 l 0:00.388 i 16
+F "Perc [Ava].wav" 1249694 0 1545007278 0
+D t "TM88 Nightmare V2" s 44100 n 2 l 0:03.541
+D i 32
+F "Perc [Belly].wav" 282284 0 1538831886 0
+D s 44100 n 2 l 0:01.600 i 16
+F "Perc [Bleep].wav" 17684 0 1538832333 0
+D s 44100 n 2 l 0:00.100 i 16
+F "Perc [Bloop].wav" 35324 0 1538832354 0
+D s 44100 n 2 l 0:00.200 i 16
+F "Perc [Booty].wav" 132344 0 1359608400 0
+D s 44100 n 1 l 0:01.000 i 24
+F "Perc [Bright].wav" 70604 0 1538831679 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Camera].wav" 282284 0 1538832151 0
+D s 44100 n 2 l 0:01.600 i 16
+F "Perc [Cavern].wav" 988160 0 1514514686 0
+D s 44100 n 2 l 0:03.734 i 24
+F "Perc [Cbell].wav" 133092 0 918718140 0
+D s 44100 n 1 l 0:01.500 i 16
+F "Perc [Chill].wav" 1071986 0 1387308962 0
+D s 44100 n 2 l 0:04.051 i 24
+F "Perc [Chimeroll].wav" 626332 0 1421102454 0
+D s 44100 n 2 l 0:03.549 i 16
+F "Perc [Chimey].wav" 282284 0 1538832051 0
+D s 44100 n 2 l 0:01.600 i 16
+F "Perc [Clappy].wav" 62138 0 1545285340 0
+D y 2018-12-20 s 44100 n 2 r 1:03:33.273
+D l 0:00.230 i 24
+F "Perc [Clashy].wav" 97904 0 1545007278 0
+D t "NM - Medals Perc" c "Recorded on 7/31/2017 in Edison." s 44100 n 2
+D l 0:00.276 i 32
+F "Perc [Conga1].wav" 70604 0 1538833146 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Conga2].wav" 70604 0 1538833173 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Conga3].wav" 70604 0 1538833201 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Conga4].wav" 70604 0 1538833222 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Conga5].wav" 70604 0 1538833259 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Cow].wav" 70604 0 1538832296 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Dogg].wav" 119126 0 1541332839 0
+D c "Recorded on 5/11/2018 in Edison." s 44100 n 2 l 0:00.337
+D i 32
+F "Perc [Drippy].wav" 95574 0 1545007278 0
+D t "SS3 Drumkit" a "Young Thug" b "Slime Season 3" y 2016
+D s 44100 n 2 l 0:00.270 i 32
+F "Perc [Element].wav" 353014 0 1545007278 0
+D t "TM88 Nightmare V2" s 44100 n 2 l 0:01.000
+D i 32
+F "Perc [Found].wav" 132492 0 1545007280 0
+D s 44100 n 2 l 0:00.375 i 32
+F "Perc [Future].wav" 276278 0 1545007280 0
+D s 44100 n 2 l 0:01.043 i 24
+F "Perc [GateTom1].wav" 33196 0 1084936500 0
+D s 22050 n 2 l 0:00.374 i 16
+F "Perc [GateTom2].wav" 29948 0 1084936500 0
+D s 22050 n 2 l 0:00.337 i 16
+F "Perc [GateTom3].wav" 47476 0 1084936500 0
+D s 22050 n 2 l 0:00.536 i 16
+F "Perc [GateTom4].wav" 64168 0 1084936500 0
+D s 22050 n 2 l 0:00.725 i 16
+F "Perc [Gear].wav" 512550 0 1545007278 0
+D t "NM - Gear Perc" c "Recorded on 7/29/2017 in Edison." s 44100 n 2
+D l 0:01.452 i 32
+F "Perc [Gnar].wav" 978404 0 1545007278 0
+D s 44100 n 2 l 0:03.697 i 24
+F "Perc [HallTom1].wav" 66520 0 1084936500 0
+D s 22050 n 2 l 0:00.752 i 16
+F "Perc [HallTom2].wav" 80588 0 1084936500 0
+D s 22050 n 2 l 0:00.912 i 16
+F "Perc [HallTom3].wav" 97556 0 1084936500 0
+D s 22050 n 2 l 0:01.104 i 16
+F "Perc [HallTom4].wav" 99356 0 1084936500 0
+D s 22050 n 2 l 0:01.124 i 16
+F "Perc [Juicy].wav" 1211404 0 1545007280 0
+D c "Modified by FL Studio 11" s 44100 n 2 l 0:03.433
+D i 32
+F "Perc [LikeARim].wav" 100446 0 1545171148 0
+D y 2018-12-18 s 44100 n 2 r 1:02:13.412
+D l 0:00.374 i 24
+F "Perc [Lilboi].wav" 166652 0 1396300158 0
+D s 44100 n 2 l 0:00.944 i 16
+F "Perc [Marty].wav" 650944 0 1545007278 0
+D b "{JP} - Immortal Icon Soundkit" s 44100 n 2 l 0:03.689
+D i 16
+F "Perc [Metro].wav" 638270 0 1532569318 0
+D t "Perc ( Metro )" c "Recorded on 7/23/2018 in Edison." s 44100 n 2
+D l 0:01.808 i 32
+F "Perc [Minecraft].wav" 41768 0 1545007278 0
+D s 44100 n 2 l 0:00.235 i 16
+F "Perc [Mud Shaker].wav" 114342 0 1541301772 0
+D c "Recorded on 4/11/2018 in Edison." s 44100 n 2 l 0:00.323
+D i 32
+F "Perc [NextUp].wav" 119566 0 1545007278 0
+D s 44100 n 2 l 0:00.451 i 24
+F "Perc [Pans].wav" 17684 0 1538831775 0
+D s 44100 n 2 l 0:00.100 i 16
+F "Perc [Patrol].wav" 60936 0 1545007278 0
+D t "NM - Patrol Perc" c "Recorded on 7/31/2017 in Edison." s 44100 n 2
+D l 0:00.171 i 32
+F "Perc [Punchit].wav" 53494 0 1545007278 0
+D t "NM - PunchTheKeys Perc" c "Recorded on 7/31/2017 in Edison." s 44100 n 2
+D l 0:00.150 i 32
+F "Perc [Reload].wav" 214690 0 1545007278 0
+D s 44100 n 2 l 0:00.608 i 32
+F "Perc [Shaka].wav" 132344 0 1359608400 0
+D s 44100 n 1 l 0:01.000 i 24
+F "Perc [Slash].wav" 169006 0 1545285066 0
+D y 2018-12-20 s 44100 n 2 r 1:03:34.426
+D l 0:00.634 i 24
+F "Perc [Slit].wav" 90454 0 1545007278 0
+D t "NM - Well Perc" c "Recorded on 10/1/2017 in Edison." s 44100 n 2
+D l 0:00.255 i 32
+F "Perc [Sn. 10].wav" 298732 0 1539145716 0
+D c "Recorded on 10.10.2018 in Edison." s 44100 n 2 l 0:00.846
+D i 32
+F "Perc [Sn. 1].wav" 107768 0 1525122598 0
+D s 44100 n 2 l 0:00.407 i 24
+F "Perc [Sn. 2].wav" 133410 0 1525122598 0
+D t "Splice Sounds" s 44100 n 2 l 0:00.500
+D i 24
+F "Perc [Sn. 3].wav" 33486 0 1525122598 0
+D s 44100 n 2 l 0:00.189 i 16
+F "Perc [Sn. 4].wav" 28046 0 1514514662 0
+D s 44100 n 2 l 0:00.105 i 24
+F "Perc [Sn. 5].wav" 131744 0 1514514606 0
+D s 44100 n 2 l 0:00.497 i 24
+F "Perc [Sn. 6].wav" 29972 0 1514514624 0
+D s 44100 n 2 l 0:00.113 i 24
+F "Perc [Sn. 7].wav" 486260 0 1514514600 0
+D s 44100 n 2 l 0:01.837 i 24
+F "Perc [Sn. 8].wav" 18712 0 1514514692 0
+D c "Modified by FL Studio 11" s 44100 n 2 l 0:00.104
+D i 16
+F "Perc [Sn. 9].wav" 270868 0 1539081956 0
+D c "Recorded on 09.10.2018 in Edison." s 44100 n 2 l 0:00.767
+D i 32
+F "Perc [Snap1].wav" 287170 0 1514514658 0
+D y 2015-09-02 s 44100 n 2 r 1:00:18.378
+D l 0:01.081 i 24
+F "Perc [Snap2].wav" 318360 0 1538822755 0
+D s 44100 n 2 l 0:01.804 i 16
+F "Perc [Snap3].wav" 318360 0 1538823062 0
+D s 44100 n 2 l 0:01.804 i 16
+F "Perc [Snap4].wav" 79624 0 1538823210 0
+D s 44100 n 2 l 0:00.451 i 16
+F "Perc [Snap5].wav" 79624 0 1538823379 0
+D s 44100 n 2 l 0:00.451 i 16
+F "Perc [Spacetom].wav" 291838 0 1214666522 0
+D s 44100 n 2 l 0:01.650 i 16
+F "Perc [Stomp].wav" 529416 0 1538881520 0
+D c "Modified by FL Studio 11" s 44100 n 2 l 0:03.000
+D i 16
+F "Perc [Swiper].wav" 132344 0 1359608400 0
+D s 44100 n 1 l 0:01.000 i 24
+F "Perc [Swoosh].wav" 141164 0 1538831966 0
+D s 44100 n 2 l 0:00.800 i 16
+F "Perc [Tambo1].wav" 70604 0 1538832552 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Tambo2].wav" 70604 0 1538832601 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Tambo3].wav" 70604 0 1538832625 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Tambo4].wav" 70604 0 1538832672 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Tambo5].wav" 70604 0 1538832649 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Tarzan].wav" 21900 0 1545007280 0
+D s 44100 n 2 l 0:00.123 i 16
+F "Perc [Thow].wav" 70604 0 1538831822 0
+D s 44100 n 2 l 0:00.400 i 16
+F "Perc [Tom1].wav" 65740 0 1084936500 0
+D s 22050 n 2 l 0:00.743 i 16
+F "Perc [Tom2].wav" 80076 0 1084936500 0
+D s 22050 n 2 l 0:00.906 i 16
+F "Perc [Tom3].wav" 96980 0 1084936500 0
+D s 22050 n 2 l 0:01.097 i 16
+F "Perc [Tonal].wav" 242806 0 1396298040 0
+D s 44100 n 2 l 0:01.375 i 16
+F "Perc [TonedHit].wav" 132344 0 1359608400 0
+D s 44100 n 1 l 0:01.000 i 24
+F "Perc [Tribal].wav" 132344 0 1359608400 0
+D s 44100 n 1 l 0:01.000 i 24
+F "Perc [Twist].wav" 74918 0 1541480186 0
+D c "Recorded on 6/11/2018 in Edison." s 44100 n 2 l 0:00.211
+D i 32
+F "Perc [Whack].wav" 454958 0 1431543280 0
+D p 139.636133 s 44100 n 2 l 0:01.718
+D i 24
+F "Perc [Windchime].wav" 2741604 0 1244328656 0
+D s 44100 n 2 l 0:10.359 i 24
+F "Perc [Windy].wav" 141164 0 1538832007 0
+D s 44100 n 2 l 0:00.800 i 16
+F "Perc [Wooden].wav" 169012 0 1545286954 0
+D y 2018-12-20 s 44100 n 2 r 1:03:48.273
+D l 0:00.634 i 24
+F "Perc [XSquare].wav" 466280 0 1545007278 0
+D s 44100 n 2 l 0:01.762 i 24
+F "Rim [808].wav" 288928 0 1532408064 0
+D t "Rim ( Dirty Stick )" s 44100 n 2 l 0:00.818
+D i 32
+F "Rim [ATL].wav" 282386 0 1532993496 0
+D t "Rim ( ATL )" c "Recorded on 7/23/2018 in Edison." s 44100 n 2
+D l 0:00.799 i 32
+F "Rim [Basic].wav" 301718 0 1532411216 0
+D t "Rim ( Essential )" s 44100 n 2 l 0:00.854
+D i 32
+F "Rim [Beat].wav" 33774 0 1539777494 0
+D t "Perc OP" c "Recorded on 18/10/2018 in Edison." s 44100 n 2
+D l 0:00.095 i 32
+F "Rim [Dancehall].wav" 69386 0 1532993568 0
+D t "Rim ( Lukrative 3 )" c "Recorded on 7/23/2018 in Edison." s 44100 n 2
+D l 0:00.195 i 32
+F "Rim [Fat].wav" 325126 0 1339512114 0
+D t "Vengeance Total Dance Sounds Vol. 3" a Vengeance-Sound d "please visit www.vengeance-sound.com for more" s 44100
+D n 2 l 0:01.841 i 16
+F "Rim [Front].wav" 73676 0 1514514604 0
+D s 44100 n 2 l 0:00.278 i 24
+F "Rim [Hard].wav" 41734 0 1541303948 0
+D c "Recorded on 4/11/2018 in Edison." s 44100 n 2 l 0:00.117
+D i 32
+F "Rim [Stutter].wav" 652356 0 1539147754 0
+D c "Modified by FL Studio 11" s 44100 n 2 l 0:01.848
+D i 32

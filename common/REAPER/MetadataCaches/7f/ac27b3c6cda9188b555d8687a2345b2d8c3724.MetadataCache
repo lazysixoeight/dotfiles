@@ -1,13 +1,13 @@
 C10018 "/home/lazy/Music/Samples/Renewed Amens/new amens/Slices/amen 1 sliced"
-F "AMEN 1 - hat 1.wav" 28094 0 1461508326 0
-D s 44100 n 2 l 0:00.079 i 32
-F "AMEN 1 - hat 2.wav" 25478 0 1461508326 0
-D s 44100 n 2 l 0:00.071 i 32
-F "AMEN 1 - hat 3.wav" 27982 0 1461508326 0
+F "AMEN 1 - hat 1.wav" 28094 0 315532800 0
 D s 44100 n 2 l 0:00.078 i 32
-F "AMEN 1 - hat 4.wav" 26966 0 1461508326 0
-D s 44100 n 2 l 0:00.076 i 32
-F "AMEN 1 - Kick.wav" 53302 0 1461508326 0
+F "AMEN 1 - hat 2.wav" 25478 0 315532800 0
+D s 44100 n 2 l 0:00.071 i 32
+F "AMEN 1 - hat 3.wav" 27982 0 315532800 0
+D s 44100 n 2 l 0:00.078 i 32
+F "AMEN 1 - hat 4.wav" 26966 0 315532800 0
+D s 44100 n 2 l 0:00.075 i 32
+F "AMEN 1 - Kick.wav" 53302 0 315532800 0
 D s 44100 n 2 l 0:00.150 i 32
-F "AMEN 1 - Snare.wav" 51830 0 1461508326 0
-D s 44100 n 2 l 0:00.146 i 32
+F "AMEN 1 - Snare.wav" 51830 0 315532800 0
+D s 44100 n 2 l 0:00.145 i 32

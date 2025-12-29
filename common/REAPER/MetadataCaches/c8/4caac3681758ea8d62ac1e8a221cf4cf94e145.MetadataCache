@@ -107,6 +107,36 @@ D n 2 l 0:00.718 i 24
 F 036_Snare_Tune1_Ton11_Snap3_Soft_-_TR909TDM_Zenhiser.wav 268954 0 1760247469 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
 D n 2 l 0:01.011 i 24
+F 037_Snare_Tune1_Ton11_Snap6_Hard_-_TR909TDM_Zenhiser.wav 270738 0 1760261700 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.018 i 24
+F 038_Snare_Tune1_Ton11_Snap6_Soft_-_TR909TDM_Zenhiser.wav 269956 0 1760261701 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.015 i 24
+F 039_Snare_Tune1_Ton11_Snap9_Hard_-_TR909TDM_Zenhiser.wav 270582 0 1760261702 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.017 i 24
+F 040_Snare_Tune1_Ton11_Snap9_Soft_-_TR909TDM_Zenhiser.wav 269268 0 1760261702 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.012 i 24
+F 041_Snare_Tune1_Ton11_Snap11_Hard_-_TR909TDM_Zenhiser.wav 270060 0 1760261704 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:01.015 i 24
+F 042_Snare_Tune1_Ton11_Snap11_Soft_-_TR909TDM_Zenhiser.wav 189650 0 1760261705 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.712 i 24
+F 043_Snare_Tune3_Ton1_Snap1_Hard_-_TR909TDM_Zenhiser.wav 248818 0 1760261707 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.935 i 24
+F 044_Snare_Tune3_Ton1_Snap1_Soft_-_TR909TDM_Zenhiser.wav 167688 0 1760261708 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.629 i 24
+F 045_Snare_Tune3_Ton1_Snap3_Hard_-_TR909TDM_Zenhiser.wav 182498 0 1760261709 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.685 i 24
+F 046_Snare_Tune3_Ton1_Snap3_Soft_-_TR909TDM_Zenhiser.wav 170104 0 1760445426 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.638 i 24
 F 060_Snare_Tune3_Ton3_Snap11_Soft_-_TR909TDM_Zenhiser.wav 269502 0 1760443682 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
 D n 2 l 0:01.013 i 24
@@ -341,6 +371,12 @@ D n 2 l 0:00.776 i 24
 F 160_Snare_Tune9_Ton9_Snap11_Soft_-_TR909TDM_Zenhiser.wav 268456 0 1760445415 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
 D n 2 l 0:01.009 i 24
+F 171_Snare_Tune11_Ton1_Snap3_Hard_-_TR909TDM_Zenhiser.wav 209178 0 1760445860 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.786 i 24
+F 172_Snare_Tune11_Ton1_Snap3_Soft_-_TR909TDM_Zenhiser.wav 185302 0 1760445862 0
+D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
+D n 2 l 0:00.695 i 24
 F 173_Snare_Tune11_Ton1_Snap6_Hard_-_TR909TDM_Zenhiser.wav 210002 0 1760445863 0
 D t "TR 909 - The Drum Machine" a Zenhiser g Drums s 44100
 D n 2 l 0:00.789 i 24

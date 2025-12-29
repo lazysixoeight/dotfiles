@@ -1,8 +1,14 @@
 -- Plugins to improve the user interface or experience
 
 return {
-  -- Bufferline
-  { "akinsho/bufferline.nvim",
+  -- Grant Sudo
+  {
+    'lambdalisue/vim-suda',
+    event = "VeryLazy"
+  },
+  --Bufferline
+  {
+    'akinsho/bufferline.nvim',
     opts = {
       offsets = {
         separator = true,
@@ -14,7 +20,8 @@ return {
     end
   },
   -- Indent lines
-  { "lukas-reineke/indent-blankline.nvim",
+  {
+    'lukas-reineke/indent-blankline.nvim',
     main = 'ibl',
     config = function()
       require('ibl').setup {
@@ -27,7 +34,8 @@ return {
     end
   },
   -- Colorizer
-  { "catgoose/nvim-colorizer.lua",
+  { 
+    'catgoose/nvim-colorizer.lua',
     event = "BufReadPre",
     config = function()
       require("colorizer").setup({
@@ -88,8 +96,17 @@ return {
         })
     end
   },
+  -- Statusline
+  {
+    'nvim-mini/mini.statusline',
+    version = '*',
+    config = function()
+      require('mini.statusline').setup()
+    end
+  },
   -- Fuzzy Finder (files, lsp, etc)
-  { 'nvim-telescope/telescope.nvim',
+  {
+    'nvim-telescope/telescope.nvim',
     event = 'VimEnter',
     dependencies = {
       'nvim-lua/plenary.nvim',

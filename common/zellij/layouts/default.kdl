@@ -1,0 +1,27 @@
+layout {
+    default_tab_template {
+        children
+        pane size=1 borderless=true {
+            plugin location="file:~/dotfiles/common/zellij/plugins/zjstatus.wasm" {
+                color_session "#fdfff1"
+                color_grey "#404040"
+                color_fg1 "#1d1e19"
+
+                format_left  "#[fg=#FFFFFF,bold]{mode}{tabs}"
+                format_right "#[fg=$grey,italic] {session} "
+
+                mode_locked "#[bg=#F92672,fg=$fg1,bold] {name} "
+                mode_normal "#[bg=#5596f1,fg=$fg1,bold] {name} "
+                mode_resize "#[bg=#FD971F,fg=$fg1,bold] {name} "
+                mode_default_to_mode "resize"
+
+                tab_normal "#[bg=#8A8A8A,fg=#000000] #[bg=#8A8A8A,fg=#000000,bold] {name} {sync_indicator}{fullscreen_indicator}{floating_indicator} #[bg=#000000,fg=#8A8A8A]"
+                tab_active "#[bg=#AFFF00,fg=#000000,bold] {name} {sync_indicator}{fullscreen_indicator}{floating_indicator} #[bg=#000000,fg=#AFFF00]"
+
+                tab_sync_indicator       " "
+                tab_fullscreen_indicator "□ "
+                tab_floating_indicator   "󰉈 "
+            }
+        }
+    }
+}

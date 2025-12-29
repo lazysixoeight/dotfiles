@@ -22,6 +22,7 @@ return {
         ensure_installed = {
           "lua",
           "nix",
+          "latex",
         },
         sync_install = false,
         auto_install = true,
@@ -184,7 +185,7 @@ return {
       local capabilities = require('blink.cmp').get_lsp_capabilities()
       local servers = {
         pylsp = {},
-        nil_ls = {},
+        --nil_ls = {},
         rust_analyzer = {},
         clangd = {},
         lua_ls = {

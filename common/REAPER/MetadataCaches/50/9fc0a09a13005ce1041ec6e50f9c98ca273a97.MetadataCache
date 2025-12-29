@@ -1,0 +1,102 @@
+C10018 "/home/lazy/Music/Samples/MZ Drum Kit 2019/Kick [100]"
+F "Kick [80's].wav" 63110 0 1503462044 0
+D t "HipHop Definition Vol 1" c "HipHop Definition Vol 1" s 44100 n 2
+D l 0:00.350 i 16 m 1
+F "Kick [808Fall].wav" 583978 0 1315832376 0
+D c http://www.nois3.com s 44100 n 2 l 0:02.206
+D i 24
+F "Kick [909Long].wav" 85064 0 1146595506 0
+D s 44100 n 2 l 0:00.481 i 16
+F "Kick [909Short].wav" 47144 0 1146595506 0
+D s 44100 n 2 l 0:00.266 i 16
+F "Kick [Abalone].wav" 437510 0 1443015414 0
+D y 2015-05-27 s 44100 n 1 r 18:36.973
+D l 0:03.164 i 24
+F "Kick [Agio].wav" 252802 0 1443015414 0
+D y 2015-05-27 s 44100 n 1 r 18:08.019
+D l 0:01.817 i 24
+F "Kick [Airy].wav" 242724 0 1346851666 0
+D s 44100 n 2 l 0:00.687 i 32
+F "Kick [Alien808].wav" 556978 0 1315832374 0
+D c http://www.nois3.com s 44100 n 2 l 0:02.104
+D i 24
+F "Kick [Ball].wav" 42772 0 1090884972 0
+D s 44100 n 2 l 0:00.242 i 16
+F "Kick [Bamby].wav" 299586 0 1512574347 0
+D s 44100 n 2 l 0:01.126 i 24
+F "Kick [Barbarians].wav" 455114 0 1512574347 0
+D s 44100 n 2 l 0:01.714 i 24
+F "Kick [Basement].wav" 98580 0 1424274738 0
+D s 44100 n 2 l 0:00.547 i 16
+F "Kick [BigA].wav" 168970 0 1478202408 0
+D s 44100 n 2 l 0:00.478 i 32
+F "Kick [BlackIce].wav" 219404 0 1512574348 0
+D s 44100 n 2 l 0:00.823 i 24
+F "Kick [Body].wav" 89742 0 1424274736 0
+D s 44100 n 1 l 0:01.000 i 16
+F "Kick [Boom].wav" 180772 0 1346851668 0
+D s 44100 n 2 l 0:00.512 i 32
+F "Kick [Boomy].wav" 224852 0 1491570098 0
+D c "Modified by FL Studio 11" s 48000 n 2 l 0:00.584
+D i 32
+F "Kick [Boulder].wav" 257572 0 1512657011 0
+D s 48000 n 2 l 0:00.666 i 32
+F "Kick [Brutus].wav" 801078 0 1512574347 0
+D s 44100 n 2 l 0:03.021 i 24
+F "Kick [Bustdown].wav" 49664 0 1532074450 0
+D t "DT - Bust (Kick)" c "Recorded on 7/12/2018 in Edison." s 44100 n 2
+D l 0:00.140 i 32
+F "Kick [CityLights].wav" 158678 0 1424274738 0
+D s 44100 n 2 l 0:00.582 i 24
+F "Kick [Clean].wav" 198754 0 1515347036 0
+D s 44100 n 2 l 0:00.750 i 24
+F "Kick [Clicky].wav" 606522 0 1506516648 0
+D s 44100 n 2 l 0:01.718 i 32
+F "Kick [Coldwire].wav" 42810 0 1512657011 0
+D s 44100 n 2 l 0:00.234 i 16
+F "Kick [Coliseum].wav" 210780 0 1512574347 0
+D s 44100 n 2 l 0:00.790 i 24
+F "Kick [Creeks].wav" 59626 0 1512657011 0
+D s 44100 n 2 l 0:00.219 i 24
+F "Kick [Dark].wav" 43508 0 1140079980 0
+D s 44100 n 2 l 0:00.246 i 16
+F "Kick [Darklight].wav" 290570 0 1512574347 0
+D s 44100 n 2 l 0:01.092 i 24
+F "Kick [Deep].wav" 74432 0 1515347035 0
+D s 44100 n 2 l 0:00.281 i 24
+F "Kick [Door].wav" 72764 0 1532074450 0
+D t "DT - DoorKnock (Kick)" c "Recorded on 7/17/2018 in Edison." s 44100 n 2
+D l 0:00.205 i 32
+F "Kick [Dope].wav" 31252 0 1181587214 0
+D s 44100 n 2 l 0:00.176 i 16
+F "Kick [Drum].wav" 57276 0 1331673398 0
+D s 44100 n 2 l 0:00.324 i 16
+F "Kick [Ekali].wav" 56744 0 1432699076 0
+D s 44100 n 2 l 0:00.214 i 24
+F "Kick [Energy].wav" 88468 0 1491568222 0
+D c "Modified by FL Studio 11" s 44100 n 2 l 0:00.250
+D i 32
+F "Kick [FaceTime].wav" 106892 0 1491567924 0
+D c "Modified by FL Studio 11" s 44100 n 2 l 0:00.302
+D i 32
+F "Kick [Faction].wav" 100230 0 1502836490 0
+D c "Recorded on 8/15/2017 in Edison." s 44100 n 2 l 0:00.283
+D i 32
+F "Kick [Filter].wav" 606554 0 1437935958 0
+D p 139.6361 s 44100 n 2 l 0:01.718
+D i 32
+F "Kick [Flux].wav" 409904 0 1512657011 0
+D s 44100 n 2 l 0:02.315 i 16
+F "Kick [Fluxion].wav" 57464 0 1424274737 0
+D s 44100 n 2 l 0:00.203 i 24
+F "Kick [Good].wav" 65926 0 1512574348 0
+D s 44100 n 2 l 0:00.227 i 24
+F "Kick [Gucci].wav" 267460 0 1545007286 0
+D c "Recorded on 12/15/2017 in Edison." s 44100 n 2 l 0:00.757
+D i 32
+F "Kick [Halo].wav" 604946 0 1532074450 0
+D s 44100 n 2 l 0:01.714 i 32
+F "Kick [Hatty].wav" 65930 0 1127463748 0
+D t Footsteps a "The Players Association" b "Born to Dance" y 1977
+D g Disco c "Vanguard LP 1977" s 44100 n 2
+D l 0:00.362 i 16

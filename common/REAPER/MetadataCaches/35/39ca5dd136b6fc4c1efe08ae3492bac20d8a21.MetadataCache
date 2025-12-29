@@ -1,0 +1,26 @@
+C10018 /home/lazy/.local/share/nicotine/downloads
+F "01 - The Worm.flac" 21712069 0 1763387289 0
+D t "The Worm" a "Jimmy McGriff" b "The Worm" y 1968
+D g Jazz c "EAC Secure Mode, Test & Copy, AccurateRip, FLAC -8" s 44100 n 2
+D l 3:21.053 i 16 m 01
+F "02 - Beep Street.flac" 39192647 0 1766372248 0
+D t "Beep Street" a Squarepusher b "Hard Normal Daddy" y 1997-04-28
+D g Idm s 44100 n 2 l 6:37.133
+D i 16 m 2
+F "02 - Flim.flac" 14253316 0 1766454580 0
+D t Flim a "Aphex Twin" b "Come To Daddy" y 1997
+D s 44100 n 2 l 2:57.211 i 16
+D m 02 j "mime:image/jpeg offset:51 length:103521"
+F "02 Spinning Wheel.flac" 49542234 0 1765450831 0
+D t "Spinning Wheel" a "Dr. Lonnie Smith" b Drives y 1970
+D g Jazz s 44100 n 2 l 7:35.906
+D i 16 m 2
+F "06 We're So Happy.m4a" 49970824 0 1763253994 0
+D s 44100 n 2 l 8:17.000
+F "183 Rotary Connection - Life Could.wav" 908300 0 1765261672 0
+D t "183 Rotary Connection - Life Could" y 2006-12-10 s 44100 n 2
+D l 0:05.139 i 16
+F "Ike Turner - A Black Man's Soul - B4 - Up Hard.mp3" 5573901 0 1765454851 0
+D t "Up Hard" a "Ike Turner & Kings Of Rhythm" b "A Black Man's Soul(Pompeii LP)" y 1969
+D g Instrumental c "mellow rip" s 44100 n 2
+D l 2:40.124 i 278k

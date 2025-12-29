@@ -1,0 +1,24 @@
+C10018 "/home/lazy/Music/Samples/Renewed Amens/old amens/Slices/old amens 3 slices"
+F "old amen 3 - hat 1.wav" 26670 0 315532800 0
+D s 44100 n 2 l 0:00.074 i 32
+F "old amen 3 - hat 2.wav" 26910 0 315532800 0
+D s 44100 n 2 l 0:00.075 i 32
+F "old amen 3 - hat 3.wav" 26710 0 315532800 0
+D s 44100 n 2 l 0:00.074 i 32
+F "old amen 3 - hat 4.wav" 26758 0 315532800 0
+D s 44100 n 2 l 0:00.074 i 32
+F "old amen 3 - kick 1.wav" 53248 0 315532800 0
+D s 44100 n 2 l 0:00.150 i 32
+F "old amen 3 - kick 2.wav" 53296 0 315532800 0
+D p 399.6375 s 44100 n 2 l 0:00.150
+D i 32
+F "old amen 3 - snare 1.wav" 53296 0 315532800 0
+D p 399.6375 s 44100 n 2 l 0:00.150
+D i 32
+F "old amen 3 - snare 2.wav" 53328 0 315532800 0
+D p 399.3962 s 44100 n 2 l 0:00.150
+D i 32
+F "old amen 3 - snare 2_2.wav" 53248 0 315532800 0
+D s 44100 n 2 l 0:00.150 i 32
+F "old amen 3 - snare 3.wav" 53232 0 315532800 0
+D s 44100 n 2 l 0:00.149 i 32
